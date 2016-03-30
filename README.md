@@ -1,6 +1,6 @@
-### Slides@Talk.CSS
+### Slides for Talk.CSS
 
-1. `git clone git@github.com:huijing/blank-html5.git`
+1. `git clone git@github.com:SingaporeCSS/slides.git`
 2. `npm install`
 3. `gulp`
 
