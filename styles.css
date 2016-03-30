@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'Hack';
+  src: url("../fonts/hack-regular.eot");
+  src: url("../fonts/hack-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-regular.woff2") format("woff2"), url("../fonts/hack-regular.woff") format("woff"), url("../fonts/hack-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit; }
+
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100%; }
+
+body {
+  font-family: "Hack", Arial, sans-serif;
+  height: 100%;
+  text-align: center; }
+
+p {
+  font-size: 2em; }
+
+a {
+  color: #1572b6;
+  text-decoration: none;
+  -webkit-transition: -webkit-transform 300ms;
+  transition: -webkit-transform 300ms;
+  transition: transform 300ms;
+  transition: transform 300ms, -webkit-transform 300ms;
+  word-wrap: break-word; }
+  a:hover {
+    text-decoration: underline;
+    -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+            transform: scale(1.2); }
+
+section[id^=slide]:target ~ #start {
+  display: none; }
+
+[id^=slide] {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1em;
+  position: absolute;
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  -webkit-transform-origin: 0 0;
+      -ms-transform-origin: 0 0;
+          transform-origin: 0 0;
+  -webkit-transition: opacity 0.8s, -webkit-transform 1s;
+  transition: opacity 0.8s, -webkit-transform 1s;
+  transition: transform 1s, opacity 0.8s;
+  transition: transform 1s, opacity 0.8s, -webkit-transform 1s;
+  width: 100%;
+  z-index: 0; }
+
+[id^=slide]:target {
+  -webkit-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+          transform: rotate(0deg);
+  z-index: 1; }
+
+[id^=slide]:target ~ [id^=slide] {
+  opacity: 0;
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg); }
+
+.o-wrapper {
+  width: 100%; }
+
+.c-logo-main {
+  height: 60vh;
+  min-height: 10em; }
+
+.c-logo-small {
+  height: 25vh;
+  min-height: 5em; }
