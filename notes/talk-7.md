@@ -21,4 +21,9 @@
         - According to the spec, certain flex items have definite sizes. If a child element of such a flex item uses percentage-based sizes, these are now handled correctly. A visual demo is available.
     - The non-standard results attribute for `<input type=search>` is now deprecated. In Chrome and Opera, it’s a purely cosmetic feature that adds a magnifier icon to the input field. In desktop Safari, it controls how many submitted queries are shown in a popup opened by clicking the magnifier icon.
 
- 
+- [CSS Containment in Chrome 52
+](https://developers.google.com/web/updates/2016/06/css-containment?hl=en)
+    - Lets developers limit the scope of the browser’s styles, layout and paint work.
+    - Available in Chrome 52+ and Opera 40+.
+    - Uses the `contain` keyword and supports 4 values, namely `contain: layout | paint | size | style`.
+    - Allows you to limit how much rendering work the browser needs to do.
