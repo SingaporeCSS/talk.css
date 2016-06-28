@@ -27,3 +27,4 @@
     - Available in Chrome 52+ and Opera 40+.
     - Uses the `contain` keyword and supports 4 values, namely `contain: layout | paint | size | style`.
     - Allows you to limit how much rendering work the browser needs to do.
+    - [CSS containment](https://justmarkup.com/log/2016/04/css-containment/) by [Michael Scharnagl](http://twitter.com/justmarkup)
