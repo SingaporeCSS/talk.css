@@ -13,3 +13,6 @@
         - color() function and profile at-rule, for profiled device-dependent color.
         - device-cmyk() function, for specifying uncalibrated colors in an output-device-specific CMYK colorspace.
         - Addition of named color rebeccapurple.
+
+generated content
+spring animation
