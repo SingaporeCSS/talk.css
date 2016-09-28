@@ -34,3 +34,7 @@
         + Implemented `<percentage>` for the `grid-gap`, `grid-row-gap`, and `grid-column-gap` properties
         + Implemented grid layout support for `align`, `justify-self:baseline` and `last-baseline` (aka "baseline self-alignment")
         + Implemented grid item baseline content alignment
+
+- [Chrome Canary now comes with a shadow editor](https://twitter.com/ChromeDevTools/status/775750774710075392)
+
+- [CSS properties for underline thickness and position is being worked on](https://github.com/w3c/csswg-drafts/issues/459)
