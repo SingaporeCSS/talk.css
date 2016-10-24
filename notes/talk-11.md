@@ -9,3 +9,11 @@
         + Renamed `scroll-snap-padding` to `scroll-padding` and extended its uses.
         + Removed renaming issues because nobody came up with a better alternative to `scroll-snap-type: mandatory | proximity` or `scroll-snap-stop: normal`.
         + Miscellaneous clarifications.
+
+- [CSSConf.Asia is just a month away](https://2016.cssconf.asia/)
+    + Have you bought your ticket yet?
+    + Talk.CSS attendees get a promo code
+
+- [Play with variable fonts on Webkit Nightly](https://webkit.org/nightly/)
+    + [Myles Maxfield](https://twitter.com/litherum) created a [variable fonts demo](http://litherum.blogspot.com.ar/2016/09/variation-fonts-demo.html) which you can try out on the latest Webkit Nightly
+    + [David Jonathan Ross](https://djr.com/) [also built one](http://stuff.djr.com/variable-demo/)

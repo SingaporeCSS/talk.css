@@ -19,12 +19,12 @@
     + [Agenda of TPAC 2016](https://wiki.csswg.org/planning/tpac-2016)
     + [CSS Region specification proposal to CSSWG, Sept 2016 by Jen Simmons](https://speakerdeck.com/jensimmons/proposal-to-csswg-sept-2016)
     
-- [HTML & CSS-related updates for developers in Opera 40](https://dev.opera.com/blog/opera-39/)
+- [HTML & CSS-related updates for developers in Opera 40](https://dev.opera.com/blog/opera-40/)
     - Improved <input pattern="…">, now with better unicode support, i.e. you can use emojis in the pattern attribute
     - The CSS `filter` property is now supported in its unprefixed form.
     - CSS `-webkit-user-select: all` now supported, i.e. behaviour similar to `HTMLInputElement.select()`
 
-- [HTML & CSS-related updates for developers in Firefox 49](https://developer.mozilla.org/en-US/Firefox/Releases/48)
+- [HTML & CSS-related updates for developers in Firefox 49](https://developer.mozilla.org/en-US/Firefox/Releases/49)
     - Added support for the `<details>` and `<summary>` elements
     - The `<iframe>` element's sandbox attribute now supports the `allow-popups-to-escape-sandbox'` and `allow-modals` values
     - Added `background-position-x` and `background-position-y`, which allow separately specifying the horizontal and vertical offsets at which to draw a background image
