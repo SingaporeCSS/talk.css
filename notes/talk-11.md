@@ -10,6 +10,11 @@
         + Removed renaming issues because nobody came up with a better alternative to `scroll-snap-type: mandatory | proximity` or `scroll-snap-stop: normal`.
         + Miscellaneous clarifications.
 
+- [CSS Table Module Level 3 first public working draft](https://www.w3.org/TR/2016/WD-css-tables-3-20161025/)
+    + Note the specification is not production ready, but exists to record ideas and promote discussion
+    + Follow along to see how a specification develops from an idea to your browser
+    + The CSS table module defines a two-dimensional grid-based layout system, optimized for tabular data rendering
+
 - [CSSConf.Asia is just a month away](https://2016.cssconf.asia/)
     + Have you bought your ticket yet?
     + Talk.CSS attendees get a promo code
