@@ -26,4 +26,4 @@ Editor’s Draft](https://drafts.csswg.org/css-round-display/)
     - Unprefixed CSS user-select
         - You can now use user-select instead of -webkit-user-select in CSS. The user-select property makes it possible to specify which elements in the document can be selected by the user and how.
 
-
+- [Bug fix: checkbox and radio on Firefox can now be styled with CSS](https://bugzilla.mozilla.org/show_bug.cgi?id=418833)

@@ -28,11 +28,13 @@ html {
 body {
   font-family: $base-font;
   height: 100%;
+  font-size: 2em;
   text-align: center;
+  overflow: hidden;
 }
 
-p {
-  font-size: 2em;
+h1 {
+  font-size: 1.5em;
 }
 
 a {
@@ -80,9 +82,29 @@ section[id^=slide]:target ~ #start {
   width: 100%;
 }
 
+.o-controls {
+  font-size: 50%;
+  margin: 0 1em;
+}
+
+.l-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.l-title {
+  flex: 1 0 100%;
+}
+
 .c-logo-main {
   height: 60vh;
   min-height: 10em;
+}
+
+.c-logo-big {
+  height: 45vh;
+  min-height: 7.5em;
 }
 
 .c-logo-small {
