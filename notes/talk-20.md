@@ -1,6 +1,6 @@
 # HTML and CSS News for August 2017
 
-- [HTML & CSS-related updates for developers in Firefox 55](https://developer.mozilla.org/en-US/Firefox/Releases/54)
+- [HTML & CSS-related updates for developers in Firefox 55](https://developer.mozilla.org/en-US/Firefox/Releases/55)
     + Implemented the frames() timing function (bug 1248340).
     + Implemented the text-justify property (bug 1343512, bug 276079).
     + The float / clear logical values — inline-start and inline-end — which were previously implemented but preffed off in release channels, are now available in all channels by default (bug 1253919).
