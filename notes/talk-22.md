@@ -33,4 +33,8 @@
         + boxes with shadows
 
 - [CSS Flexible Box Layout Level 1 Candidate Recommendation updated](https://www.w3.org/TR/css-flexbox-1/#changes-20160526)
-    + 
+    + 15 substantial changes and bug fixes
+    + 3 clarifications
+    + [Disposition of comments](https://drafts.csswg.org/css-flexbox-1/issues-cr-20160526)
+
+- [The Story of CSS Grid, from Its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators)
