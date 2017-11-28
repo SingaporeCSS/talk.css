@@ -1,1 +1,327 @@
-@font-face{font-family:Hack;src:url(../fonts/hack-regular.eot);src:url(../fonts/hack-regular.eot?#iefix) format("embedded-opentype"),url(../fonts/hack-regular.woff2) format("woff2"),url(../fonts/hack-regular.woff) format("woff"),url(../fonts/hack-regular.ttf) format("truetype");font-weight:400;font-style:normal}*,:after,:before{box-sizing:inherit}html{box-sizing:border-box}body,html{height:100%}body{font-family:Hack,Arial,sans-serif;font-size:2em;text-align:center;overflow:hidden}h1{font-size:1.5em}a{color:#1572b6;text-decoration:none;-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s;word-wrap:break-word}a:hover{text-decoration:underline;-webkit-transform:scale(1.2);transform:scale(1.2)}section[id^=slide]:target~#start{display:none}[id^=slide]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;height:100%;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:1em;position:absolute;-webkit-transform:rotate(90deg);transform:rotate(90deg);-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-transition:opacity .8s,-webkit-transform 1s;transition:opacity .8s,-webkit-transform 1s;transition:transform 1s,opacity .8s;transition:transform 1s,opacity .8s,-webkit-transform 1s;width:100%;z-index:0}[id^=slide]:target{-webkit-transform:rotate(0deg);transform:rotate(0deg);z-index:1}[id^=slide]:target~[id^=slide]{opacity:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.o-wrapper{width:100%}.o-controls{font-size:50%;margin:0 1em}.l-flex{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.l-title{-webkit-box-flex:1;-ms-flex:1 0 100%;flex:1 0 100%}.c-logo-main{height:60vh;min-height:10em}.c-logo-big{height:45vh;min-height:7.5em;max-width:85vw}.c-logo-small{height:25vh;min-height:5em}
+@font-face {
+  font-family: 'Hack';
+  src: url("../fonts/hack-regular.eot");
+  src: url("../fonts/hack-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-regular.woff2") format("woff2"), url("../fonts/hack-regular.woff") format("woff"), url("../fonts/hack-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gilbert';
+  src: url("../fonts/gilbert-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal; }
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit; }
+
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100%; }
+
+body {
+  font-family: "Hack", Arial, sans-serif;
+  height: 100%;
+  font-size: 2em;
+  text-align: center;
+  overflow: hidden; }
+
+h1 {
+  font-size: 1.5em; }
+
+a {
+  color: #1572b6;
+  text-decoration: none;
+  -webkit-transition: -webkit-transform 300ms;
+  transition: -webkit-transform 300ms;
+  -o-transition: transform 300ms;
+  transition: transform 300ms;
+  transition: transform 300ms, -webkit-transform 300ms;
+  word-wrap: break-word; }
+  a:hover {
+    text-decoration: underline;
+    -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+            transform: scale(1.2); }
+
+section[id^=slide]:target ~ #start {
+  display: none; }
+
+[id^=slide] {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1em;
+  position: absolute;
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  -webkit-transform-origin: 0 0;
+      -ms-transform-origin: 0 0;
+          transform-origin: 0 0;
+  -webkit-transition: opacity 0.8s, -webkit-transform 1s;
+  transition: opacity 0.8s, -webkit-transform 1s;
+  -o-transition: transform 1s, opacity 0.8s;
+  transition: transform 1s, opacity 0.8s;
+  transition: transform 1s, opacity 0.8s, -webkit-transform 1s;
+  width: 100%;
+  z-index: 0; }
+
+[id^=slide]:target {
+  -webkit-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+          transform: rotate(0deg);
+  z-index: 1; }
+
+[id^=slide]:target ~ [id^=slide] {
+  opacity: 0;
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg); }
+
+.o-wrapper {
+  width: 100%; }
+
+.o-controls {
+  font-size: 50%;
+  margin: 0 1em; }
+
+.l-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+
+.l-title {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 100%;
+      -ms-flex: 1 0 100%;
+          flex: 1 0 100%; }
+
+.c-logo-main {
+  height: 60vh;
+  min-height: 10em; }
+
+.c-logo-big {
+  height: 45vh;
+  min-height: 7.5em;
+  max-width: 85vw; }
+
+.c-logo-small {
+  height: 25vh;
+  min-height: 5em; }
+
+.party-grid {
+  display: grid;
+  grid-template-columns: 25vw 25vw;
+  grid-template-rows: 30vh 30vh;
+  grid-template-areas: "logo turns" "logo age";
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  .party-grid img {
+    grid-area: logo; }
+  .party-grid span:nth-child(2) {
+    grid-area: turns;
+    font-size: 450%; }
+  .party-grid span:nth-child(3) {
+    grid-area: age;
+    font-size: 450%; }
+
+.gilbert {
+  font-family: "Gilbert", Arial, sans-serif;
+  font-size: 150%; }
+
+.jsconf-asia {
+  background-color: black;
+  height: 30rem;
+  width: 30rem;
+  -webkit-border-radius: 0.5rem;
+          border-radius: 0.5rem;
+  position: relative;
+  -webkit-box-shadow: 1rem 1rem 0.5rem #444;
+          box-shadow: 1rem 1rem 0.5rem #444;
+  -webkit-transform: scale(0.85);
+      -ms-transform: scale(0.85);
+          transform: scale(0.85); }
+  .jsconf-asia svg {
+    height: 46.0317%; }
+    .jsconf-asia svg path {
+      fill: white; }
+  .jsconf-asia svg:first-child,
+  .jsconf-asia svg:nth-child(2) {
+    position: absolute;
+    bottom: 7.9365%; }
+  .jsconf-asia svg:first-child {
+    left: 26.1905%;
+    width: 28.5714%; }
+  .jsconf-asia svg:nth-child(2) {
+    right: 7.9365%;
+    width: 32.5397%; }
+  .jsconf-asia .background {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+    .jsconf-asia .background div:nth-child(1) {
+      border: 0.5rem solid #56aaeb;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #56aaeb, inset 0 0 0.5rem #56aaeb, 0 0 1rem #56aaeb, inset 0 0 1rem #56aaeb, 0 0 2rem #56aaeb, inset 0 0 2rem #56aaeb;
+              box-shadow: 0 0 0.5rem #56aaeb, inset 0 0 0.5rem #56aaeb, 0 0 1rem #56aaeb, inset 0 0 1rem #56aaeb, 0 0 2rem #56aaeb, inset 0 0 2rem #56aaeb; }
+    .jsconf-asia .background div:nth-child(2) {
+      border: 0.5rem solid #256bc4;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #256bc4, inset 0 0 0.5rem #256bc4, 0 0 1rem #256bc4, inset 0 0 1rem #256bc4, 0 0 2rem #256bc4, inset 0 0 2rem #256bc4;
+              box-shadow: 0 0 0.5rem #256bc4, inset 0 0 0.5rem #256bc4, 0 0 1rem #256bc4, inset 0 0 1rem #256bc4, 0 0 2rem #256bc4, inset 0 0 2rem #256bc4; }
+    .jsconf-asia .background div:nth-child(3) {
+      border: 0.5rem solid #9ae0ff;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #9ae0ff, inset 0 0 0.5rem #9ae0ff, 0 0 1rem #9ae0ff, inset 0 0 1rem #9ae0ff, 0 0 2rem #9ae0ff, inset 0 0 2rem #9ae0ff;
+              box-shadow: 0 0 0.5rem #9ae0ff, inset 0 0 0.5rem #9ae0ff, 0 0 1rem #9ae0ff, inset 0 0 1rem #9ae0ff, 0 0 2rem #9ae0ff, inset 0 0 2rem #9ae0ff; }
+    .jsconf-asia .background div:nth-child(4) {
+      border: 0.5rem solid #021c7f;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #021c7f, inset 0 0 0.5rem #021c7f, 0 0 1rem #021c7f, inset 0 0 1rem #021c7f, 0 0 2rem #021c7f, inset 0 0 2rem #021c7f;
+              box-shadow: 0 0 0.5rem #021c7f, inset 0 0 0.5rem #021c7f, 0 0 1rem #021c7f, inset 0 0 1rem #021c7f, 0 0 2rem #021c7f, inset 0 0 2rem #021c7f; }
+    .jsconf-asia .background div:nth-child(5) {
+      border: 0.5rem solid #256bc3;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #256bc3, inset 0 0 0.5rem #256bc3, 0 0 1rem #256bc3, inset 0 0 1rem #256bc3, 0 0 2rem #256bc3, inset 0 0 2rem #256bc3;
+              box-shadow: 0 0 0.5rem #256bc3, inset 0 0 0.5rem #256bc3, 0 0 1rem #256bc3, inset 0 0 1rem #256bc3, 0 0 2rem #256bc3, inset 0 0 2rem #256bc3; }
+    .jsconf-asia .background div:nth-child(6) {
+      border: 0.5rem solid #ffed2a;
+      -webkit-border-radius: 0.5rem;
+              border-radius: 0.5rem;
+      -webkit-box-shadow: 0 0 0.5rem #ffed2a, inset 0 0 0.5rem #ffed2a, 0 0 1rem #ffed2a, inset 0 0 1rem #ffed2a, 0 0 2rem #ffed2a, inset 0 0 2rem #ffed2a;
+              box-shadow: 0 0 0.5rem #ffed2a, inset 0 0 0.5rem #ffed2a, 0 0 1rem #ffed2a, inset 0 0 1rem #ffed2a, 0 0 2rem #ffed2a, inset 0 0 2rem #ffed2a; }
+    .jsconf-asia .background div {
+      height: 100%;
+      float: left;
+      margin-right: 2%; }
+    .jsconf-asia .background div:first-child {
+      width: 10%; }
+    .jsconf-asia .background div:nth-child(2) {
+      width: 19%; }
+    .jsconf-asia .background div:nth-child(3) {
+      width: 4%; }
+    .jsconf-asia .background div:nth-child(4) {
+      width: 28%; }
+    .jsconf-asia .background div:nth-child(5) {
+      width: 10%; }
+    .jsconf-asia .background div:nth-child(6) {
+      width: 19%;
+      margin-right: 0; }
+  .jsconf-asia .js {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+  @supports ((-webkit-filter: drop-shadow(0 0 1vmin gray)) or (filter: drop-shadow(0 0 1vmin gray))) {
+    .jsconf-asia svg {
+      -webkit-filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white);
+              filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white); }
+    .jsconf-asia .flicker {
+      -webkit-animation: flicker 10s infinite;
+              animation: flicker 10s infinite; }
+    .jsconf-asia .light {
+      -webkit-animation: light 10s infinite;
+              animation: light 10s infinite; } }
+  @supports (display: grid) and (not (display: -ms-grid)) {
+    .jsconf-asia .background {
+      display: grid;
+      grid-template-rows: 30rem;
+      grid-template-columns: 3rem 5.7rem 1.2rem 8.4rem 3rem 5.7rem;
+      grid-gap: 0.6rem; }
+      .jsconf-asia .background div {
+        float: initial;
+        height: initial;
+        margin: initial; }
+      .jsconf-asia .background div:nth-child(1) {
+        width: initial; }
+      .jsconf-asia .background div:nth-child(2) {
+        width: initial; }
+      .jsconf-asia .background div:nth-child(3) {
+        width: initial; }
+      .jsconf-asia .background div:nth-child(4) {
+        width: initial; }
+      .jsconf-asia .background div:nth-child(5) {
+        width: initial; }
+      .jsconf-asia .background div:nth-child(6) {
+        width: initial; }
+    .jsconf-asia .js {
+      display: grid;
+      grid-template-rows: 13.80952rem 13.80952rem 2.38096rem;
+      grid-template-columns: 7.85714rem 8.57142rem 1.42857rem 9.76190rem 2.38097rem; }
+    .jsconf-asia svg {
+      max-width: 100%; }
+    .jsconf-asia svg:first-child,
+    .jsconf-asia svg:nth-child(2) {
+      position: initial;
+      height: initial;
+      width: initial; }
+    .jsconf-asia svg:first-child {
+      grid-row: 2;
+      grid-column: 2 / 3; }
+    .jsconf-asia svg:nth-child(2) {
+      grid-row: 2;
+      grid-column: 4 / 5; } }
+
+@-webkit-keyframes flicker {
+  21%, 39%, 45%, 47% {
+    -webkit-filter: none;
+            filter: none; }
+  18%, 26%, 38%, 40%, 44%, 46%, 48% {
+    -webkit-filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white);
+            filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white); } }
+
+@keyframes flicker {
+  21%, 39%, 45%, 47% {
+    -webkit-filter: none;
+            filter: none; }
+  18%, 26%, 38%, 40%, 44%, 46%, 48% {
+    -webkit-filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white);
+            filter: drop-shadow(0 0 0.5rem gray) drop-shadow(0 0 0.75rem white) drop-shadow(0 0 1rem white); } }
+
+@-webkit-keyframes light {
+  21%, 39%, 45%, 47% {
+    fill: gray; }
+  18%, 26%, 38%, 40%, 44%, 46%, 48% {
+    fill: white; } }
+
+@keyframes light {
+  21%, 39%, 45%, 47% {
+    fill: gray; }
+  18%, 26%, 38%, 40%, 44%, 46%, 48% {
+    fill: white; } }

@@ -20,7 +20,7 @@ gulp.task('browser-sync', ['sass', 'scripts'], function() {
  * Compile files from scss
  */
 gulp.task('sass', function () {
-  return gulp.src('scss/styles.scss')
+  return gulp.src(['scss/styles.scss'])
   .pipe(sass({
     includePaths: ['scss'],
     onError: browserSync.notify
@@ -31,7 +31,7 @@ gulp.task('sass', function () {
 });
 
 gulp.task('sass-prod', function () {
-  return gulp.src('scss/styles.scss')
+  return gulp.src(['scss/styles.scss'])
   .pipe(sass({
     includePaths: ['scss'],
     onError: browserSync.notify
