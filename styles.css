@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Hack';
-  src: url("../fonts/hack-regular.eot");
-  src: url("../fonts/hack-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/hack-regular.woff2") format("woff2"), url("../fonts/hack-regular.woff") format("woff"), url("../fonts/hack-regular.ttf") format("truetype");
+  font-family: 'League Mono';
+  src: url("../fonts/leaguemono-regular.eot");
+  src: url("../fonts/leaguemono-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/leaguemono-regular.woff2") format("woff2"), url("../fonts/leaguemono-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
@@ -23,7 +23,7 @@ html {
   height: 100%; }
 
 body {
-  font-family: "Hack", Arial, sans-serif;
+  font-family: "League Mono", Courier, monospace;
   height: 100%;
   font-size: 2em;
   text-align: center;

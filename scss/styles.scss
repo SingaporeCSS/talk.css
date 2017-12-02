@@ -1,12 +1,11 @@
 @charset 'utf-8';
 
 @font-face {
-  font-family: 'Hack';
-  src: url('../fonts/hack-regular.eot');
-  src: url('../fonts/hack-regular.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/hack-regular.woff2') format('woff2'),
-       url('../fonts/hack-regular.woff') format('woff'),
-       url('../fonts/hack-regular.ttf') format('truetype');
+  font-family: 'League Mono';
+  src: url('../fonts/leaguemono-regular.eot');
+  src: url('../fonts/leaguemono-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/leaguemono-regular.woff2') format('woff2'),
+       url('../fonts/leaguemono-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -18,7 +17,7 @@
   font-style: normal;
 }
 
-$base-font: 'Hack', Arial, sans-serif;
+$base-font: 'League Mono', Courier, monospace;
 $special-font: 'Gilbert', Arial, sans-serif;
 $main-colour: #1572b6;
 
