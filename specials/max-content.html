@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Talk.CSS max-content</title>
+    <style>
+      html {
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        height: 100vh;
+        background-image: url('img/tile.png');
+        background-repeat: repeat;
+        background-size: 12em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      header {
+        display: grid;
+        grid-template-columns: min-content max-content;
+        grid-template-rows: min-content 1fr min-content;
+        grid-template-areas: 'a a'
+                             'b c'
+                             'd d';
+        grid-gap: 0.5em;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 2.5em;
+      }
+
+      header p {
+        font-family: 'iA Writer Duospace';
+        font-size: 1.5em;
+        line-height: 1;
+        color: #1572b6;
+      }
+
+      header p:first-child {
+        grid-area: a;
+      }
+
+      header p:last-child {
+        grid-area: d;
+      }
+
+      header img {
+        margin: auto;
+        height: 30vh;
+        grid-area: b;
+      }
+
+      header div {
+        grid-area: c;
+      }
+
+      header h1 {
+        font-family: 'iA Writer Duospace';
+        font-size: 4em;
+        line-height: 1;
+      }
+
+      header code {
+        font-family: 'Gilbert Color';
+        font-size: 6em;
+        line-height: 1;
+      }
+
+      main {
+        display: grid;
+        grid-template-columns: repeat(6, 10vw);
+        grid-template-rows: min-content min-content min-content;
+        grid-template-areas: '. a a a a .'
+                             'b b c c d d'
+                             '. e e f f .';
+        grid-gap: 1.5em;
+        justify-content: center;
+        align-items: center;
+        justify-items: center;
+      }
+
+      main h2 {
+        font-family: 'iA Writer Duospace';
+        font-size: 2em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <p>SingaporeCSS presents</p>
+      <img src="img/logo.svg">
+      <div>
+        <h1>Talk.CSS</h1>
+        <code>max-content</code>
+      </div>
+      <p>⭐️ January 23, 2018 ⭐️</p>
+    </header>
+    <main>
+      <h2 style="grid-area:a">Brought to you by</h2>
+      <img style="height:12vh;grid-area:b;" src="img/mozilla.svg">
+      <img style="height:12vh;grid-area:c" src="img/spdigital.svg">
+      <img style="height:16vh;grid-area:d" src="img/angel.svg">
+      <img style="height:6vh;grid-area:e" src="img/microsoft.svg">
+      <img style="height:4vh;grid-area:f" src="img/wantedly.svg">
+    </main>
+  </body>
+
+</html>

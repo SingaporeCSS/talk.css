@@ -1,122 +1,97 @@
 <!doctype html>
+
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Talk.CSS max-content</title>
-    <style>
-      html {
-        box-sizing: border-box;
-      }
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      *,
-      *::before,
-      *::after {
-        box-sizing: inherit;
-        margin: 0;
-        padding: 0;
-      }
+  <title>Talk.CSS slides</title>
+  <meta name="description" content="Introduction slides for Talk.CSS">
+  <meta name="author" content="SingaporeCSS">
 
-      body {
-        height: 100vh;
-        background-image: url('img/tile.png');
-        background-repeat: repeat;
-        background-size: 12em;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-      }
+  <link rel="stylesheet" href="styles.css">
 
-      header {
-        display: grid;
-        grid-template-columns: min-content max-content;
-        grid-template-rows: min-content 1fr min-content;
-        grid-template-areas: 'a a'
-                             'b c'
-                             'd d';
-        grid-gap: 0.5em;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        margin-bottom: 2.5em;
-      }
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
 
-      header p {
-        font-family: 'iA Writer Duospace';
-        font-size: 1.5em;
-        line-height: 1;
-        color: #1572b6;
-      }
+<body>
 
-      header p:first-child {
-        grid-area: a;
-      }
+  <section id="slide1">
+    <div class="o-wrapper">
+      <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
+      <p><a href="https://twitter.com/singaporecss">@SingaporeCSS</a></p>
+      <p><a href="http://twitter.com/intent/tweet?text=%23TalkCSS">#TalkCSS</a></p>
+    </div>
+    <a class="o-controls" href="#slide2">Next</a>
+  </section>
 
-      header p:last-child {
-        grid-area: d;
-      }
+  <section id="slide2">
+    <div class="o-wrapper">
+      <h1>Join us</h1>
+      <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
+      <p><a href="https://gitter.im/Singapore-CSS/discussions">https://gitter.im/Singapore-CSS/discussions</a></p>
+      <p><a href="http://singaporecss.github.io">http://singaporecss.github.io</a></p>
+    </div>
+    <a class="o-controls" href="#slide1">Back</a>
+    <a class="o-controls" href="#slide3">Next</a>
+    <!--<span>vheee</span>-->
+  </section>
 
-      header img {
-        margin: auto;
-        height: 30vh;
-        grid-area: b;
-      }
+  <section id="slide3">
+    <div class="o-wrapper l-flex">
+      <h1 class="l-title">Shout-outs</h1>
+      <figure>
+        <img src="img/webuildsg.svg" alt="webuild.sg logo" class="c-logo-big">
+        <figcaption>webuild.sg</figcaption>
+      </figure>
+      <figure>
+        <img srcset="img/engineerssg@2x.png 2x" src="img/engineerssg.png" alt="Engineers.sg logo" class="c-logo-big">
+        <figcaption>Engineers.sg</figcaption>
+      </figure>
+      <figure>
+        <img src="img/cheeaun.svg" alt="Chee Aun's logo" class="c-logo-big">
+        <figcaption>Chee Aun</figcaption>
+      </figure>
+    </div>
+    <a class="o-controls" href="#slide2">Back</a>
+    <a class="o-controls" href="#slide4">Next</a>
+  </section>
 
-      header div {
-        grid-area: c;
-      }
+  <section id="slide4">
+    <div class="o-wrapper">
+      <h1>Host of the month</h1>
+      <figure>
+        <img style="object-fit:contain;" src="img/wantedly.svg" alt="Wantedly" class="c-logo-big">
+        <figcaption>Wantedly Singapore</figcaption>
+      </figure>
+    </div>
+    <a class="o-controls" href="#slide3">Back</a>
+    <a class="o-controls" href="#slide5">Next</a>
+  </section>
 
-      header h1 {
-        font-family: 'iA Writer Duospace';
-        font-size: 4em;
-        line-height: 1;
-      }
+  <section id="slide5" style="background-color:lime;">
+    <div class="o-wrapper">
+      <h1>CSS colour of the month</h1>
+      <p>lime</p>
+      <p>#00FF00</p>
+      <p>rgba(0,255,0,1)</p>
+    </div>
+    <a class="o-controls"" href="#slide4">Back</a>
+    <a class="o-controls"" href="#slide6">Next</a>
+  </section>
 
-      header code {
-        font-family: 'Gilbert Color';
-        font-size: 6em;
-        line-height: 1;
-      }
+  <section id="slide6">
+    <div class="o-wrapper">
+      <h1>Announcements</h1>
+    </div>
+    <a class="o-controls" href="#slide5">Back</a>
+  </section>
 
-      main {
-        display: grid;
-        grid-template-columns: repeat(6, 10vw);
-        grid-template-rows: min-content min-content min-content;
-        grid-template-areas: '. a a a a .'
-                             'b b c c d d'
-                             '. e e f f .';
-        grid-gap: 1.5em;
-        justify-content: center;
-        align-items: center;
-        justify-items: center;
-      }
-
-      main h2 {
-        font-family: 'iA Writer Duospace';
-        font-size: 2em;
-      }
-    </style>
-  </head>
-
-  <body>
-    <header>
-      <p>SingaporeCSS presents</p>
-      <img src="img/logo.svg">
-      <div>
-        <h1>Talk.CSS</h1>
-        <code>max-content</code>
-      </div>
-      <p>⭐️ January 23, 2018 ⭐️</p>
-    </header>
-    <main>
-      <h2 style="grid-area:a">Brought to you by</h2>
-      <img style="height:12vh;grid-area:b;" src="img/mozilla.svg">
-      <img style="height:12vh;grid-area:c" src="img/spdigital.svg">
-      <img style="height:16vh;grid-area:d" src="img/angel.svg">
-      <img style="height:6vh;grid-area:e" src="img/microsoft.svg">
-      <img style="height:4vh;grid-area:f" src="img/wantedly.svg">
-    </main>
-  </body>
+  <section id="start">
+    <a href="#slide1">Start</a>
+  </section>
+</body>
 
 </html>
