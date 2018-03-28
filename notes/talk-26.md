@@ -21,7 +21,7 @@
     + Added new CSS `env()` constants for use with fullscreen (r229475)
     + Fixed `::selection` CSS `stroke-color` and `stroke-width` to be applied to selected text in text fields (r229147)
 
-- [Intrinsic & Extrinsic Sizing Level 3 Working Draft updated](https://www.w3.org/TR/selectors-4/)
+- [Intrinsic & Extrinsic Sizing Level 3 Working Draft updated](https://www.w3.org/TR/css-sizing-3/)
     + CSS layout has several different concepts of automatic sizing that are used in various layout calculations
     + defines some more precise terminology to help connect the layout behaviours of this spec to the calculations used in other modules
     + defines some new keywords for the `width` and `height` properties to allow authors to assign elements the dimensions resulting from these size calculations
