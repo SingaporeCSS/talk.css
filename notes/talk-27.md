@@ -33,3 +33,6 @@
 
 - [CSS Display Module Level 3 Working Draft updated](https://www.w3.org/TR/css-display-3/)
     + describes how the CSS formatting box tree is generated from the document element tree and defines the `display` property that controls it.
+
+- [Introducing the Accessibility Inspector in the Firefox Developer Tools](https://www.marcozehe.de/2018/04/11/introducing-the-accessibility-inspector-in-the-firefox-developer-tools/)
+- [The `shape-outside` CSS property enabled in Firefox Nightly](https://bugzilla.mozilla.org/show_bug.cgi?id=1353631)
