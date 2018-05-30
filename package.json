@@ -9,7 +9,7 @@
   "author": "SingaporeCSS <singaporecss@outlook.com>",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.24.1",
+    "browser-sync": "^2.24.4",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-concat": "^2.6.1",
