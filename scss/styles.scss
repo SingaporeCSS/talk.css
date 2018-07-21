@@ -119,3 +119,40 @@ section[id^=slide]:target ~ #start {
   height: 25vh;
   min-height: 5em;
 }
+
+.o-emoji {
+  font-size: calc(1.75em + 3vw);
+  display: inline-block;
+  vertical-align: middle;
+  font-family: 'Apple Color Emoji', 'Segoe UI Emoji';
+}
+
+span[role=img][aria-label],
+span[role=img][aria-label] {
+  position: relative;
+}
+
+span[role=img][aria-label]:focus::after,
+span[role=img][aria-label]:hover::after {
+  font-size: 1rem;
+  font-family: $base-font;
+  font-weight: 400;
+  position: absolute;
+  display: block;
+  line-height: 1.2;
+  content: attr(aria-label);
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  background-color: $main-colour;
+  color: #fff;
+  padding: 0.25em;
+  border: 1px solid #fff;
+  box-shadow: 2px 2px 4px #000;
+}
+
+@media print {
+  span[role=img][aria-label]::after {
+    content: ' (' attr(aria-label) ') ';
+  }
+}
