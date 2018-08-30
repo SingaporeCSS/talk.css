@@ -21,6 +21,13 @@
     + margin/padding/border/content areas synced to CSS2
     + prose adapted to cater for vertical writing modes
 
+- [CSS Display Module Level 3 Candidate Recommendation published](https://www.w3.org/TR/css-display-3/)
+    + describes how the CSS formatting box tree is generated from the document element tree and defines properties that control the types of boxes thus generated.
+    + adds new two-keyword syntaxes for various display types
+    + inline list-items (partially defined here)
+    + run-ins
+    + `display: contents`, to replace an element with its contents 
+
 - [CSS Scroll Snapping Level 1 Candidate Recommendation updated](http://www.w3.org/TR/css-scroll-snap-1)
     + contains features to control panning and scrolling behavior with “snap positions”
 
@@ -37,3 +44,6 @@
 - [CSS Logical Properties and Values Level 1 Working Draft updated](http://www.w3.org/TR/css-logical-1)
     + introduces properties and values that control layout through
 logical (writing-mode–relative), rather than physical, direction and dimension mappings
+
+- [CSS Cascading and Inheritance Level 3 Candidate Recommendation updated](https://www.w3.org/TR/css-cascade-3/), [CSS Cascading and Inheritance Level 4 Candidate Recommendation updated](https://www.w3.org/TR/css-cascade-4/)
+    + describes how to collate style rules and assign values to all properties on all elements by way of cascading (choosing a winning declaration among many) and inheritance (propagating values from parent to child)
