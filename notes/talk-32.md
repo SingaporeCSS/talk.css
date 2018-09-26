@@ -12,4 +12,7 @@
     + defines properties for text manipulation and specifies their processing model. It covers line breaking, justification and alignment, white space handling, and text transformation.
 
 - [Flexbox: How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
-    + Rachel Andrew covers how Flexbox decides how big things should be, a must-read for this month
+    + [Rachel Andrew](https://rachelandrew.co.uk/) covers how Flexbox decides how big things should be, a must-read for this month
+
+- [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+    + A four-part series on the internals of a browser by [Mariko Kosaka](https://kosamari.com/)
