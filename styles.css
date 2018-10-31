@@ -169,7 +169,7 @@ span[role=img][aria-label]:hover::after {
     content: " (" attr(aria-label) ") "; } }
 
 .halloween section {
-  background-image: url("../img/halloween-bg.jpg");
+  background-image: url("img/halloween-bg.jpg");
   -webkit-background-size: cover;
           background-size: cover; }
 
