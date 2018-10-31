@@ -167,3 +167,15 @@ span[role=img][aria-label]:hover::after {
 @media print {
   span[role=img][aria-label]::after {
     content: " (" attr(aria-label) ") "; } }
+
+.halloween section {
+  background-image: url("../img/halloween-bg.jpg");
+  -webkit-background-size: cover;
+          background-size: cover; }
+
+.halloween h1,
+.halloween figcaption {
+  color: #fff; }
+
+.halloween p a {
+  background-color: #fff; }

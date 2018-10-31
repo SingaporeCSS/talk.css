@@ -156,3 +156,19 @@ span[role=img][aria-label]:hover::after {
     content: ' (' attr(aria-label) ') ';
   }
 }
+
+.halloween {
+  section {
+    background-image: url('../img/halloween-bg.jpg');
+    background-size: cover;
+  }
+
+  h1,
+  figcaption {
+    color: #fff;
+  }
+
+  p a {
+    background-color: #fff;
+  }
+}
