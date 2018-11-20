@@ -52,19 +52,15 @@ section[id^=slide]:target ~ #start {
 
 [id^=slide] {
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   height: 100%;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
   padding: 1em;
@@ -104,20 +100,16 @@ section[id^=slide]:target ~ #start {
 
 .l-flex {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center; }
 
 .l-title {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 100%;
       -ms-flex: 1 0 100%;
           flex: 1 0 100%; }
 
@@ -135,7 +127,6 @@ section[id^=slide]:target ~ #start {
   min-height: 5em; }
 
 .o-emoji {
-  font-size: -webkit-calc(1.75em + 3vw);
   font-size: calc(1.75em + 3vw);
   display: inline-block;
   vertical-align: middle;
@@ -168,13 +159,16 @@ span[role=img][aria-label]:hover::after {
   span[role=img][aria-label]::after {
     content: " (" attr(aria-label) ") "; } }
 
+.party #slide1 {
+  background: url("img/cats.png") no-repeat center;
+  background-size: cover; }
+
 .party .party-grid {
   display: grid;
   grid-template-columns: 25vw 25vw;
   grid-template-rows: 30vh 30vh;
   grid-template-areas: "logo turns" "logo age";
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center; }
   .party .party-grid img {
@@ -184,13 +178,14 @@ span[role=img][aria-label]:hover::after {
   .party .party-grid p:nth-child(3) {
     grid-area: age;
     display: -webkit-box;
-    display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-    -webkit-align-items: center;
         -ms-flex-align: center;
-            align-items: center; }
+            align-items: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly; }
 
 .party .gilbert {
   font-family: "Gilbert", Arial, sans-serif;

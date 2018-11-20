@@ -158,6 +158,11 @@ span[role=img][aria-label]:hover::after {
 }
 
 .party {
+  #slide1 {
+    background: url('img/cats.png') no-repeat center;
+    background-size: cover;
+  }
+
   .party-grid {
     display: grid;
     grid-template-columns: 25vw 25vw;
@@ -178,6 +183,7 @@ span[role=img][aria-label]:hover::after {
       grid-area: age;
       display: flex;
       align-items: center;
+      justify-content: space-evenly;
     }
   }
 
