@@ -180,12 +180,18 @@ span[role=img][aria-label]:hover::after {
   .party .party-grid img {
     grid-area: logo; }
   .party .party-grid span:nth-child(2) {
-    grid-area: turns;
-    font-size: 450%; }
-  .party .party-grid span:nth-child(3) {
+    grid-area: turns; }
+  .party .party-grid p:nth-child(3) {
     grid-area: age;
-    font-size: 450%; }
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
 
 .party .gilbert {
   font-family: "Gilbert", Arial, sans-serif;
-  font-size: 150%; }
+  font-size: 600%; }
