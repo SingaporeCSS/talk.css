@@ -168,14 +168,24 @@ span[role=img][aria-label]:hover::after {
   span[role=img][aria-label]::after {
     content: " (" attr(aria-label) ") "; } }
 
-.halloween section {
-  background-image: url("img/halloween-bg.jpg");
-  -webkit-background-size: cover;
-          background-size: cover; }
+.party .party-grid {
+  display: grid;
+  grid-template-columns: 25vw 25vw;
+  grid-template-rows: 30vh 30vh;
+  grid-template-areas: "logo turns" "logo age";
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  .party .party-grid img {
+    grid-area: logo; }
+  .party .party-grid span:nth-child(2) {
+    grid-area: turns;
+    font-size: 450%; }
+  .party .party-grid span:nth-child(3) {
+    grid-area: age;
+    font-size: 450%; }
 
-.halloween h1,
-.halloween figcaption {
-  color: #fff; }
-
-.halloween p a {
-  background-color: #fff; }
+.party .gilbert {
+  font-family: "Gilbert", Arial, sans-serif;
+  font-size: 150%; }

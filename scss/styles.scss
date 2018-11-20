@@ -157,18 +157,32 @@ span[role=img][aria-label]:hover::after {
   }
 }
 
-.halloween {
-  section {
-    background-image: url('img/halloween-bg.jpg');
-    background-size: cover;
+.party {
+  .party-grid {
+    display: grid;
+    grid-template-columns: 25vw 25vw;
+    grid-template-rows: 30vh 30vh;
+    grid-template-areas: "logo turns"
+                         "logo age";
+    justify-content: center;
+  
+    img {
+      grid-area: logo;
+    }
+  
+    span:nth-child(2) {
+      grid-area: turns;
+      font-size: 450%;
+    }
+  
+    span:nth-child(3) {
+      grid-area: age;
+      font-size: 450%;
+    }
   }
 
-  h1,
-  figcaption {
-    color: #fff;
-  }
-
-  p a {
-    background-color: #fff;
+  .gilbert {
+    font-family: $special-font;
+    font-size: 150%;
   }
 }
