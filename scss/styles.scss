@@ -56,6 +56,17 @@ a {
   }
 }
 
+figure {
+  img {
+    object-fit: contain;
+    margin-bottom: 1em;
+  }
+}
+
+figcaption {
+  line-height: 1.3;
+}
+
 section[id^=slide]:target ~ #start {
   display: none;
 }
