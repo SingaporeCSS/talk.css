@@ -32,6 +32,9 @@ body {
 h1 {
   font-size: 1.5em; }
 
+li {
+  margin-bottom: 0.5em; }
+
 a {
   color: #1572b6;
   text-decoration: none;
@@ -134,11 +137,13 @@ section[id^=slide]:target ~ #start {
   height: 25vh;
   min-height: 5em; }
 
-.o-emoji {
-  font-size: calc(1.75em + 3vw);
+[class*='o-emoji'] {
   display: inline-block;
   vertical-align: middle;
   font-family: 'Apple Color Emoji', 'Segoe UI Emoji'; }
+
+.o-emoji_large {
+  font-size: calc(1.75em + 3vw); }
 
 span[role=img][aria-label],
 span[role=img][aria-label] {
