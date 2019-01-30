@@ -1,5 +1,16 @@
 # HTML and CSS News for January 2019
 
+- [HTML & CSS-related updates for developers in Firefox 65](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/65)
+    + The Flexbox inspector is now enabled by default
+    + The `image-rendering` property's `crisp-edges` value has now been unprefixed (bug 1496617)
+    + A `scrollbar-color` value of `auto` now resolves to `auto`, rather than two colors (bug 1501418)
+    + The `break-*` properties have been implemented, and the legacy `page-break-*` properties have been aliased to them (bug 775618)
+    + The `overflow-wrap` property's anywhere value has been implemented (bug 1505786)
+    + The new step position keywords `jump-start`, `jump-end`, `jump-none`, and `jump-both` — usable inside the `steps()` timing function — have been implemented (bug 1496619)
+    + Some new `-webkit-appearance` values have been added, for compatibility with other browsers
+    + The behaviour of `user-select` has been changed to make it align more with other browsers (bug 1506547)
+    + CSS environment variables (the `env()` function) have been implemented (bug 1462233)
+
 - [HTML & CSS-related updates for developers in Chromium 71 and Opera 58](https://dev.opera.com/blog/opera-58/)
     + Support for [COLR/CPAL](https://glyphsapp.com/tutorials/creating-a-microsoft-color-font) fonts in Opera
     + Shorter syntax for double stops in color gradients, from
