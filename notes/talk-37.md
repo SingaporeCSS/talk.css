@@ -20,6 +20,15 @@
     + Highlight all nodes affected by CSS property, Hover over a CSS property that affects a node's box model, such as padding or margin, to highlight all nodes affected by that declaration.
     + Capture area screenshot in the Command Menu. Area screenshots let you capture a screenshot of a portion of the viewport. This feature has been around for a while, but the workflow for accessing it was quite hidden. Area screenshots are now available from the Command Menu.
 
+- [CSS Color Module Level 4 Working Draft updated](https://www.w3.org/TR/css-color-4/)
+    + describes CSS properties which allow authors to specify the foreground color and opacity of the text content of an element
+    + describes in detail the CSS <color> value type
+    + defines new color-related properties and values aside from those in previous module levels
+
+- [CSS Scroll Snap Module Level 1 Candidate Recommendation updated](https://www.w3.org/TR/css-scroll-snap-1/)
+    + contains features to control panning and scrolling behavior with “snap positions”
+    + scroll snap positions are scroll positions that produce particular alignments of content within a scroll container
+
 ## Interesting articles for the month
 
 - [Breaking Boxes With CSS Fragmentation](https://www.smashingmagazine.com/2019/02/css-fragmentation/)
@@ -28,6 +37,7 @@
 - [Jumps: The New Steps() in Web Animation](https://danielcwilson.com/blog/2019/02/step-and-jump/)
 - [Sophisticated Partitioning with CSS Grid](https://v6.robweychert.com/blog/2019/03/css-grid-sophisticated-partitioning)
 - [Do You Spam Flex Box Also?](https://dev.to/wgao19/do-you-spam-flex-box-also-b24)
+- [Blurred Borders in CSS](https://css-tricks.com/blurred-borders-in-css/)
 
 ## Cool CSS projects #SEArepresent
 
