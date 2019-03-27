@@ -21,6 +21,11 @@ $base-font: 'iA Writer Duospace', Courier, monospace;
 $special-font: 'Gilbert', Arial, sans-serif;
 $main-colour: #1572b6;
 
+:root {
+  --tx: 0;
+  --ty: 0;
+}
+
 *,
 *::before,
 *::after {
@@ -174,6 +179,74 @@ span[role=img][aria-label]:hover::after {
 @media print {
   span[role=img][aria-label]::after {
     content: ' (' attr(aria-label) ') ';
+  }
+}
+
+.nonsense {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  text-align: initial;
+}
+
+[class^="chris"] {
+  position: absolute;
+}
+
+.chris-top {
+  transform: translate(var(--tx, 0), -100%) rotate(180deg);
+}
+
+.chris-top.active {
+  animation: popdown 4000ms ease;
+}
+
+.chris-right {
+  transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg);
+}
+
+.chris-right.active {
+  animation: popleft 4000ms ease;
+}
+
+.chris-bottom {
+  transform: translate(var(--tx, 0), 100vh) rotate(0deg);
+}
+
+.chris-bottom.active {
+  animation: popup 4000ms ease;
+}
+
+.chris-left {
+  transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg);
+}
+
+.chris-left.active {
+  animation: popright 4000ms ease;
+}
+
+@keyframes popdown {
+  50% {
+    transform: translate(var(--tx, 0), 0) rotate(180deg);
+  }
+}
+
+@keyframes popleft {
+  50% {
+    transform: translate(calc(100vw - 100%), var(--ty, 0)) rotate(-90deg);
+  }
+}
+
+@keyframes popup {
+  50% {
+    transform: translate(var(--tx, 0), calc(100vh - 100%)) rotate(0deg);
+  }
+}
+
+@keyframes popright {
+  50% {
+    transform: translate(0, var(--ty, 0)) rotate(90deg);
   }
 }
 

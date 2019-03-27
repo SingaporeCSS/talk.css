@@ -11,6 +11,10 @@
   font-weight: 700;
   font-style: normal; }
 
+:root {
+  --tx: 0;
+  --ty: 0; }
+
 *,
 *::before,
 *::after {
@@ -173,6 +177,92 @@ span[role=img][aria-label]:hover::after {
 @media print {
   span[role=img][aria-label]::after {
     content: " (" attr(aria-label) ") "; } }
+
+.nonsense {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  text-align: initial; }
+
+[class^="chris"] {
+  position: absolute; }
+
+.chris-top {
+  -webkit-transform: translate(var(--tx, 0), -100%) rotate(180deg);
+      -ms-transform: translate(var(--tx, 0), -100%) rotate(180deg);
+          transform: translate(var(--tx, 0), -100%) rotate(180deg); }
+
+.chris-top.active {
+  -webkit-animation: popdown 4000ms ease;
+          animation: popdown 4000ms ease; }
+
+.chris-right {
+  -webkit-transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg);
+      -ms-transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg);
+          transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg); }
+
+.chris-right.active {
+  -webkit-animation: popleft 4000ms ease;
+          animation: popleft 4000ms ease; }
+
+.chris-bottom {
+  -webkit-transform: translate(var(--tx, 0), 100vh) rotate(0deg);
+      -ms-transform: translate(var(--tx, 0), 100vh) rotate(0deg);
+          transform: translate(var(--tx, 0), 100vh) rotate(0deg); }
+
+.chris-bottom.active {
+  -webkit-animation: popup 4000ms ease;
+          animation: popup 4000ms ease; }
+
+.chris-left {
+  -webkit-transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg);
+      -ms-transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg);
+          transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg); }
+
+.chris-left.active {
+  -webkit-animation: popright 4000ms ease;
+          animation: popright 4000ms ease; }
+
+@-webkit-keyframes popdown {
+  50% {
+    -webkit-transform: translate(var(--tx, 0), 0) rotate(180deg);
+            transform: translate(var(--tx, 0), 0) rotate(180deg); } }
+
+@keyframes popdown {
+  50% {
+    -webkit-transform: translate(var(--tx, 0), 0) rotate(180deg);
+            transform: translate(var(--tx, 0), 0) rotate(180deg); } }
+
+@-webkit-keyframes popleft {
+  50% {
+    -webkit-transform: translate(calc(100vw - 100%), var(--ty, 0)) rotate(-90deg);
+            transform: translate(calc(100vw - 100%), var(--ty, 0)) rotate(-90deg); } }
+
+@keyframes popleft {
+  50% {
+    -webkit-transform: translate(calc(100vw - 100%), var(--ty, 0)) rotate(-90deg);
+            transform: translate(calc(100vw - 100%), var(--ty, 0)) rotate(-90deg); } }
+
+@-webkit-keyframes popup {
+  50% {
+    -webkit-transform: translate(var(--tx, 0), calc(100vh - 100%)) rotate(0deg);
+            transform: translate(var(--tx, 0), calc(100vh - 100%)) rotate(0deg); } }
+
+@keyframes popup {
+  50% {
+    -webkit-transform: translate(var(--tx, 0), calc(100vh - 100%)) rotate(0deg);
+            transform: translate(var(--tx, 0), calc(100vh - 100%)) rotate(0deg); } }
+
+@-webkit-keyframes popright {
+  50% {
+    -webkit-transform: translate(0, var(--ty, 0)) rotate(90deg);
+            transform: translate(0, var(--ty, 0)) rotate(90deg); } }
+
+@keyframes popright {
+  50% {
+    -webkit-transform: translate(0, var(--ty, 0)) rotate(90deg);
+            transform: translate(0, var(--ty, 0)) rotate(90deg); } }
 
 .party #slide1 {
   background: url("img/cats.png") no-repeat center;

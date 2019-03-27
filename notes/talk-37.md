@@ -2,7 +2,7 @@
 
 - [HTML & CSS-related updates for developers in Firefox 66](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/66)
     + Scroll anchoring has been implemented, which includes the `overflow-anchor` property (bug 1305957)
-    + Implemented the case-sensitive attribute selector modifier, s (bug 1512386)
+    + Implemented the case-sensitive attribute selector modifier, `s` (bug 1512386)
     + Several logical property shorthands have landed, along with the flow-relative border radius properties
     + Implemented the overflow-inline and overflow-block media queries (bug 1422235)
     + `grid-template-columns` and `grid-template-rows` are now animatable, as per the rules set out in their specs (bug 1348519)
@@ -38,6 +38,7 @@
 - [Sophisticated Partitioning with CSS Grid](https://v6.robweychert.com/blog/2019/03/css-grid-sophisticated-partitioning)
 - [Do You Spam Flex Box Also?](https://dev.to/wgao19/do-you-spam-flex-box-also-b24)
 - [Blurred Borders in CSS](https://css-tricks.com/blurred-borders-in-css/)
+- [A list of rules for when CSS properties have no effect](https://github.com/captainbrosset/useless-css-properties/blob/master/rules.md)
 
 ## Cool CSS projects #SEArepresent
 
