@@ -99,7 +99,7 @@ section[id^=slide]:target ~ #start {
 
 [id^=slide]:target {
   transform: rotate(0deg);
-  z-index: 1;
+  z-index: 2;
 }
 
 [id^=slide]:target ~ [id^=slide] {
@@ -166,7 +166,7 @@ span[role=img][aria-label]:hover::after {
   display: block;
   line-height: 1.2;
   content: attr(aria-label);
-  z-index: 1;
+  z-index: 3;
   top: 100%;
   left: 0;
   background-color: $main-colour;
