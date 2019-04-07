@@ -7,11 +7,11 @@
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
  😎 | [Talk.CSS #35][35] | 30 Jan 2019 (Wed) | SP Digital | Colour of the month was `orangered`
- 😎 | [Talk.CSS #36][36] | 27 Feb 2019 (Wed)  | HOOQ | 
- ❔ | [Talk.CSS #37][#] | 27 Mar 2019 (Wed)  | TBD | 
- ❗️ | [Talk.CSS #38][#] | 24 Apr 2019 (Wed)  | TBD | Needs volunteer to host
- ❗️ | [Talk.CSS #39][#] | 29 May 2019 (Wed)  | TBD | Needs volunteer to host
- ❔ | [Talk.CSS #40][#] | 26 Jun 2019 (Wed)  | TBD | 
+ 😎 | [Talk.CSS #36][36] | 27 Feb 2019 (Wed)  | HOOQ | Colour of the month was `mediumvioletred`
+ 😎 | [Talk.CSS #37][37] | 27 Mar 2019 (Wed)  | Shopee | Colour of the month was `coral`
+ 😎 | [Talk.CSS #38][38] | 24 Apr 2019 (Wed)  | Titansoft | It's the Codepen Edition!
+ 😎 | [Talk.CSS #39][#] | 29 May 2019 (Wed)  | SP Digital | 
+ ❔ | [Talk.CSS #40][#] | 12 Jun 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #41][#] | 31 Jul 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #42][#] | 28 Aug 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #43][#] | 25 Sep 2019 (Wed)  | TBD | 
@@ -23,6 +23,8 @@
 [#]: https://singaporecss.github.io/ "TalkCSS"
 [35]: https://singaporecss.github.io/35 "Talk.CSS #35"
 [36]: https://singaporecss.github.io/36 "Talk.CSS #36"
+[37]: https://singaporecss.github.io/35 "Talk.CSS #37"
+[38]: https://singaporecss.github.io/36 "Talk.CSS #38"
 
 RSVP on our [Meetup page](https://www.meetup.com/SingaporeCSS/) if you'd like to join us.
 
