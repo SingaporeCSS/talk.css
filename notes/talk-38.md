@@ -14,4 +14,6 @@ https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actu
 https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/
 https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c
 
+https://github.com/lucagez/Debucsser
 
+https://css-tricks.com/using-box-shadows-and-clip-path-together/
