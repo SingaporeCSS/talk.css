@@ -7,6 +7,9 @@ https://codepen.io/akmaz/pen/GLRXXK
 https://codepen.io/pbmasigla/pen/aMRwXV
 https://codepen.io/jcoulterdesign/pen/NOMeEb
 https://codepen.io/michellebarker/pen/BEKWPx
+https://codepen.io/jh3y/pen/qwqOwK
+https://codepen.io/kotAndy/full/wZgKyO
+https://codepen.io/cobra_winfrey/full/EJmREe
 
 http://www.nyctrees.org/
 
@@ -17,3 +20,4 @@ https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens
 https://github.com/lucagez/Debucsser
 
 https://css-tricks.com/using-box-shadows-and-clip-path-together/
+http://adrianroselli.com/2019/03/under-engineered-toggles.html
