@@ -1,23 +1,33 @@
 # HTML and CSS News for April 2019
 
-https://hacks.mozilla.org/2019/03/scroll-anchoring-in-firefox-66/
+- [What's new in Chrome DevTools 75](https://developers.google.com/web/updates/2019/04/devtools)
+    + Meaningful preset values when autocompleting CSS functions
+        * DevTools now populates the property with a meaningful value so that you can preview what kind of change the value will have on the node
+    + Clear site data from the Command Menu
+        * Press Control+Shift+P or Command+Shift+P (Mac) to open the Command Menu and then run the Clear Site Data command to clear all data related to the page, including: Service workers, localStorage, sessionStorage, IndexedDB, Web SQL, Cookies, Cache, and Application Cache
 
-https://codepen.io/meyerweb/pen/XQraEB
-https://codepen.io/akmaz/pen/GLRXXK
-https://codepen.io/pbmasigla/pen/aMRwXV
-https://codepen.io/jcoulterdesign/pen/NOMeEb
-https://codepen.io/michellebarker/pen/BEKWPx
-https://codepen.io/jh3y/pen/qwqOwK
-https://codepen.io/kotAndy/full/wZgKyO
-https://codepen.io/cobra_winfrey/full/EJmREe
+- [Safari Technology Preview 80 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    + Implemented `white-space: break-spaces` value (r244036)
+    + Removed functionality for `-apple-trailing-word` (r243819)
+    + Allowed FontFace names which start with a number (r243637)
 
-http://www.nyctrees.org/
+## Interesting articles and links
 
-https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actually-do-69c2eacdfa1d
-https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/
-https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c
+- [Write with Trees](http://www.nyctrees.org/)
+- [What Does Dark Mode’s “supported-color-schemes” Actually Do? 🤔](https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actually-do-69c2eacdfa1d)
+- [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
+- [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
+- [CSS debugging tool with an unpronounceable name](https://github.com/lucagez/Debucsser)
+- [Using “box shadows” and clip-path together](https://css-tricks.com/using-box-shadows-and-clip-path-together/)
+- [Optimizing Performance With Resource Hints](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/)
 
-https://github.com/lucagez/Debucsser
+## Cool CSS projects
 
-https://css-tricks.com/using-box-shadows-and-clip-path-together/
-http://adrianroselli.com/2019/03/under-engineered-toggles.html
++ [Grid of Fortune](https://codepen.io/akmaz/pen/GLRXXK)
++ [Pure CSS Single Div Up House!](https://codepen.io/pbmasigla/pen/aMRwXV)
++ [The Mine: No JS, CSS only adventure game](https://codepen.io/jcoulterdesign/pen/NOMeEb)
++ [Text in a circle with CSS variables](https://codepen.io/michellebarker/pen/BEKWPx)
++ [Pure CSS Emoji Carousel 🎠](https://codepen.io/jh3y/pen/qwqOwK)
++ [CSS Pure | Fast Lane](https://codepen.io/kotAndy/full/wZgKyO)
++ [Solar CSSystem](https://codepen.io/robdimarzo/pen/LMOLer)
+
