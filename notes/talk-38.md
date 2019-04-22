@@ -11,6 +11,12 @@
     + Removed functionality for `-apple-trailing-word` (r243819)
     + Allowed FontFace names which start with a number (r243637)
 
+- [Strings on the Web: Language and Direction Metadata working draft published](https://www.w3.org/TR/string-meta/)
+    + describes the best practices for identifying language and base direction for strings used on the Web
+    + data languages like JSON, WebIDL and other non-markup data language have no extensible attributes and were not conceived with built-in language or direction metadata
+    + natural language information on the Web depends on and benefits from the presence of language and direction metadata
+    + strings and string-based data formats need similar mechanisms in order to ensure complete and consistent support for the world's languages and cultures
+
 ## Interesting articles and links
 
 - [Write with Trees](http://www.nyctrees.org/)
