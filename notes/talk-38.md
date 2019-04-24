@@ -11,6 +11,10 @@
     + Removed functionality for `-apple-trailing-word` (r243819)
     + Allowed FontFace names which start with a number (r243637)
 
+- [CSS Spatial Navigation Level 1 working draft published](https://www.w3.org/TR/css-nav-1/)
+    + defines a general model for navigating the focus using the arrow keys, as well as related CSS, JavaScript features and Events
+    + introduces a processing model for spatial navigation, as well as APIs enabling authors to control and override how spatial navigation works.
+
 - [Strings on the Web: Language and Direction Metadata working draft published](https://www.w3.org/TR/string-meta/)
     + describes the best practices for identifying language and base direction for strings used on the Web
     + data languages like JSON, WebIDL and other non-markup data language have no extensible attributes and were not conceived with built-in language or direction metadata
@@ -36,4 +40,6 @@
 + [Pure CSS Emoji Carousel 🎠](https://codepen.io/jh3y/pen/qwqOwK)
 + [CSS Pure | Fast Lane](https://codepen.io/kotAndy/full/wZgKyO)
 + [Solar CSSystem](https://codepen.io/robdimarzo/pen/LMOLer)
++ [Only CSS: STARFOX Arwing Drone](https://codepen.io/YusukeNakaya/pen/LvePgj)
++ [Penrose × Sierpinski](https://codepen.io/jkantner/pen/rbJJPN)
 
