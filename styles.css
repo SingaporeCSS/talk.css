@@ -100,7 +100,8 @@ section[id^=slide]:target ~ #start {
   -webkit-transform: rotate(0deg);
       -ms-transform: rotate(0deg);
           transform: rotate(0deg);
-  z-index: 2; }
+  z-index: 2;
+  mix-blend-mode: soft-light; }
 
 [id^=slide]:target ~ [id^=slide] {
   opacity: 0;
@@ -177,6 +178,16 @@ span[role=img][aria-label]:hover::after {
 @media print {
   span[role=img][aria-label]::after {
     content: " (" attr(aria-label) ") "; } }
+
+table {
+  width: 100%; }
+
+tr:nth-child(even) {
+  background-color: gainsboro; }
+
+tr:first-child {
+  background-color: black;
+  color: white; }
 
 .nonsense {
   position: relative;
@@ -263,35 +274,3 @@ span[role=img][aria-label]:hover::after {
   50% {
     -webkit-transform: translate(0, var(--ty, 0)) rotate(90deg);
             transform: translate(0, var(--ty, 0)) rotate(90deg); } }
-
-.party #slide1 {
-  background: url("img/cats.png") no-repeat center;
-  background-size: cover; }
-
-.party .party-grid {
-  display: grid;
-  grid-template-columns: 25vw 25vw;
-  grid-template-rows: 30vh 30vh;
-  grid-template-areas: "logo turns" "logo age";
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center; }
-  .party .party-grid img {
-    grid-area: logo; }
-  .party .party-grid span:nth-child(2) {
-    grid-area: turns; }
-  .party .party-grid p:nth-child(3) {
-    grid-area: age;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly; }
-
-.party .gilbert {
-  font-family: "Gilbert", Arial, sans-serif;
-  font-size: 600%; }

@@ -100,6 +100,7 @@ section[id^=slide]:target ~ #start {
 [id^=slide]:target {
   transform: rotate(0deg);
   z-index: 2;
+  mix-blend-mode: soft-light;
 }
 
 [id^=slide]:target ~ [id^=slide] {
@@ -182,6 +183,19 @@ span[role=img][aria-label]:hover::after {
   }
 }
 
+table {
+  width: 100%;
+}
+
+tr:nth-child(even) {
+  background-color: gainsboro;
+}
+
+tr:first-child {
+  background-color: black;
+  color: white;
+}
+
 .nonsense {
   position: relative;
   width: 100vw;
@@ -247,41 +261,5 @@ span[role=img][aria-label]:hover::after {
 @keyframes popright {
   50% {
     transform: translate(0, var(--ty, 0)) rotate(90deg);
-  }
-}
-
-.party {
-  #slide1 {
-    background: url('img/cats.png') no-repeat center;
-    background-size: cover;
-  }
-
-  .party-grid {
-    display: grid;
-    grid-template-columns: 25vw 25vw;
-    grid-template-rows: 30vh 30vh;
-    grid-template-areas: "logo turns"
-                         "logo age";
-    justify-content: center;
-  
-    img {
-      grid-area: logo;
-    }
-  
-    span:nth-child(2) {
-      grid-area: turns;
-    }
-  
-    p:nth-child(3) {
-      grid-area: age;
-      display: flex;
-      align-items: center;
-      justify-content: space-evenly;
-    }
-  }
-
-  .gilbert {
-    font-family: $special-font;
-    font-size: 600%;
   }
 }

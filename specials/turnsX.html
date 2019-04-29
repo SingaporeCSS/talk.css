@@ -9,19 +9,54 @@
   <meta name="description" content="Introduction slides for Talk.CSS">
   <meta name="author" content="SingaporeCSS">
 
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+  #slide1 {
+    background: url('../img/cats.png') no-repeat center;
+    background-size: cover;
+  }
+
+  .party-grid {
+    display: grid;
+    grid-template-columns: 25vw 25vw;
+    grid-template-rows: 30vh 30vh;
+    grid-template-areas: "logo turns"
+                         "logo age";
+    justify-content: center;
+  }
+
+  img {
+    grid-area: logo;
+  }
+
+  span:nth-child(2) {
+    grid-area: turns;
+  }
+
+  p:nth-child(3) {
+    grid-area: age;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .gilbert {
+    font-family: 'Gilbert Color';
+    font-size: 600%;
+  }
+  </style>
 
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 </head>
 
-<body class="party">
+<body>
 
   <section id="slide1">
     <div class="o-wrapper">
       <div class="party-grid">
-        <img src="img/party-logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
+        <img src="../img/party-logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
         <span class="gilbert">turns</span>
         <p>
           <span class="gilbert">X!</span>
@@ -37,7 +72,7 @@
   <section id="slide2">
     <div class="o-wrapper">
       <h1>Join us</h1>
-      <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
+      <img src="../img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
       <p><a href="https://gitter.im/Singapore-CSS/discussions">https://gitter.im/Singapore-CSS/discussions</a></p>
       <p><a href="http://singaporecss.github.io">http://singaporecss.github.io</a></p>
     </div>
@@ -50,11 +85,11 @@
     <div class="o-wrapper l-flex">
       <h1 class="l-title">Shout-outs</h1>
       <figure>
-        <img src="img/engineers+webuild.svg" alt="Engineers.SG-webuild.sg merger" class="c-logo-big">
+        <img src="../img/engineers+webuild.svg" alt="Engineers.SG-webuild.sg merger" class="c-logo-big">
         <figcaption>Engineers.SG</figcaption>
       </figure>
       <figure>
-        <img src="img/cheeaun.svg" alt="Chee Aun's logo" class="c-logo-big">
+        <img src="../img/cheeaun.svg" alt="Chee Aun's logo" class="c-logo-big">
         <figcaption>Chee Aun</figcaption>
       </figure>
     </div>
@@ -66,7 +101,7 @@
     <div class="o-wrapper">
       <h1>Host of the month</h1>
       <figure>
-        <img style="object-fit:contain;" src="img/carousell.svg" alt="Carousell" class="c-logo-big">
+        <img style="object-fit:contain;" src="../img/carousell.svg" alt="Carousell" class="c-logo-big">
         <figcaption>Carousell</figcaption>
       </figure>
     </div>
