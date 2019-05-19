@@ -23,13 +23,14 @@
 - [The CSS feature for truncating multi-line text has been implemented in Firefox](https://webplatform.news/issues/2019-05-17)
 - [Introduction to subgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_layout/Subgrid)
 - [The Dark Side of the Grid (Part 2)](https://www.matuzo.at/blog/the-dark-side-of-the-grid-part-2/)
+- [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 
-## Cool CSS projects
+## Cool CodePens
 
 + [STARFOX Arwing Drone](https://codepen.io/YusukeNakaya/pen/LvePgj)
 + [3D Scan](https://codepen.io/YusukeNakaya/full/OGwmOV)
 + [Daft Punk - Get Lucky - CSS Pixel Animation](https://codepen.io/demaine/pen/rRvdJZ)
-+ []()
++ [Presentation "Slides"](https://codepen.io/oliviale/pen/NoQEqX)
 
 
 
