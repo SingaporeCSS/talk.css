@@ -1,5 +1,7 @@
 # HTML and CSS News for May 2019
 
+Browser updates
+---
 - [Firefox 67 is released](https://www.mozilla.org/en-US/firefox/67.0/releasenotes/), [HTML & CSS-related updates for developers in Firefox 67](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67)
     + Performance improvements
     + Better keyboard #a11y
@@ -10,6 +12,11 @@
     + Fixed `font-weight: 1000` to be parsed successfully
     + Fixed `transform` sometimes being left in a bad state after an animation
 
+- [The CSS feature for truncating multi-line text has been implemented in Firefox](https://webplatform.news/issues/2019-05-17)
+    + May ship in early July with 68
+
+Specifications
+---
 - [CSS Lists Level 3 Working Draft published](https://www.w3.org/TR/css-lists-3/)
     + contains CSS features related to list counters: styling them, positioning them, and manipulating their value
     + defines the `::marker` pseudo-element, the `list-item` display type that generates markers, and several properties controlling the placement and styling of markers
@@ -24,7 +31,8 @@
     + extracts out these “timing functions” from earlier drafts of CSS Transitions for easier re-use across CSS and SVG modules
     + adds some additional options to the `steps()` function
 
-- [The CSS feature for truncating multi-line text has been implemented in Firefox](https://webplatform.news/issues/2019-05-17)
+Articles
+---
 - [Introduction to subgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_layout/Subgrid)
 - [The Dark Side of the Grid (Part 2)](https://www.matuzo.at/blog/the-dark-side-of-the-grid-part-2/)
 - [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
