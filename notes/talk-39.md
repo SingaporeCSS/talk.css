@@ -1,6 +1,10 @@
 # HTML and CSS News for May 2019
 
 - [Firefox 67 is released](https://www.mozilla.org/en-US/firefox/67.0/releasenotes/), [HTML & CSS-related updates for developers in Firefox 67](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67)
+    + Performance improvements
+    + Better keyboard #a11y
+    + Cryptomining & fingerprinting blocking
+    + CSS Color Scheme Queries
 
 - [Safari Technology Preview 82 released](https://developer.apple.com/safari/technology-preview/release-notes/)
     + Fixed `font-weight: 1000` to be parsed successfully
