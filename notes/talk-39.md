@@ -2,11 +2,12 @@
 
 Browser updates
 ---
-- [Firefox 67 is released](https://www.mozilla.org/en-US/firefox/67.0/releasenotes/), [HTML & CSS-related updates for developers in Firefox 67](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67)
-    + Performance improvements
-    + Better keyboard #a11y
-    + Cryptomining & fingerprinting blocking
-    + CSS Color Scheme Queries
+- [HTML & CSS-related updates for developers in Firefox 67](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67)
+    + `<input>` elements with `autocomplete="new-password"` set on them will no longer have previously saved passwords auto-filled (bug 1119063).
+    + The `revert` keyword has been implemented (bug 1215878).
+    + The `break-word` value of the `word-break` property is now supported (bug 1296042).
+    + The `prefers-color-scheme` media feature is now supported (bug 1494034).
+    + Custom `cursor`s of greater than 32px in size are now disallowed, to mitigate potential malware uses of large cursors (bug 1445844).
 
 - [Safari Technology Preview 82 released](https://developer.apple.com/safari/technology-preview/release-notes/)
     + Fixed `font-weight: 1000` to be parsed successfully
