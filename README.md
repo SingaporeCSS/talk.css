@@ -10,21 +10,23 @@
  😎 | [Talk.CSS #36][36] | 27 Feb 2019 (Wed)  | HOOQ | Colour of the month was `mediumvioletred`
  😎 | [Talk.CSS #37][37] | 27 Mar 2019 (Wed)  | Shopee | Colour of the month was `coral`
  😎 | [Talk.CSS #38][38] | 24 Apr 2019 (Wed)  | Titansoft | Colour of the month was `black`
- 😎 | [Talk.CSS #39][#] | 22 May 2019 (Wed)  | SP Digital | Retro shenanigans scheduled
- ❔ | [Talk.CSS #40][#] | 12 Jun 2019 (Wed)  | TBD | Talk.JS + Talk.CSS = JSConf.Asia Special!
- ❔ | [Talk.CSS #41][#] | 31 Jul 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #42][#] | 28 Aug 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #43][#] | 25 Sep 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #44][#] | 30 Oct 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #45][#] | 27 Nov 2019 (Wed)  | TBD | 
+ 😎 | [Talk.CSS #39][39] | 22 May 2019 (Wed)  | SP Digital | Colour of the month was `cyan`
+ 😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Talk.JS + Talk.CSS = JSConf.Asia Special!
+ ❔ | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | TBD | 
+ ❔ | [Talk.CSS #42][#] | 07 Aug 2019 (Wed)  | TBD | 
+ ❔ | [Talk.CSS #43][#] | 04 Sep 2019 (Wed)  | TBD | 
+ ❔ | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | TBD | 
+ ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | TBD | 
 
 😎 - confirmed | ❔ - needs venue | ❗️ - needs help
 
 [#]: https://singaporecss.github.io/ "TalkCSS"
 [35]: https://singaporecss.github.io/35 "Talk.CSS #35"
 [36]: https://singaporecss.github.io/36 "Talk.CSS #36"
-[37]: https://singaporecss.github.io/35 "Talk.CSS #37"
-[38]: https://singaporecss.github.io/36 "Talk.CSS #38"
+[37]: https://singaporecss.github.io/37 "Talk.CSS #37"
+[38]: https://singaporecss.github.io/38 "Talk.CSS #38"
+[39]: https://singaporecss.github.io/39 "Talk.CSS #39"
+[40]: https://singaporecss.github.io/40 "Talk.CSS #40"
 
 RSVP on our [Meetup page](https://www.meetup.com/SingaporeCSS/) if you'd like to join us.
 
