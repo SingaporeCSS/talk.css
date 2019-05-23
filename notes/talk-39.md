@@ -38,7 +38,7 @@ Articles
 - [The Dark Side of the Grid (Part 2)](https://www.matuzo.at/blog/the-dark-side-of-the-grid-part-2/)
 - [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 
-Randomn
+Random
 ---
 - [W3C Developer Meetup in Fukuoka, Japan](https://www.w3.org/2019/09/Meetup/) happening on 16 September, 2019. Free entry, so if you happen to be around…
 
