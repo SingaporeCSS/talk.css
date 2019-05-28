@@ -20,3 +20,6 @@ Random
 ## Cool CodePens
 
 - [Breath - CSS Only](https://codepen.io/sandrina-p/pen/wbjXgX)
+- [HTML & CSS Unicorn ✨🦄](https://codepen.io/alexalala/pen/xmjRoo)
+- [Monkey Island CSS Animation (without JS)](https://codepen.io/manz/pen/wBZvoE)
+- [Colorpencils - CSS Doodle](https://codepen.io/aragakey/pen/pmWwbx)
