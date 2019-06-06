@@ -32,6 +32,8 @@ Articles
 - [Subgrid is here](https://css-irl.info/subgrid-is-here/)
 - [Using the Grid Shepherd Technique to Order Data with CSS](https://css-tricks.com/using-the-grid-shepherd-technique-to-order-data-with-css/)
 - [WAI-ARIA menus, and why you should handle them with great care](https://marcozehe.wordpress.com/2019/05/30/wai-aria-menus-use-with-care/)
+- [CSS Scroll Snap is coming to Firefox but usability on desktop isn’t great](https://webplatform.news/issues/2019-06-05)
+- [Baking accessibility into components: how frameworks help ](https://hiddedevries.nl/en/blog/2019-05-24-baking-accessibility-into-components-how-frameworks-help)
 
 ## Cool CodePens
 
