@@ -1,4 +1,4 @@
-# HTML and CSS News for June 2019
+# HTML and CSS News for May/June 2019
 
 Browser updates
 ---
@@ -23,7 +23,20 @@ Browser updates
 
 Specifications
 ---
+- [CSS Intrinsic & Extrinsic Sizing Module Level 3 Working Draft updated](https://www.w3.org/TR/css-sizing-3/)
+    + extends the CSS sizing properties with keywords that represent content-based "intrinsic" sizes and context-based "extrinsic" sizes
+    + allows CSS to more easily describe boxes that fit their content or fit into a particular layout context
 
+- [CSS Color Adjustment Module Level 1 Working Draft published](https://www.w3.org/TR/css-color-adjust-1/)
+    + introduces a model and controls over automatic color adjustment by the user agent to handle user preferences, such as "Dark Mode", contrast adjustment, or specific desired color schemes
+
+- [CSS Values and Units Module Level 3 Candidate Recommendation updated](https://www.w3.org/TR/css-values-3/)
+    + describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions
+    + replaces and extends the data type definitions in [CSS21](https://www.w3.org/TR/CSS2/) sections 1.4.2.1, 4.3, and A.2
+
+- [CSS Overscroll Behavior Module Level 1 Working Draft published](https://www.w3.org/TR/css-overscroll-1/)
+    + defines overscroll-behavior to control the behavior when the scroll position of a scroll container reaches the edge of the scrollport
+    + allows content authors to hint that the boundary default actions, such as scroll chaining and overscroll, should not be triggered
 
 Articles
 ---
@@ -44,3 +57,4 @@ Articles
 - [Planet CSS Loader Animation #cpc-planets](https://codepen.io/rafaelavlucas/pen/wbrdez)
 - [Discover the stars](https://codepen.io/christinastep/full/yWyKVO)
 - [Codepen challenge - CSSpaceship](https://codepen.io/medrupaloscil/full/NVOKBa)
+- [Multi-Screen Mural for JSConf EU 2019](https://codepen.io/ilithya/pen/zXRXbM)
