@@ -11,7 +11,7 @@ assignees: ""
 
 Hi,
 
-My name is ${Crabbie Rust}. I am a ${lord of walking sideways} at sea. 
+My name is ${Crabbie Rust}. I am a ${lord of walking sideways} at ${sea}. 
 
 I'd like to talk about ${how not to get caught and be eaten} at your ${which month} event.
 
