@@ -4,6 +4,10 @@
 
 ## Specifications
 
+- [CSS Animation Worklet API published](https://www.w3.org/TR/css-animation-worklet-1/)
+    + provides a method to create scripted animations that control a set of animation effects
+    + designed to make it possible for user agents to run such animations in their own dedicated thread to provide a degree of performance isolation from main thread
+
 ## Interesting links
 
 - [Drop caps & design systems](https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems)
