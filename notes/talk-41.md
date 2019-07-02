@@ -23,3 +23,5 @@
 - [Inifinite Circles - CSS Doodle](https://codepen.io/aragakey/pen/LowQdY)
 - [CSS-only Animated Lantern](https://codepen.io/7oot/pen/byPKra)
 - [Periodic Table of Type CSS Grid](https://codepen.io/lindsayrusd/pen/rKyOdx)
+- [Grid Experiment No. 8](https://codepen.io/julesforrest/pen/orEbPa)
+- [Quest For Glory II Disks](https://codepen.io/32bitkid/pen/BgwwgG)
