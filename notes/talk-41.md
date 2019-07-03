@@ -15,6 +15,8 @@
 - [Baseline Grid](https://observablehq.com/@gianordoli/baseline-grid)
 - [[Video] CSS Grid Layout Implementation Details](https://youtu.be/C1JcKq3NzWU)
 - [The Layout Instability API](https://web.dev/layout-instability-api/)
+- [CSS Custom Properties In The Cascade](https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/)
+- [Different Approaches for Creating a Staggered Animation](https://css-tricks.com/different-approaches-for-creating-a-staggered-animation/)
 
 ## Cool CodePens
 
