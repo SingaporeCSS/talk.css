@@ -2,6 +2,18 @@
 
 ## Browser updates
 
+- [Safari Technology Preview 86 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    + Implemented `tab-size` with units
+    + Included `touch-action` in the computed styles list
+    + Improved the performance of the CSS pretty printer by using a Worker
+    + Fixed an issue where longhand CSS properties that were overridden by shorthands didn’t have a strikethrough
+
+- [These Weeks in Firefox: Issue 59](https://blog.nightly.mozilla.org/2019/06/10/these-weeks-in-firefox-issue-59-2/)
+    + Re-designed colour picker widget
+    + Inactive CSS landed
+    + Expandable CSS warnings also landed
+    + CSS Grid level 2 (subgrid) close to shipping in Firefox
+
 ## Specifications
 
 - [CSS Animation Worklet API published](https://www.w3.org/TR/css-animation-worklet-1/)
