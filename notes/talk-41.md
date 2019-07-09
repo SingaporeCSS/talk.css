@@ -1,4 +1,4 @@
-# HTML and CSS News for June 2019
+# HTML and CSS News for July 2019
 
 ## Browser updates
 
