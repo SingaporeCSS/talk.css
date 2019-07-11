@@ -12,7 +12,7 @@
  😎 | [Talk.CSS #38][38] | 24 Apr 2019 (Wed)  | Titansoft | Colour of the month was `black`
  😎 | [Talk.CSS #39][39] | 22 May 2019 (Wed)  | SP Digital | Colour of the month was `cyan`
  😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Colour of the month was `lightseagreen`
- 😎 | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | Colour of the month was `steelblue` | 
+ 😎 | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | Rakuten Viki | Colour of the month was `steelblue` | 
  😎 | [Talk.CSS #42][#] | 07 Aug 2019 (Wed)  | Happening at Hackerspace | 
  ❔ | [Talk.CSS #43][#] | 04 Sep 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | TBD | 
