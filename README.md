@@ -11,9 +11,9 @@
  😎 | [Talk.CSS #37][37] | 27 Mar 2019 (Wed)  | Shopee | Colour of the month was `coral`
  😎 | [Talk.CSS #38][38] | 24 Apr 2019 (Wed)  | Titansoft | Colour of the month was `black`
  😎 | [Talk.CSS #39][39] | 22 May 2019 (Wed)  | SP Digital | Colour of the month was `cyan`
- 😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Talk.JS + Talk.CSS = JSConf.Asia Special!
- ❔ | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #42][#] | 07 Aug 2019 (Wed)  | TBD | 
+ 😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Colour of the month was `lightseagreen`
+ 😎 | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | Colour of the month was `steelblue` | 
+ 😎 | [Talk.CSS #42][#] | 07 Aug 2019 (Wed)  | Happening at Hackerspace | 
  ❔ | [Talk.CSS #43][#] | 04 Sep 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | TBD | 
  ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | TBD | 
@@ -27,6 +27,8 @@
 [38]: https://singaporecss.github.io/38 "Talk.CSS #38"
 [39]: https://singaporecss.github.io/39 "Talk.CSS #39"
 [40]: https://singaporecss.github.io/40 "Talk.CSS #40"
+[41]: https://singaporecss.github.io/41 "Talk.CSS #41"
+[42]: https://singaporecss.github.io/42 "Talk.CSS #42"
 
 RSVP on our [Meetup page](https://www.meetup.com/SingaporeCSS/) if you'd like to join us.
 
@@ -46,8 +48,8 @@ Most of our talks at Talk.CSS are recorded by volunteers from Engineers.SG. Watc
 
 ## 💬 If you'd like to speak or contact the organisers
 
-- Announce on [Kopi.JS slack channel](https://launchpass.com/kopijs) and `@` mention Hui Jing
-- Message organiser on [Meetup.com](https://www.meetup.com/SingaporeCSS/)
+- Announce on [Kopi.JS slack channel](https://launchpass.com/kopijs) and `@` mention Hui Jing or Gao Wei
+- Message organisers on [Meetup.com](https://www.meetup.com/SingaporeCSS/)
 - Tweet [@SingaporeCSS](https://twitter.com/singaporecss)
 - Open an [issue](https://github.com/SingaporeCSS/talk.css/issues/new)
 
