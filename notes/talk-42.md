@@ -20,7 +20,12 @@
 
 ## Specifications
 
+- [CSS Generated Content Module Level 3 Working Draft updated](https://www.w3.org/TR/css-content-3/)
+    + describes how to insert content in a document
 
+- [CSS Display Module Level 3 Candidate Recommendation updated](https://www.w3.org/TR/css-display-3/)
+    + describes how the CSS formatting box tree is generated from the document element tree
+    + defines the display property that controls it
 
 ## Interesting links
 
@@ -28,6 +33,7 @@
 - [An Intro To Screen Reader Testing for Sighted Developers](http://uncaughtreferenceerror.com/a-crash-course-to-screenreaders-for-sighted-developers/)
 - [CSS Architecture for Multiple Websites](https://medium.com/@elad/css-architecture-for-multiple-we)
 - [Fun places to learn CSS Layout –  Part 2: Grid Layout](https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/)
+- [Color Inputs: A Deep Dive into Cross-Browser Differences](https://css-tricks.com/color-inputs-a-deep-dive-into-cross-browser-differences/)
 
 ## Cool CodePens
 
