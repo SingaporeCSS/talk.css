@@ -34,8 +34,11 @@
 - [CSS Architecture for Multiple Websites](https://medium.com/@elad/css-architecture-for-multiple-we)
 - [Fun places to learn CSS Layout –  Part 2: Grid Layout](https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/)
 - [Color Inputs: A Deep Dive into Cross-Browser Differences](https://css-tricks.com/color-inputs-a-deep-dive-into-cross-browser-differences/)
+- [Accessible CSS Generated Content](https://yatil.net/blog/accessible-css-generated-content)
+- [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)
 
 ## Cool CodePens
 
 - [Pure CSS Katy](https://codepen.io/MalaikaIshtiaq/pen/OexbXz)
 - [Only CSS: Infinite Wave 🏄](https://codepen.io/YusukeNakaya/pen/MMqwVw)
+- [CSS Outline](https://codepen.io/ananyaneogi/pen/NZmLQQ)
