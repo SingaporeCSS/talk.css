@@ -27,6 +27,10 @@
     + describes how the CSS formatting box tree is generated from the document element tree
     + defines the display property that controls it
 
+- [CSS Syntax Module Level 3 Candidate Recommendation updated](https://www.w3.org/TR/css-syntax-3/)
+    + describes, in general terms, the basic structure and syntax of CSS stylesheets
+    + defines, in detail, the syntax and parsing of CSS - how to turn a stream of bytes into a meaningful stylesheet
+
 ## Interesting links
 
 - [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
