@@ -40,9 +40,12 @@
 - [Color Inputs: A Deep Dive into Cross-Browser Differences](https://css-tricks.com/color-inputs-a-deep-dive-into-cross-browser-differences/)
 - [Accessible CSS Generated Content](https://yatil.net/blog/accessible-css-generated-content)
 - [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)
+- [Initial thoughts on standardizing form controls](https://www.gwhitworth.com/blog/2019/07/form-controls-components/)
+- [Multi-Line Truncation with Pure CSS ](https://css-tricks.com/multi-line-truncation-with-pure-css/)
 
 ## Cool CodePens
 
 - [Pure CSS Katy](https://codepen.io/MalaikaIshtiaq/pen/OexbXz)
 - [Only CSS: Infinite Wave 🏄](https://codepen.io/YusukeNakaya/pen/MMqwVw)
 - [CSS Outline](https://codepen.io/ananyaneogi/pen/NZmLQQ)
+- [CSS Glitch effect](https://codepen.io/Nirajanbasnet/pen/RzOwdg)
