@@ -42,6 +42,7 @@
 - [Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)
 - [Initial thoughts on standardizing form controls](https://www.gwhitworth.com/blog/2019/07/form-controls-components/)
 - [Multi-Line Truncation with Pure CSS ](https://css-tricks.com/multi-line-truncation-with-pure-css/)
+- [Multi-column manipulation](https://every-layout.dev/blog/multi-column-manipulation/)
 
 ## Cool CodePens
 
@@ -49,3 +50,4 @@
 - [Only CSS: Infinite Wave 🏄](https://codepen.io/YusukeNakaya/pen/MMqwVw)
 - [CSS Outline](https://codepen.io/ananyaneogi/pen/NZmLQQ)
 - [CSS Glitch effect](https://codepen.io/Nirajanbasnet/pen/RzOwdg)
+- [50th Anniversary of Moon Landing](https://codepen.io/MalaikaIshtiaq/pen/zVQBEy)
