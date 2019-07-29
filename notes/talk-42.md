@@ -20,6 +20,12 @@
 
 ## Specifications
 
+- [CSS Scrollbars Module Level 1 Editor's Draft](https://drafts.csswg.org/css-scrollbars-1/)
+    + standardizes the ability to color scrollbars introduced in 2000 by Windows IE 5.5
+    + useful when building web applications which use color schemes very different from the appearance of default platform scrollbars
+    + [Github working draft link](https://github.com/w3c/csswg-drafts/tree/master/css-scrollbars-1)
+    + [Web Platform News Issue № 1022](https://webplatform.news/issues/2019-07-25)
+
 - [CSS Generated Content Module Level 3 Working Draft updated](https://www.w3.org/TR/css-content-3/)
     + describes how to insert content in a document
 
@@ -51,3 +57,4 @@
 - [CSS Outline](https://codepen.io/ananyaneogi/pen/NZmLQQ)
 - [CSS Glitch effect](https://codepen.io/Nirajanbasnet/pen/RzOwdg)
 - [50th Anniversary of Moon Landing](https://codepen.io/MalaikaIshtiaq/pen/zVQBEy)
+- [CSS Grid: Pac-Man (Kind of)](https://codepen.io/oliviale/full/MNJwBM)
