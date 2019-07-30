@@ -57,4 +57,5 @@
 - [CSS Outline](https://codepen.io/ananyaneogi/pen/NZmLQQ)
 - [CSS Glitch effect](https://codepen.io/Nirajanbasnet/pen/RzOwdg)
 - [50th Anniversary of Moon Landing](https://codepen.io/MalaikaIshtiaq/pen/zVQBEy)
-- [CSS Grid: Pac-Man (Kind of)](https://codepen.io/oliviale/full/MNJwBM)
+- [CSS Grid: Pac-Man (Kind of)](https://codepen.io/oliviale/full/MNJwBM) 🇸🇬
+- [🍉 watermelon 🍉](https://codepen.io/creme/pen/PMNxMm)
