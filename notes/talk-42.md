@@ -37,6 +37,14 @@
     + describes, in general terms, the basic structure and syntax of CSS stylesheets
     + defines, in detail, the syntax and parsing of CSS - how to turn a stream of bytes into a meaningful stylesheet
 
+- [CSS Table Module Level 3 Working Draft updated](https://www.w3.org/TR/css-tables-3/)
+    + defines a two-dimensional grid-based layout system, optimized for tabular data rendering
+    + define the expected behaviour of user agents supporting both HTML tables and CSS
+
+- [CSS Writing Modes Level 3 Candidate Recommendation updated](https://www.w3.org/TR/css-writing-modes-3/), [CSS Writing Modes Level 4 Candidate Recommendation updated](https://www.w3.org/TR/css-writing-modes-4/)
+    + defines CSS support for various writing modes and their combinations, including left-to-right and right-to-left text ordering as well as horizontal and vertical orientations
+    + defines CSS features to support for various international writing modes, such as left-to-right (e.g. Latin or Indic), right-to-left (e.g. Hebrew or Arabic), bidirectional (e.g. mixed Latin and Arabic) and vertical (e.g. Asian scripts)
+
 ## Interesting links
 
 - [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
