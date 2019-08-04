@@ -18,6 +18,8 @@
 
 - [Firefox 68: BigInts, Contrast Checks, and the QuantumBar](https://hacks.mozilla.org/2019/07/firefox-68-bigints-contrast-checks-and-the-quantumbar/)
 
+- [New CSS Features in Firefox 68](https://hacks.mozilla.org/2019/07/new-css-features-in-firefox-68/)
+
 ## Specifications
 
 - [CSS Scrollbars Module Level 1 Editor's Draft](https://drafts.csswg.org/css-scrollbars-1/)
