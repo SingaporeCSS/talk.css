@@ -1,7 +1,5 @@
 # HTML and CSS News for August 2019
 
-# HTML and CSS News for August 2019
-
 ## Browser updates
 
 - [HTML & CSS-related updates for developers in Firefox 68](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/68)
