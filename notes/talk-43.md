@@ -24,6 +24,9 @@
 
 - [Exploring prefers-reduced-motion](https://www.phpied.com/exploring-prefers-reduced-motion/)
 - [Variable Font Animation with CSS and Splitting JS](https://css-irl.info/variable-font-animation-with-css-and-splitting-js/)
+- [Bounce Element Around Viewport in CSS](https://css-tricks.com/bounce-element-around-viewport-in-css/)
+- [Can you view print stylesheets applied directly in the browser?](https://css-tricks.com/can-you-view-print-stylesheets-applied-directly-in-the-browser/)
+- [](https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/)
 
 ## Cool CodePens
 

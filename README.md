@@ -12,11 +12,11 @@
  😎 | [Talk.CSS #38][38] | 24 Apr 2019 (Wed)  | Titansoft | Colour of the month was `black`
  😎 | [Talk.CSS #39][39] | 22 May 2019 (Wed)  | SP Digital | Colour of the month was `cyan`
  😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Colour of the month was `lightseagreen`
- 😎 | [Talk.CSS #41][#] | 03 Jul 2019 (Wed)  | Rakuten Viki | Colour of the month was `steelblue` | 
- 😎 | [Talk.CSS #42][#] | 07 Aug 2019 (Wed)  | Hackerspace | Colour of the month was `snow` |
- ❔ | [Talk.CSS #43][#] | 04 Sep 2019 (Wed)  | TBD | |
- ❔ | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | TBD | 
- ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | TBD | 
+ 😎 | [Talk.CSS #41][41] | 03 Jul 2019 (Wed)  | Rakuten Viki | Colour of the month was `steelblue` 
+ 😎 | [Talk.CSS #42][42] | 07 Aug 2019 (Wed)  | Hackerspace | Colour of the month was `snow`
+ 😎 | [Talk.CSS #43][43] | 04 Sep 2019 (Wed)  | HOOQ | Might be all lightning talks, see how
+ 😎 | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | GovTech Hive | 
+ ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | Maybe Stripe, see how | 
 
 😎 - confirmed | ❔ - needs venue | ❗️ - needs help
 
@@ -29,7 +29,7 @@
 [40]: https://singaporecss.github.io/40 "Talk.CSS #40"
 [41]: https://singaporecss.github.io/41 "Talk.CSS #41"
 [42]: https://singaporecss.github.io/42 "Talk.CSS #42"
-[43]: https://singaporecss.github.io/42 "Talk.CSS #43"
+[43]: https://singaporecss.github.io/43 "Talk.CSS #43"
 
 RSVP on our [Meetup page](https://www.meetup.com/SingaporeCSS/) if you'd like to join us.
 
