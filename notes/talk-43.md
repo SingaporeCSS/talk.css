@@ -26,7 +26,7 @@
 - [Variable Font Animation with CSS and Splitting JS](https://css-irl.info/variable-font-animation-with-css-and-splitting-js/)
 - [Bounce Element Around Viewport in CSS](https://css-tricks.com/bounce-element-around-viewport-in-css/)
 - [Can you view print stylesheets applied directly in the browser?](https://css-tricks.com/can-you-view-print-stylesheets-applied-directly-in-the-browser/)
-- [](https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/)
+- [CSS Can Do This... And It's Terrifying!](https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/)
 
 ## Cool CodePens
 
@@ -36,3 +36,4 @@
 - [30 - 50 hogs](https://codepen.io/cassie-codes/pen/MNrPza)
 - [Toy Cat](https://codepen.io/thewizardjs/pen/VoMMex)
 - [CSS only - Fan Animation](https://codepen.io/mrlaseptima/pen/vYBGebX)
+- [Pure Css Alien Commuter Falling Asleep On His Way To Work](https://codepen.io/perbyhring/full/jpQwav)
