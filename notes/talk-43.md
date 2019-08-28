@@ -7,6 +7,15 @@
     + When you hover over an element in the Page Inspector, the infobar that appears now includes the fact that an element is a flex container, or flex item (bug 1521188)
     + Implement the `break-spaces` value of the `white-space` property (bug 1351432)
     + adds the ability to test for support of a selector when using CSS Feature Queries (`@supports`), with the `selector()` method (bug 1513643)
+    + Implemented local-specific casing behavior for Lithuanian (bug 1322992)
+    + The `contain` property allowing to define that an element and its contents are mostly independent of the rest of the DOM tree got implemented
+
+- [Safari Technology Preview 90 released](https://developer.apple.com/safari/technology-preview/release-notes/) (Mostly Inspector Tools related updates this time)
+    + Added showing `@supports` CSS groupings in the Styles details sidebar panel
+    + Added experimental quick-action icon buttons to each CSS rule in the Styles details sidebar panel
+    + Added display of radius values in Box Model section of the Computed details sidebar panel
+    + Moved psuedo-selector rules before inherited rules in the Styles details sidebar panel
+    + Moved the Box Model section to the top of the Computed details sidebar panel
 
 ## Specifications
 
@@ -27,6 +36,7 @@
 - [Bounce Element Around Viewport in CSS](https://css-tricks.com/bounce-element-around-viewport-in-css/)
 - [Can you view print stylesheets applied directly in the browser?](https://css-tricks.com/can-you-view-print-stylesheets-applied-directly-in-the-browser/)
 - [CSS Can Do This... And It's Terrifying!](https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/)
+- [Can you rotate the cursor in CSS?](https://css-tricks.com/can-you-rotate-the-cursor-in-css/)
 
 ## Cool CodePens
 
