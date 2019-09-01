@@ -37,6 +37,8 @@
 - [Can you view print stylesheets applied directly in the browser?](https://css-tricks.com/can-you-view-print-stylesheets-applied-directly-in-the-browser/)
 - [CSS Can Do This... And It's Terrifying!](https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/)
 - [Can you rotate the cursor in CSS?](https://css-tricks.com/can-you-rotate-the-cursor-in-css/)
+- [Styling Links with Real Underlines](https://css-tricks.com/styling-links-with-real-underlines/)
+- [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
 
 ## Cool CodePens
 
