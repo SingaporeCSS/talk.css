@@ -120,7 +120,7 @@ section[id^=slide]:target ~ #start {
 .l-flex {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .l-title {
