@@ -40,15 +40,27 @@ html {
 body {
   font-family: $base-font;
   height: 100%;
-  font-size: 2em;
+  font-size: calc(0.75em + 2vmin);
   text-align: center;
-  overflow: hidden;
   margin: 0;
   padding: 0;
 }
 
+section {
+  width: 100%;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img,
+video {
+  max-width: 100%;
+}
+
 h1 {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 li {
@@ -69,7 +81,6 @@ a {
 
 figure {
   img {
-    object-fit: contain;
     margin-bottom: 1em;
   }
 }
@@ -78,69 +89,28 @@ figcaption {
   line-height: 1.3;
 }
 
-section[id^=slide]:target ~ #start {
-  display: none;
-}
-
-[id^=slide] {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  height: 100%;
-  justify-content: center;
-  padding: 1em;
-  position: absolute;
-  transform: rotate(90deg);
-  transform-origin: 0 0;
-  transition: transform 1s, opacity 0.8s;
+.o-content {
   width: 100%;
-  z-index: 0;
-}
-
-[id^=slide]:target {
-  transform: rotate(0deg);
-  z-index: 2;
-  mix-blend-mode: soft-light;
-}
-
-[id^=slide]:target ~ [id^=slide] {
-  opacity: 0;
-  transform: rotate(-90deg);
-}
-
-.o-wrapper {
-  width: 100%;
+  max-height: 100vh;
+  margin-bottom: 2em;
 }
 
 .o-controls {
-  font-size: 50%;
-  margin: 0 1em;
+  display: none;
 }
 
-.l-flex {
+.l-col {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-}
 
-.l-title {
-  flex: 1 0 100%;
-}
+  h1 {
+    flex: 1 0 100%;
+  }
 
-.c-logo-main {
-  height: 60vh;
-  min-height: 10em;
-}
+  @supports (display: grid) {
 
-.c-logo-big {
-  height: 40vh;
-  min-height: 7.5em;
-  max-width: 85vw;
-}
-
-.c-logo-small {
-  height: 25vh;
-  min-height: 5em;
+  }
 }
 
 [class*='o-emoji'] {
@@ -183,61 +153,119 @@ span[role=img][aria-label]:hover::after {
   }
 }
 
-table {
-  width: 100%;
+.nonsense,
+.start {
+  display: none;
 }
 
-tr:nth-child(even) {
-  background-color: gainsboro;
-}
+@media screen and (min-aspect-ratio: 1/1) {
+  body {
+    overflow: hidden;
+  }
+  
+  section {
+    height: 100%;
+    padding: 1em;
+    position: absolute;
+  }
 
-tr:first-child {
-  background-color: black;
-  color: white;
-}
+  .o-controls {
+    font-size: 75%;
+    flex: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 40vw;
+    margin: 0 auto;
+  }
 
-.nonsense {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  z-index: 1;
-  text-align: initial;
-}
+  .c-logo-main {
+    height: 60vh;
+    min-height: 10em;
+  }
+  
+  .c-logo-big {
+    height: 40vh;
+    max-width: 85vw;
+    min-height: 7.5em;
+  }
+  
+  .c-logo-small {
+    height: 25vh;
+    min-height: 5em;
+  }
 
-[class^="chris"] {
-  position: absolute;
-}
+  // Make sections act like slides
+  .start {
+    display: block;
+    z-index: 2;
+  }
 
-.chris-top {
-  transform: translate(var(--tx, 0), -100%) rotate(180deg);
-}
+  [id^=slide]:target ~ #start {
+    display: none;
+  }
+  
+  [id^=slide] {
+    transition: opacity 1s;
+    opacity: 0; 
+    z-index: 0;
+  }
 
-.chris-top.active {
-  animation: popdown 4000ms ease;
-}
+  [id^=slide]:target {
+    opacity: 1;
+    z-index: 2;
+    mix-blend-mode: soft-light;
+  }
 
-.chris-right {
-  transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg);
-}
+  [id^=slide]:target ~ .slide {
+    opacity: 0;
+    z-index: 0;
+  }
 
-.chris-right.active {
-  animation: popleft 4000ms ease;
-}
+  // Periodic popping in of Chris's head
+  .nonsense {
+    display: block;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    text-align: initial;
+  }
 
-.chris-bottom {
-  transform: translate(var(--tx, 0), 100vh) rotate(0deg);
-}
+  [class^="chris"] {
+    position: absolute;
+  }
 
-.chris-bottom.active {
-  animation: popup 4000ms ease;
-}
+  .chris-top {
+    transform: translate(var(--tx, 0), -100%) rotate(180deg);
+  }
 
-.chris-left {
-  transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg);
-}
+  .chris-top.active {
+    animation: popdown 4000ms ease;
+  }
 
-.chris-left.active {
-  animation: popright 4000ms ease;
+  .chris-right {
+    transform: translate(calc(100vw + 1em), var(--ty, 0)) rotate(-90deg);
+  }
+
+  .chris-right.active {
+    animation: popleft 4000ms ease;
+  }
+
+  .chris-bottom {
+    transform: translate(var(--tx, 0), 100vh) rotate(0deg);
+  }
+
+  .chris-bottom.active {
+    animation: popup 4000ms ease;
+  }
+
+  .chris-left {
+    transform: translate(calc(-100% - 1em), var(--ty, 0)) rotate(90deg);
+  }
+
+  .chris-left.active {
+    animation: popright 4000ms ease;
+  }
 }
 
 @keyframes popdown {

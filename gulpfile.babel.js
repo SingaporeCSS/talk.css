@@ -2,9 +2,7 @@ const gulp        = require('gulp');
 const browserSync = require('browser-sync');
 const sass        = require('gulp-sass');
 const prefix      = require('gulp-autoprefixer');
-const cssnano     = require('gulp-cssnano');
 const concat      = require('gulp-concat');
-const uglify      = require('gulp-uglify');
 const babel       = require('gulp-babel');
 
 const startServer = (done) => {
@@ -36,7 +34,7 @@ const compileStyles = () => {
     includePaths: ['scss'],
     onError: browserSync.notify
   }))
-  .pipe(prefix(['last 3 versions'], { cascade: true }))
+  .pipe(prefix(['last 2 versions'], { cascade: true }))
   .pipe(gulp.dest('./'))
   .pipe(browserSync.reload({ stream:true }))
 }

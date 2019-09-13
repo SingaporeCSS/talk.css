@@ -17,8 +17,8 @@
 
 <body>
 
-  <section id="slide1">
-    <div class="o-wrapper">
+  <section class="slide" id="slide1">
+    <div class="o-content">
       <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
       <p><a href="https://twitter.com/singaporecss">@SingaporeCSS</a></p>
       <p><a href="http://twitter.com/intent/tweet?text=%23TalkCSS">#TalkCSS</a></p>
@@ -26,21 +26,23 @@
     <a class="o-controls" href="#slide2">Next</a>
   </section>
 
-  <section id="slide2">
-    <div class="o-wrapper">
+  <section class="slide" id="slide2">
+    <div class="o-content">
       <h1>Join us</h1>
       <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
       <p><a href="https://gitter.im/Singapore-CSS/discussions">https://gitter.im/Singapore-CSS/discussions</a></p>
       <p><a href="https://singaporecss.github.io">https://singaporecss.github.io</a></p>
       <p><a href="https://tinyletter.com/SingaporeCSS">https://tinyletter.com/SingaporeCSS</a></p>
     </div>
-    <a class="o-controls" href="#slide1">Back</a>
-    <a class="o-controls" href="#slide3">Next</a>
+    <div class="o-controls">
+      <a href="#slide1">Back</a>
+      <a href="#slide3">Next</a>
+    </div>
   </section>
 
-  <section id="slide3">
-    <div class="o-wrapper l-flex">
-      <h1 class="l-title">Shout-outs</h1>
+  <section class="slide" id="slide3">
+    <div class="o-content l-col">
+      <h1>Shout-outs</h1>
       <figure>
         <img src="img/engineers+webuild.svg" alt="Engineers.SG-webuild.sg merger" class="c-logo-big">
         <figcaption>Engineers.SG</figcaption>
@@ -50,13 +52,15 @@
         <figcaption>Chee Aun</figcaption>
       </figure>
     </div>
-    <a class="o-controls" href="#slide2">Back</a>
-    <a class="o-controls" href="#slide4">Next</a>
+    <div class="o-controls">
+      <a href="#slide2">Back</a>
+      <a href="#slide4">Next</a>
+    </div>
   </section>
 
-  <section id="slide4">
-    <div class="o-wrapper l-flex">
-      <h1 class="l-title">Friends of SingaporeCSS</h1>
+  <section class="slide" id="slide4">
+    <div class="o-content l-col">
+      <h1>Friends of SingaporeCSS</h1>
       <figure>
         <img src="img/singaporejs.svg" alt="SingaporeJS" class="c-logo-big">
         <figcaption>SingaporeJS</figcaption>
@@ -66,12 +70,14 @@
         <figcaption>React Knowledgeable</figcaption>
       </figure>
     </div>
-    <a class="o-controls" href="#slide3">Back</a>
-    <a class="o-controls" href="#slide5">Next</a>
+    <div class="o-controls">
+      <a href="#slide3">Back</a>
+      <a href="#slide5">Next</a>
+    </div>
   </section>
 
-  <section id="slide5">
-    <div class="o-wrapper">
+  <section class="slide" id="slide5">
+    <div class="o-content">
       <h1>Host of the month</h1>
       <figure>
         <video loop autoplay class="c-logo-big" style="margin-bottom:1em">
@@ -83,55 +89,63 @@
         <figcaption>GovTech (please forgive fuzzy logo)</figcaption>
       </figure>
     </div>
-    <a class="o-controls" href="#slide4">Back</a>
-    <a class="o-controls" href="#slide6">Next</a>
+    <div class="o-controls">
+      <a href="#slide4">Back</a>
+      <a href="#slide6">Next</a>
+    </div>
   </section>
 
-  <section id="slide6" style="background-color:orange">
-    <div class="o-wrapper">
+  <section class="slide" id="slide6" style="background-color:orange">
+    <div class="o-content">
       <h1>CSS colour of the month</h1>
       <p>orange</p>
       <p>#ffa500</p>
       <p>rgba(255, 165, 0, 1)</p>
     </div>
-    <a class="o-controls" href="#slide5">Back</a>
-    <a class="o-controls" href="#slide7">Next</a>
+    <div class="o-controls">
+      <a href="#slide5">Back</a>
+      <a href="#slide7">Next</a>
+    </div>
   </section>
 
-  <section id="slide7">
-    <div class="o-wrapper">
+  <section class="slide" id="slide7">
+    <div class="o-content">
       <h1>Agenda</h1>
       <small style="font-style:italic">(Order subject to change)</small>
       <ul style="list-style:none">
         <li><span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span> HTML and CSS news of the month (maybe) <span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span></li>
       </ul>
     </div>
-    <a class="o-controls" href="#slide6">Back</a>
-    <a class="o-controls" href="#slide8">Next</a>
-  </section>
-
-  <section id="slide8">
-    <div class="o-wrapper">
-      <h1>Announcements</h1>
-      <span class="o-emoji_large" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span><span class="o-emoji_large" role="img" tabindex="0" aria-label="rainbow">&#x1F308;</span><span class="o-emoji_large" role="img" tabindex="0" aria-label="fire">&#x1F525;</span><span class="o-emoji_large" role="img" tabindex="0" aria-label="person gesturing ok">&#x1F646;</span><span class="o-emoji_large" role="img" tabindex="0" aria-label="public address loudspeaker">&#x1F4E2;</span>
+    <div class="o-controls">
+      <a href="#slide6">Back</a>
+      <a href="#slide8">Next</a>
     </div>
-    <a class="o-controls" href="#slide7">Back</a>
-    <a class="o-controls" href="#slide9">Next</a>
   </section>
 
-  <section id="slide9">
-    <div class="o-wrapper">
-      <h1><span class="emoji" role="img" tabindex="0" aria-label="partying face">&#x1F973;</span> React Knowledgeable on 10 Oct! <span class="emoji" role="img" tabindex="0" aria-label="partying face">&#x1F973;</span></h1>
+  <section class="slide" id="slide8">
+    <div class="o-content">
+      <h1>Announcements</h1>
+      <span class="o-emoji_large" role="img" tabindex="0" aria-label="person dancing">&#x1F483;</span> <span class="o-emoji_large" role="img" tabindex="0" aria-label="rainbow">&#x1F308;</span> <span class="o-emoji_large" role="img" tabindex="0" aria-label="fire">&#x1F525;</span> <span class="o-emoji_large" role="img" tabindex="0" aria-label="person gesturing ok">&#x1F646;</span> <span class="o-emoji_large" role="img" tabindex="0" aria-label="public address loudspeaker">&#x1F4E2;</span>
+    </div>
+    <div class="o-controls">
+      <a href="#slide7">Back</a>
+      <a href="#slide9">Next</a>
+    </div>
+  </section>
+
+  <section class="slide" id="slide9">
+    <div class="o-content">
+      <h1><span class="emoji" role="img" tabindex="0" aria-label="partying face">&#x1F973;</span> RK on 10 Oct! <span class="emoji" role="img" tabindex="0" aria-label="partying face">&#x1F973;</span></h1>
       <figure>
         <img style="object-fit:contain" src="img/rk.svg" alt="React Knowledgeable" class="c-logo-big">
-        <figcaption><a href="https://reactknowledgeable.org/">https://reactknowledgeable.org/</a></figcaption>
+        <figcaption><a href="https://reactknowledgeable.org">https://reactknowledgeable.org</a></figcaption>
       </figure>
       <p>Happening at SP Digital</p>
     </div>
     <a class="o-controls" href="#slide8">Back</a>
   </section>
 
-  <section id="start">
+  <section id="start" class="start">
     <a href="#slide1">Start</a>
   </section>
 

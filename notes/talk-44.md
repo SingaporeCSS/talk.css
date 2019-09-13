@@ -13,8 +13,10 @@
 - [CSS Security Vulnerabilities](https://css-tricks.com/css-security-vulnerabilities/)
 - [Various Methods for Expanding a Box While Preserving the Border Radius](https://css-tricks.com/various-methods-for-expanding-a-box-while-preserving-the-border-radius/)
 - [Logical Operations with CSS Variables](https://css-tricks.com/logical-operations-with-css-variables/)
+- [Using Custom Properties to Wrangle Variations in Keyframe Animations](https://css-tricks.com/using-custom-properties-to-wrangle-variations-in-keyframe-animations/)
 
 ## Cool CodePens
 
 - [CSS Grid: Magazine Layouts](https://codepen.io/oliviale/full/GRKQoKM)
 - [U R OK Computer](https://codepen.io/avabakuie/pen/JjPrByK)
+- [With your eyes closed](https://codepen.io/tiffachoo/pen/zgOVmE)
