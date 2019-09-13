@@ -51,7 +51,7 @@ function navigate(event) {
     var randomHead = chrisHeads[random];
     randomHead.classList.toggle('active');
     lastActiveHead = randomHead;
-    setTimeout(headAppear, 5000);
+    setTimeout(headAppear, 20000);
   }
 
   headAppear();
