@@ -1,24 +1,23 @@
 ---
-name: talk
-about: submit a talk at talk.css
-title: "🦀"
+name: Talk
+about: Submit a talk for Talk.CSS
+title: "Anything related to CSS will do"
 labels: "talk"
 assignees: ""
 ---
 
+<!-- Please fill in your information, it's for the website. Otherwise Hui Jing will take creative liberties to fill in the gaps. You have been warned. -->
 
-<!-- Consider this template, but writing whatever about your talk also can
+Proposed talk title
+---
 
-Hi,
+Brief description of talk (few lines can liao)
+---
 
-My name is ${Crabbie Rust}. I am a ${lord of walking sideways} at ${sea}. 
+About you
+---
+**Full name**:
 
-I'd like to talk about ${how not to get caught and be eaten} at your ${which month} event.
+**Twitter or Github username**:
 
-Here's a little more background and motivation about the talk:
-
-${The human beings like to eat crab too much. We need to change that fact. Otherwise they are gonna keep catching us and steam us and eat us and they even feel good about it. If you are concerned about then endangerness of our species, please come support us. This world is better with your faith. Cheers.}
-
-As you can see above, I have a point to make. Please let me in thanks.
-
--->
+**Short bio (1-liner is good)**:
