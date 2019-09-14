@@ -14,11 +14,11 @@
  😎 | [Talk.CSS #40][40] | 12 Jun 2019 (Wed)  | Visa Worldwide | Colour of the month was `lightseagreen`
  😎 | [Talk.CSS #41][41] | 03 Jul 2019 (Wed)  | Rakuten Viki | Colour of the month was `steelblue` 
  😎 | [Talk.CSS #42][42] | 07 Aug 2019 (Wed)  | Hackerspace | Colour of the month was `snow`
- 😎 | [Talk.CSS #43][43] | 04 Sep 2019 (Wed)  | HOOQ | Might be all lightning talks, see how
- 😎 | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | GovTech Hive | 
+ 😎 | [Talk.CSS #43][43] | 04 Sep 2019 (Wed)  | HOOQ | Colour of the month was `orange`
+ ❗️ | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | GovTech Hive | 
  ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | Maybe Stripe, see how | 
 
-😎 - confirmed | ❔ - needs venue | ❗️ - needs help
+😎 - confirmed | ❔ - needs venue | ❗️ - needs speakers
 
 [#]: https://singaporecss.github.io/ "TalkCSS"
 [35]: https://singaporecss.github.io/35 "Talk.CSS #35"
@@ -52,7 +52,7 @@ Most of our talks at Talk.CSS are recorded by volunteers from Engineers.SG. Watc
 - Announce on [Kopi.JS slack channel](https://launchpass.com/kopijs) and `@` mention Hui Jing or Gao Wei
 - Message organisers on [Meetup.com](https://www.meetup.com/SingaporeCSS/)
 - Tweet [@SingaporeCSS](https://twitter.com/singaporecss)
-- Open an [issue](https://github.com/SingaporeCSS/talk.css/issues/new)
+- Open an [issue](https://github.com/SingaporeCSS/talk.css/issues/new?assignees=&labels=talk&template=talk.md&title=Anything+related+to+CSS+will+do)
 
 ## 📝 Notes to speakers
 
