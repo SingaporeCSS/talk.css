@@ -16,7 +16,7 @@
  😎 | [Talk.CSS #42][42] | 07 Aug 2019 (Wed)  | Hackerspace | Colour of the month was `snow`
  😎 | [Talk.CSS #43][43] | 04 Sep 2019 (Wed)  | HOOQ | Colour of the month was `orange`
  😎 | [Talk.CSS #44][#] | 02 Oct 2019 (Wed)  | GovTech Hive | 
- ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | Maybe Stripe, see how | 
+ ❔ | [Talk.CSS #45][#] | 06 Nov 2019 (Wed)  | Not Stripe, we see how | 
 
 😎 - confirmed | ❔ - needs venue | ❗️ - needs speakers
 
