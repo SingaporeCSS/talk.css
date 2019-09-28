@@ -8,6 +8,8 @@
         - go to Main Menu > Help > Report a DevTools issue to create an issue in the DevTools engineering team's tracker
         - providing a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) on Glitch dramatically increases the team's ability to fix your bug or implement your feature request
 
+- [Moving Firefox to a faster 4-week release cycle](https://hacks.mozilla.org/2019/09/moving-firefox-to-a-faster-4-week-release-cycle)
+
 ## Specifications
 
 - [Scroll-To-Text using a URL fragment](https://github.com/WICG/ScrollToTextFragment)
@@ -33,3 +35,5 @@
 - [With your eyes closed](https://codepen.io/tiffachoo/pen/zgOVmE)
 - [Old Clock](https://codepen.io/Adir-SL/pen/JzrLQp)
 - [CSS Grid Experiment #8: Fender Stratocaster](https://codepen.io/brykng/pen/oNvEBJb)
+- [Earth-chan](https://codepen.io/CodeMeNatalie/pen/gOYQdVV)
+- [Eggs](https://codepen.io/Adir-SL/pen/EGmeBm)

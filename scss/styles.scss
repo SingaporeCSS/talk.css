@@ -205,7 +205,7 @@ span[role=img][aria-label]:hover::after {
   }
   
   [id^=slide] {
-    transition: opacity 1s;
+    transition: opacity 0.6s;
     opacity: 0; 
     z-index: 0;
   }
