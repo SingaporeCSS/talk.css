@@ -8,7 +8,7 @@
 
 ## Interesting links
 
-
+- [Two ways to create an image with a colour overlay in CSS](https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio)
 
 ## Cool CodePens
 
