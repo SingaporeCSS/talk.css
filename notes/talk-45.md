@@ -15,3 +15,4 @@
 ## Cool CodePens
 
 - [Zero Divs! Pure CSS pixel art animation!](https://codepen.io/ivorjetski/full/xxKBWBN)
+- [Long Cat Spinner](https://codepen.io/jkantner/pen/jOONyoO)
