@@ -13,9 +13,13 @@
 - [.a-pull: A CSS algorithm for pulling one box outside another](https://notlaura.com/css-algorithm-pull/)
 - [Trying to make sense of Gmail CSS support (2019 edition)](https://emails.hteumeuleu.com/trying-to-make-sense-of-gmail-css-support-2019-edition-b7cc132ee226)
 - [Clipping, Clipping, and More Clipping!](https://css-tricks.com/clipping-clipping-and-more-clipping/)
+- [Editorial Design Patterns With CSS Grid And Named Columns](https://www.smashingmagazine.com/2019/10/editorial-design-patterns-css-grid-subgrid-naming/)
 
 ## Cool CodePens
 
 - [Zero Divs! Pure CSS pixel art animation!](https://codepen.io/ivorjetski/full/xxKBWBN)
-- [Long Cat Spinner](https://codepen.io/jkantner/pen/jOONyoO)
+- [Longcat spinner](https://codepen.io/jkantner/pen/jOONyoO)
 - [Day 17/18: Pokemon Friends](https://codepen.io/acupoftee/pen/YzzzYxj)
+- [Single element battery charge 🤓⚡️](https://codepen.io/jh3y/pen/MWgNdjB)
+- [CSS Rock-Paper-Scissors](https://codepen.io/alvaromontoro/pen/BaaBYyz)
+
