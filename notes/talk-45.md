@@ -19,6 +19,18 @@
     + Stylesheets contained in `<style>` elements are now cached for reuse, to improve performance (bug 1480146). Note that this currently doesn't include stylesheets that contain `@import` rules.
     + The `<ratio>` type now accepts `<number>/<number>` or a single `<number>` as a value. (bug 1565562).
 
+- [HTML & CSS-related updates for developers in Chrome 78](https://developers.google.com/web/updates/2019/10/nic78)
+    + CSS Properties and Values API
+        + can define a type and default fallback value for your custom properties
+
+- [What's new in Chrome DevTools 79](https://developers.google.com/web/updates/2019/10/devtools)
+    + Debug why a cookie was blocked
+    + View cookie values
+    + Simulate different prefers-color-scheme and prefers-reduced-motion preferences
+    + Code coverage updates (uses new colors to represent used and unused code)
+    + Debug why a network resource was requested
+    + Console and Sources panels respect indentation preferences again
+    + New shortcuts for cursor navigation
 
 ## Specifications
 
@@ -52,6 +64,7 @@
 - [Editorial Design Patterns With CSS Grid And Named Columns](https://www.smashingmagazine.com/2019/10/editorial-design-patterns-css-grid-subgrid-naming/)
 - [Mask Compositing: The Crash Course](https://css-tricks.com/mask-compositing-the-crash-course/)
 - [Dynamic CSS Components Without JavaScript](https://every-layout.dev/blog/css-components/)
+- [Weaving One Element Over and Under Another Element](https://css-tricks.com/weaving-one-element-over-and-under-another-element/)
 
 ## Cool CodePens
 
