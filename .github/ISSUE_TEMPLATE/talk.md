@@ -14,6 +14,9 @@ Proposed talk title
 Brief description of talk (few lines can liao)
 ---
 
+Estimated length of talk
+---
+
 About you
 ---
 **Full name**:
