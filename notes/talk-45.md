@@ -65,6 +65,8 @@
 - [Mask Compositing: The Crash Course](https://css-tricks.com/mask-compositing-the-crash-course/)
 - [Dynamic CSS Components Without JavaScript](https://every-layout.dev/blog/css-components/)
 - [Weaving One Element Over and Under Another Element](https://css-tricks.com/weaving-one-element-over-and-under-another-element/)
+- [The Current State of Styling Selects in 2019](https://css-tricks.com/the-current-state-of-styling-selects-in-2019/)
+- [Are There Random Numbers in CSS?](https://css-tricks.com/are-there-random-numbers-in-css/)
 
 ## Cool CodePens
 
@@ -75,3 +77,4 @@
 - [CSS Rock-Paper-Scissors](https://codepen.io/alvaromontoro/pen/BaaBYyz)
 - [CSS single div geometric pattern](https://codepen.io/lynnandtonic/pen/yLLeymm)
 - [CSS is Awesome - Variable fonts Edition.](https://codepen.io/mandymichael/full/vYYLByj)
+- [Cat-in-a-box](https://codepen.io/tiffachoo/pen/BEmLJw)
