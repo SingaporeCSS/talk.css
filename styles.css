@@ -27,7 +27,7 @@ html {
   height: 100%; }
 
 body {
-  font-family: "iA Writer Duospace", Courier, monospace;
+  font-family: "iA Writer Duospace", "iA Writer Duospace Regular", Courier, monospace;
   height: 100%;
   font-size: calc(0.75em + 2vmin);
   text-align: center;
@@ -114,7 +114,7 @@ span[role=img][aria-label] {
 span[role=img][aria-label]:focus::after,
 span[role=img][aria-label]:hover::after {
   font-size: 1rem;
-  font-family: "iA Writer Duospace", Courier, monospace;
+  font-family: "iA Writer Duospace", "iA Writer Duospace Regular", Courier, monospace;
   font-weight: 400;
   position: absolute;
   display: block;
