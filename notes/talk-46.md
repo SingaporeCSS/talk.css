@@ -27,7 +27,12 @@
 
 - [CSS Color Level 4 Working Draft updated](https://www.w3.org/TR/css-color-4/)
     + describes CSS properties which allow authors to specify the foreground color and opacity of the text content of an element
-    + also describes in detail the CSS `<color>` value type.
+    + also describes in detail the CSS `<color>` value type
+
+- [CSS Basic User Interface Module Level 4 Working Draft updated](https://www.w3.org/TR/css-ui-4/)
+    + describes user interface related properties and values to style HTML and XML (including XHTML)
+    + includes and extends user interface related features from the properties and values of previous CSS levels
+    + uses various properties and values to style basic user interface elements in a document
 
 ## Interesting links
 
@@ -38,7 +43,15 @@
 - [CSS at the Intersection (talk by Natalya Shelburne)](https://www.youtube.com/watch?v=VjSNqCDBWZA)
 - [CSS zoom, a close up on issues](http://www.otsukare.info/2019/11/30/css-zoom-nighmares)
 - [Z’s Still Not Dead Baby, Z’s Still Not Dead](https://24ways.org/2019/zs-still-not-dead-baby-zs-still-not-dead/)
+- [Beautiful Scrolling Experiences – Without Libraries](https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries/)
+- [Building my bullet journal layout with CSS Grid & Subgrid & Flexbox](https://blog.stephaniestimac.com/posts/12-29-2019-bullet-journal/)
+- [The unseen performance costs of modern CSS-in-JS libraries in React apps](https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps)
 
 ## Cool CodePens
 
 - [Bongo Cat Codes](https://codepen.io/carolineartz/pen/VwYwZaP)
+- [#CodepenChallenge: using circles to draw Homer Simpson](https://codepen.io/alvaromontoro/pen/JxMPqa)
+- [Pure CSS Playing Card No.1 - King of Hearts](https://codepen.io/ivorjetski/pen/ExaKmjw)
+- [css infinity stone](https://codepen.io/harold_winston/pen/YzPVYwJ)
+- [Solar Eclipse CSS only](https://codepen.io/Milleus/pen/bGNRMzV) 🇸🇬❤️
+- [100 years](https://codepen.io/hexagoncircle/pen/povdoXQ)

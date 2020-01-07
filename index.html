@@ -8,54 +8,6 @@
   <meta name="author" content="SingaporeCSS">
 
   <link rel="stylesheet" href="styles.css">
-  <style>
-  #slide1 {
-    background: url('img/cats.png') no-repeat center;
-    background-size: cover;
-  }
-
-  .party-grid {
-    display: grid;
-    grid-template-columns: 25vw 25vw;
-    grid-template-rows: 30vh 30vh;
-    grid-template-areas: "logo turns"
-                          "logo age";
-    justify-content: center;
-  }
-
-  img {
-    grid-area: logo;
-  }
-
-  span:nth-child(2) {
-    grid-area: turns;
-  }
-
-  p:nth-child(3) {
-    grid-area: age;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-  }
-
-  .gilbert {
-    font-family: 'Gilbert', 'Gilbert Color Bold Preview5';
-    font-size: 600%;
-  }
-
-  .numbers {
-    display: flex;
-    flex-wrap: wrap;
-    font-family: 'Gilbert', 'Gilbert Color Bold Preview5';
-    font-size: 250%;
-    list-style: none;
-    justify-content: center;
-  }
-
-  .numbers li {
-    margin: 0 0.25em;
-  }
-  </style>
 
   <script src="scripts.js" defer></script>
   <!--[if lt IE 9]>
@@ -64,17 +16,9 @@
 </head>
 
 <body>
-
   <section id="slide1">
-    <div class="o-wrapper">
-      <div class="party-grid">
-        <img src="img/party-logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
-        <span class="gilbert">turns</span>
-        <p>
-          <span class="gilbert">4!</span>
-          <span class="o-emoji">🎂</span>
-        </p>
-      </div>
+    <div class="o-content">
+      <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
       <p><a href="https://twitter.com/singaporecss">@SingaporeCSS</a></p>
       <p><a href="http://twitter.com/intent/tweet?text=%23TalkCSS">#TalkCSS</a></p>
     </div>
@@ -135,8 +79,8 @@
     <div class="o-content">
       <h1>Host of the month</h1>
       <figure>
-        <img style="object-fit:contain;" src="img/viki.svg" alt="Rakuten Viki" class="c-logo-big">
-        <figcaption>Rakuten Viki</figcaption>
+        <img style="object-fit:contain;" src="img/microsoft.svg" alt="Microsoft Singapore" class="c-logo-big">
+        <figcaption>Microsoft</figcaption>
       </figure>
     </div>
     <div class="o-controls">
@@ -164,11 +108,9 @@
       <small style="font-style:italic">(Order subject to change)</small>
       <ul style="list-style:none">
         <li><span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span> HTML and CSS news of the month <span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="eyes">&#x1F440;</span> User states in CSS (real title pending) <span class="emoji" role="img" tabindex="0" aria-label="eyes">&#x1F440;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="hundred points">&#x1F4AF;</span> Learning to Count with CSS <span class="emoji" role="img" tabindex="0" aria-label="hundred points">&#x1F4AF;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="hammer and spanner">&#x1F6E0;&#xFE0F;</span> Tools for Rapid CSS development <span class="emoji" role="img" tabindex="0" aria-label="hammer and spanner">&#x1F6E0;&#xFE0F;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="thinking face">&#x1F914;</span> Why would I use Javascript for my styling <span class="emoji" role="img" tabindex="0" aria-label="thinking face">&#x1F914;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="growing heart">&#x1F497;</span> 4 years of Talk.CSS <span class="emoji" role="img" tabindex="0" aria-label="growing heart">&#x1F497;</span></li>
+        <li><span class="emoji" role="img" tabindex="0" aria-label="person shrugging">&#x1F937;</span> Why and for whom UX (really) matters <span class="emoji" role="img" tabindex="0" aria-label="person shrugging">&#x1F937;</span></li>
+        <li><span class="emoji" role="img" tabindex="0" aria-label="framed picture">&#x1F5BC;&#xFE0F;</span> Text on Images - a Saga <span class="emoji" role="img" tabindex="0" aria-label="framed picture">&#x1F5BC;&#xFE0F;</span></li>
+        <li><span class="emoji" role="img" tabindex="0" aria-label="earth asia">&#x1F30F;</span> Web design across different cultures <span class="emoji" role="img" tabindex="0" aria-label="earth asia">&#x1F30F;</span></li>
       </ul>
     </div>
     <div class="o-controls">
@@ -195,7 +137,7 @@
         <img style="object-fit:contain" src="img/rk.svg" alt="React Knowledgeable" class="c-logo-big">
         <figcaption><a href="https://reactknowledgeable.org">https://reactknowledgeable.org</a></figcaption>
       </figure>
-      <p>Happening at GovTech Hive</p>
+      <p>Happening at 90 Seconds</p>
     </div>
     <div class="o-controls">
       <a href="#slide8">Back</a>
@@ -205,62 +147,17 @@
 
   <section class="slide" id="slide10">
     <div class="o-content">
-      <h1><span class="emoji" role="img" tabindex="0" aria-label="fox">&#x1F98A;</span> Mozilla Developer Roadshow <span class="emoji" role="img" tabindex="0" aria-label="fox">&#x1F98A;</span></h1>
+      <h1><span class="emoji" role="img" tabindex="0" aria-label="unicorn">&#x1F984;</span> Global Diversity CFP day <span class="emoji" role="img" tabindex="0" aria-label="unicorn">&#x1F984;</span></h1>
       <figure>
-        <img style="object-fit:contain" src="img/mdr-2019.png" alt="Mozilla Developer Roadshow Singapore" class="c-logo-big">
-        <figcaption><a href="https://ti.to/mdn/mozilla-developer-roadshow-2019-Asia-Singapore">http://bit.ly/mdr-sg19</a></figcaption>
+        <img src="https://d2z6c3c3r6k4bx.cloudfront.net/uploads/event/logo/1073592/0f36074837b00a7f02700a262bdc75a4.png" alt="Singapore chapter">
+        <figcaption><a href="https://ti.to/global-diversity-cfp-day-sg/2020-edition">http://bit.ly/gdcfpsg-2020</a></figcaption>
       </figure>
-      <p>18 November @ Grab</p>
+      <p>18 January @ Microsoft</p>
     </div>
     <div class="o-controls">
       <a href="#slide9">Back</a>
       <a href="#slide11">Next</a>
     </div>
-  </section>
-
-  <section class="slide" id="slide11">
-    <div class="o-content">
-      <h1>4 years of Talk.CSS</h1>
-      <div style="display:grid;grid-template-columns:50% 50%;align-items:center">
-        <ul>
-          <li><a href="https://singaporecss.github.io/about/">How we began</a></li>
-          <li><a href="https://singaporecss.github.io/1/">The first one</a></li>
-          <li><a href="https://github.com/SingaporeCSS/singaporecss.github.io">Our JS-free website</a></li>
-          <li><a href="https://singaporecss.github.io/archives/">When kenot find speakers</a></li>
-          <li><a href="https://singaporecss.github.io/24/">The only paid event</a></li>
-        </ul>
-        <ul class="numbers">
-          <li><a href="https://singaporecss.github.io/4/">#4</a></li>
-          <li><a href="https://singaporecss.github.io/5/">#5</a></li>
-          <li><a href="https://singaporecss.github.io/7/">#7</a></li>
-          <li><a href="https://singaporecss.github.io/8/">#8</a></li>
-          <li><a href="https://singaporecss.github.io/10/">#10</a></li>
-          <li><a href="https://singaporecss.github.io/12/">#12</a></li>
-          <li><a href="https://singaporecss.github.io/14/">#14</a></li>
-          <li><a href="https://singaporecss.github.io/19/">#19</a></li>
-          <li><a href="https://singaporecss.github.io/21/">#21</a></li>
-          <li><a href="https://singaporecss.github.io/28/">#28</a></li>
-          <li><a href="https://singaporecss.github.io/31/">#31</a></li>
-          <li><a href="https://singaporecss.github.io/34/">#34</a></li>
-          <li><a href="https://singaporecss.github.io/38/">#38</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="o-controls">
-      <a href="#slide10">Back</a>
-      <a href="#slide12">Next</a>
-    </div>
-  </section>
-
-  <section class="slide" id="slide12">
-    <div class="o-content">
-      <h1 class="gilbert" style="line-height:0">Thank you</h1>
-      <p style="font-size:275%;margin-bottom:0"><span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="emoji" role="img" tabindex="0" aria-label="orange heart">&#x1F9E1;</span><span class="emoji" role="img" tabindex="0" aria-label="yellow heart">&#x1F49B;</span><span class="emoji" role="img" tabindex="0" aria-label="green heart">&#x1F49A;</span><span class="emoji" role="img" tabindex="0" aria-label="blue heart">&#x1F499;</span><span class="emoji" role="img" tabindex="0" aria-label="purple heart">&#x1F49C;</span></p>
-      <p style="font-size:200%">No you, no us.</p>
-      <p>P.S. We are SingaporeCSS, anyhowly also got standard wan</p>
-    </div>
-
-    <a class="o-controls" href="#slide11">Back</a>
   </section>
 
   <section id="start" class="start">
