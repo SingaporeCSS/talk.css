@@ -2,21 +2,21 @@
 
 > _A meetup for all things CSS on this little red dot, sister meetup of [talk.js](https://github.com/SingaporeJS/talk.js). We have a code of conduct 👆._
 
-## 🗓 Schedule 2019
+## 🗓 Schedule 2020
 
  Status | Event   | Date                         | Venue  | Remarks |
 :------:|:--------|:-----------------------------|:-------|:--------|
- 😎 | [Talk.CSS #46][46] | 08 Jan 2019 (Wed) | Microsoft | first of the decade yo
- 😎 | [Talk.CSS #47][47] | 05 Feb 2019 (Wed)  | GovTech Hive | wow, already got speaker and venue
- 🤷‍♀️ | [Talk.CSS #48][48] | 04 Mar 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #49][49] | 01 Apr 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #50][50] | 06 May 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #51][51] | 03 Jun 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #52][52] | 01 Jul 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #53][53] | 05 Aug 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #54][54] | 02 Sep 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #55][55] | 07 Oct 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
- 🤷‍♀️ | [Talk.CSS #56][56] | 04 Nov 2019 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 😎 | [Talk.CSS #46][46] | 08 Jan 2020 (Wed) | Microsoft | first of the decade yo
+ 😎 | [Talk.CSS #47][47] | 05 Feb 2020 (Wed)  | GovTech Hive | wow, already got speaker and venue
+ 🤷‍♀️ | [Talk.CSS #48][48] | 04 Mar 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #49][49] | 01 Apr 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #50][50] | 06 May 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #51][51] | 03 Jun 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #52][52] | 01 Jul 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #53][53] | 05 Aug 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #54][54] | 02 Sep 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #55][55] | 07 Oct 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 🤷‍♀️ | [Talk.CSS #56][56] | 04 Nov 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
 
 😎 - confirmed | 🤷‍♀️ - who knows? | ⁉️ - send help
 
