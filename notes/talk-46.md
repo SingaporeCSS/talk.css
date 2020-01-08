@@ -2,6 +2,11 @@
 
 ## Browser updates
 
+- [HTML & CSS-related updates for developers in Firefox 72](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/72)
+    + CSS Shadow Parts are now enabled. This includes the `part` attribute and `::part` pseudo-element, which allow shadow hosts to selectively expose chosen elements from their shadow tree to the outside page for styling purposes (bug 1559074).
+    + CSS Motion Path has been shipped (bug 1582554, also see the Intent to Ship). This includes: `offset`, `offset-anchor`, `offset-path`, `offset-distance`, `offset-rotate`
+    + The individual transform properties — `scale`, `rotate`, and `translate` — are now enabled by default (bug 1424900). 
+
 - [HTML & CSS-related updates for developers in Firefox 71](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/71)
     + Added the `subgrid` value from CSS Grid Level 2 to `grid-template-columns` and `grid-template-rows` (bug 1580894)
     + Added support for the `column-span` property to Multiple-column Layout (bug 1426010)
@@ -11,6 +16,17 @@
 - [What's new in Chrome DevTools 80](https://developers.google.com/web/updates/2019/12/devtools)
     + Nothing related to HTML and CSS tbh
     + Configuration UI has a new, responsive design, and the throttling configuration options have been simplified
+
+- [Safari Technology Preview 97 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    + Added support for the Q unit
+    + Changed to not perform range checking for `calc()` at parse time
+    + Changed CSS Transitions and CSS Animations properties to treat unit-less 0 as an invalid value for times
+    + Changed media queries in `img` sizes attribute to evaluate dynamically
+    + Fixed CSS grid line name positions after auto repeat with no line names
+    + Fixed `-webkit-font-smoothing: none` not antialiasing subsequent elements
+    + Fixed `::before` and `::after` elements not filling their grid cell when the container has `display: contents`
+    + Fixed `calc()` serialization to match the specifications
+    + Implemented the CSS `clamp()` function
 
 ## Specifications
 
@@ -46,6 +62,9 @@
 - [Beautiful Scrolling Experiences – Without Libraries](https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries/)
 - [Building my bullet journal layout with CSS Grid & Subgrid & Flexbox](https://blog.stephaniestimac.com/posts/12-29-2019-bullet-journal/)
 - [The unseen performance costs of modern CSS-in-JS libraries in React apps](https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps)
+- [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/)
+- [Get Moving (or not) with CSS Motion Path](https://danielcwilson.com/blog/2020/01/motion-path-quirks/)
+- [Fun with CSS Motion Path](https://css-irl.info/fun-with-css-motion-path/)
 
 ## Cool CodePens
 
