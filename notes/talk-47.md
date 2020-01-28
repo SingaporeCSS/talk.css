@@ -24,3 +24,5 @@
 - [Times of day CSS paintings](https://codepen.io/pieter-biesemans/pen/vxGNQe)
 - [Zebra Page- web animation from a Procreate drawing](https://codepen.io/sdras/pen/VwYyXZV)
 - [Flowers](https://codepen.io/cassie-codes/pen/eYmXozM)
+- [CSS Grid: Cross Stitch](https://codepen.io/oliviale/pen/RwNdeeQ) ❤️🇲🇾🇸🇬
+- [Single div challenge](https://codepen.io/yuanchuan/pen/OJPdpKv)
