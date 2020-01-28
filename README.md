@@ -8,7 +8,7 @@
 :------:|:--------|:-----------------------------|:-------|:--------|
  😎 | [Talk.CSS #46][46] | 08 Jan 2020 (Wed) | Microsoft | Colour of the month was `aliceblue`
  😎 | [Talk.CSS #47][47] | 05 Feb 2020 (Wed)  | GovTech Hive | wow, already got speaker and venue
- 🤷‍♀️ | [Talk.CSS #48][48] | 04 Mar 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 😎 | [Talk.CSS #48][48] | 04 Mar 2020 (Wed)  | HOOQ | y'all so kind, already volunteer to speak eh
  🤷‍♀️ | [Talk.CSS #49][49] | 01 Apr 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #50][50] | 06 May 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #51][51] | 03 Jun 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
