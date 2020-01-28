@@ -16,6 +16,11 @@ Brief description of talk (few lines can liao)
 
 Estimated length of talk
 ---
+<!-- Your best guess. For planning purposes. Venue hosts also need to go home -->
+
+When you want to give said talk
+---
+<!-- Please fill in a month so I can do some kind of planning -->
 
 About you
 ---
