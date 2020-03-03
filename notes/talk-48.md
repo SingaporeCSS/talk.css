@@ -24,7 +24,7 @@ Tightened up stylesheet loading
 
 - [Let’s Define CSS 4](https://github.com/w3c/csswg-drafts/issues/4770)
 
-- [CSS Scroll Anchoring Module Level 1 Working Draft released](https://www.w3.org/TR/2020/WD-css-scroll-anchoring-1/)
+- [CSS Scroll Anchoring Module Level 1 Working Draft released](https://www.w3.org/TR/css-scroll-anchoring-1/)
     + proposes a mechanism to mitigate this jarring user experience of page moving while the user is in the middle of consuming the content by keeping track of the position of an anchor node and adjusting the scroll offset accordingly
 
 - [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
