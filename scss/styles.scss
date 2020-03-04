@@ -291,3 +291,9 @@ span[role=img][aria-label]:hover::after {
     transform: translate(0, var(--ty, 0)) rotate(90deg);
   }
 }
+
+.controllers {
+  position: fixed;
+  top: 0;
+  left: 0;
+}

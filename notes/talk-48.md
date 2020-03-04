@@ -27,10 +27,14 @@ Tightened up stylesheet loading
 - [CSS Scroll Anchoring Module Level 1 Working Draft released](https://www.w3.org/TR/css-scroll-anchoring-1/)
     + proposes a mechanism to mitigate this jarring user experience of page moving while the user is in the middle of consuming the content by keeping track of the position of an anchor node and adjusting the scroll offset accordingly
 
-- [Media Queries Level 5](https://drafts.csswg.org/mediaqueries-5/)
+- [Media Queries Level 5](https://www.w3.org/TR/mediaqueries-5/)
     + contains extensions and additions to Level 4
     + Environment Media Features, Scripting Media Features, Custom Media Queries, User Preference Media Features
     + [Support for the prefers-reduced-data media query feature](https://chromium-review.googlesource.com/c/chromium/src/+/2083838)
+ 
+ - [CSS Color Module Level 5](https://www.w3.org/TR/css-color-5/)
+    + extends CSS Color to add colour modification functions
+    + adds `color-mix`, `color-contrast` and a way to modify colours (currently 2 proposals being debated, `color-adjust` and relative colour syntax)
 
 ## Interesting links
 
