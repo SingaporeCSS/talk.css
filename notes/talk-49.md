@@ -21,8 +21,12 @@
 - [Why 543 KB keep me up at night](https://www.matuzo.at/blog/why-543kb-keep-me-up-at-night/)
 - [Animating CSS Width and Height Without the Squish Effect](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/)
 - [4 Ways to Animate the Color of a Text Link on Hover](https://css-tricks.com/4-ways-to-animate-the-color-of-a-text-link-on-hover/)
+- [CSS X](https://www.w3.org/blog/2020/03/css-x/)
+- [Thoughts on how we write CSS](https://notlaura.com/twitter-thread-as-blog-post-thoughts-on-how-we-write-css/)
 
 ## Cool CodePens
 
 - [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG)
+- [Stacked rainbow cards](https://codepen.io/fossheim/pen/LYVOBRZ)
+- [CSS Flipping Text 🍳](https://codepen.io/jh3y/pen/VwLQZOY)
 
