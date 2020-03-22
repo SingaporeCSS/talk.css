@@ -8,8 +8,8 @@
 :------:|:--------|:-----------------------------|:-------|:--------|
  😎 | [Talk.CSS #46][46] | 08 Jan 2020 (Wed) | Microsoft | Colour of the month was `aliceblue`
  😎 | [Talk.CSS #47][47] | 05 Feb 2020 (Wed)  | Online | Colour of the month was `paleturquoise`
- 🤔 | [Talk.CSS #48][48] | 04 Mar 2020 (Wed)  | Online | DORSCON is now 🟠
- 🤷‍♀️ | [Talk.CSS #49][49] | 01 Apr 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 😎 | [Talk.CSS #48][48] | 04 Mar 2020 (Wed)  | Online | Colour of the month was `sienna`
+ 😎 | [Talk.CSS #49][49] | 01 Apr 2020 (Wed)  | Online | DORSCON is still 🟠
  🤷‍♀️ | [Talk.CSS #50][50] | 06 May 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #51][51] | 03 Jun 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #52][52] | 01 Jul 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
@@ -24,7 +24,7 @@
 [46]: https://singaporecss.github.io/46 "Talk.CSS #46"
 [47]: https://singaporecss.github.io/47 "Talk.CSS #47"
 [48]: https://singaporecss.github.io/48 "Talk.CSS #48"
-[49]: javascript:void(0) "Talk.CSS #49"
+[49]: https://singaporecss.github.io/49 "Talk.CSS #49"
 [50]: javascript:void(0) "Talk.CSS #50"
 [51]: javascript:void(0) "Talk.CSS #51"
 [52]: javascript:void(0) "Talk.CSS #52"
