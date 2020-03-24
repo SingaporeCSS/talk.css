@@ -30,4 +30,9 @@
 - [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG)
 - [Stacked rainbow cards](https://codepen.io/fossheim/pen/LYVOBRZ)
 - [CSS Flipping Text 🍳](https://codepen.io/jh3y/pen/VwLQZOY)
+- [Hello Spring - CSS colouring page](https://codepen.io/Lubna/pen/dyoqzwP)
+- [Cute Cacti - CSS colouring pages](https://codepen.io/Lubna/pen/RwPYjGB)
+- [Paper Chase](https://codepen.io/cobra_winfrey/pen/gOpzozo)
+- [Conic gradients + CSS masks (no FF)](https://codepen.io/yoksel/pen/xxGJOPj)
+- [Fit Text with CSS Variables](https://codepen.io/shshaw/pen/LYVBVve)
 
