@@ -78,6 +78,25 @@ var navigate = function navigate(event) {
   }
 };
 
+(function () {
+  var chrisHeads = document.getElementsByClassName('jsChris');
+  var nonsense = document.getElementById('nonsense');
+  var lastActiveHead = null;
+
+  function headAppear() {
+    nonsense.style.setProperty('--tx', Math.floor(Math.random() * 100) + 0 + 'vw');
+    nonsense.style.setProperty('--ty', Math.floor(Math.random() * 100) + 0 + 'vh');
+    if (lastActiveHead) lastActiveHead.classList.toggle('active');
+    var random = Math.floor(Math.random() * (chrisHeads.length - 1)) + 0;
+    var randomHead = chrisHeads[random];
+    randomHead.classList.toggle('active');
+    lastActiveHead = randomHead;
+    setTimeout(headAppear, 20000);
+  }
+
+  headAppear();
+})();
+
 var launchFullscreen = function launchFullscreen(element) {
   if (element.requestFullscreen) {
     element.requestFullscreen();

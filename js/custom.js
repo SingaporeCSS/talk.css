@@ -1,5 +1,5 @@
 const slideCount = document.querySelectorAll('section').length;
-
+ 
 const controls = event => {
   const isCover = window.location.hash === '' || window.location.hash === '#start';
   if (isCover) {
@@ -56,6 +56,25 @@ const navigate = event => {
     }
   }
 }
+
+(function() {
+  const chrisHeads = document.getElementsByClassName('jsChris')
+  const nonsense = document.getElementById('nonsense')
+  var lastActiveHead = null
+
+  function headAppear() {
+    nonsense.style.setProperty('--tx', Math.floor(Math.random() * 100) + 0 + 'vw')
+    nonsense.style.setProperty('--ty', Math.floor(Math.random() * 100) + 0 + 'vh')
+    if (lastActiveHead) lastActiveHead.classList.toggle('active')
+    const random = Math.floor(Math.random() * (chrisHeads.length - 1)) + 0
+    const randomHead = chrisHeads[random]
+    randomHead.classList.toggle('active')
+    lastActiveHead = randomHead
+    setTimeout(headAppear, 20000)
+  }
+  headAppear()
+})()
+
 
 const launchFullscreen = element => {
   if (element.requestFullscreen) {
