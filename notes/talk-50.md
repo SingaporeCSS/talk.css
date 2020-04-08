@@ -22,3 +22,5 @@
 ## Cool CodePens
 
 - [CSS Neumorphic Toggle](https://codepen.io/cobra_winfrey/pen/YzXOBEN)
+- [Neumorphic Grid + Animation](https://codepen.io/kyleshook/pen/XWbwBYq)
+- [CSS: Cat works remotely in spring](https://codepen.io/deren2525/pen/gOpNOYE)
