@@ -21,7 +21,7 @@
 
 - [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 - [Updates to form controls and focus ](https://blog.chromium.org/2020/03/updates-to-form-controls-and-focus.html)
-- []()
+- [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/)
 
 ## Cool CodePens
 
