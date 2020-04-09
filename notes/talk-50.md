@@ -1,6 +1,17 @@
 # HTML and CSS News for May 2020
 
 ## Browser updates
+ 
+- [HTML & CSS-related updates for developers in Firefox 75](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/75)
+    + It is now possible to resize the rectangle of the Measuring Tool (bug 1152321).
+    + In the inspector, you can now use XPath expressions to locate elements, in addition to locating elements using CSS selectors as before (bug 963933).
+    + You can now filter WebSocket messages using regular expressions, in addition to plain text search, by simply writing the regular expression in slashes (bug 1593837).
+    + The loading attribute of the `<img>` element has now been implemented. This string value can be used to specify that the image should be lazily loaded, by setting its value to lazy (bug 1542784).
+    + The value of the `<style>` element's type attribute is now restricted to `text/css` only, as per the spec (bug 1614329).
+    + Support for the `min()`, `max()`, and `clamp()` functions has been implemented (bug 1519519).
+    + The `all` value of the `text-decoration-skip-ink` property has been added (bug 1611965)
+
+- [Firefox 75: Ambitions for April](https://hacks.mozilla.org/2020/04/firefox-75-ambitions-for-april/)
 
 
 ## Specifications
