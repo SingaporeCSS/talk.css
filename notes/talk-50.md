@@ -33,6 +33,8 @@
 - [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 - [Updates to form controls and focus ](https://blog.chromium.org/2020/03/updates-to-form-controls-and-focus.html)
 - [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/)
+- [Why Do Some HTML Elements Become Deprecated?](https://css-tricks.com/why-do-some-html-elements-become-deprecated/)
+- [Building dark mode on Stack Overflow](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/)
 
 ## Cool CodePens
 
