@@ -35,6 +35,8 @@
 - [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/)
 - [Why Do Some HTML Elements Become Deprecated?](https://css-tricks.com/why-do-some-html-elements-become-deprecated/)
 - [Building dark mode on Stack Overflow](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/)
+- [Create a 🖨️ printable zine with CSS](https://dev.to/rowan_m/create-a-printable-zine-with-css-5c0c)
+- [Using CSS to Set Text Inside a Circle](https://css-tricks.com/using-css-to-set-text-inside-a-circle/)
 
 ## Cool CodePens
 
@@ -42,3 +44,7 @@
 - [Neumorphic Grid + Animation](https://codepen.io/kyleshook/pen/XWbwBYq)
 - [CSS: Cat works remotely in spring](https://codepen.io/deren2525/pen/gOpNOYE)
 - [CSS drawing: The king and the fly](https://codepen.io/alvaromontoro/pen/dyojLvx)
+- [CSS Chop!](https://codepen.io/hexagoncircle/pen/ExjwZZg)
+- [The Mysterious Garden (Pure CSS)](https://codepen.io/cybercountess/pen/xxwKRxN)
+- [DUALITY - PURE CSS](https://codepen.io/MananTank/pen/zYvYrrd)
+
