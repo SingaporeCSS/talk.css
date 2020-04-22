@@ -13,6 +13,13 @@
 
 - [Firefox 75: Ambitions for April](https://hacks.mozilla.org/2020/04/firefox-75-ambitions-for-april/)
 
+- [Safari Technology Preview 104 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    - Add support for `:is()`
+    - Fixed changes in grid or elements inside the grid affecting margin on other elements in the grid
+    - Added label text to suggested values for a `<datalist>` element
+    - Fixed `<datalist>` dropdown suggestions table able to be scrolled too far
+    - Fixed a change event getting dispatched when a `<textarea>` gets changed without focus
+    - [Web inspector]: Created a visual editor for `box-shadow`
 
 ## Specifications
 
@@ -37,6 +44,7 @@
 - [Building dark mode on Stack Overflow](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/)
 - [Create a 🖨️ printable zine with CSS](https://dev.to/rowan_m/create-a-printable-zine-with-css-5c0c)
 - [Using CSS to Set Text Inside a Circle](https://css-tricks.com/using-css-to-set-text-inside-a-circle/)
+- [Pseudo-Randomly Adding Illustrations with CSS](https://meyerweb.com/eric/thoughts/2020/04/15/pseudo-randomly-adding-illustrations-with-css/)
 
 ## Cool CodePens
 
@@ -47,4 +55,4 @@
 - [CSS Chop!](https://codepen.io/hexagoncircle/pen/ExjwZZg)
 - [The Mysterious Garden (Pure CSS)](https://codepen.io/cybercountess/pen/xxwKRxN)
 - [DUALITY - PURE CSS](https://codepen.io/MananTank/pen/zYvYrrd)
-
+- [macintosh.css](https://codepen.io/fossheim/pen/oNjxrZa)
