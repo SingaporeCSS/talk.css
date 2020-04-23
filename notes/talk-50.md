@@ -21,6 +21,8 @@
     - Fixed a change event getting dispatched when a `<textarea>` gets changed without focus
     - [Web inspector]: Created a visual editor for `box-shadow`
 
+- [Revert the revert of 'revert'](https://chromium-review.googlesource.com/c/chromium/src/+/2153121)
+
 ## Specifications
 
 - [CSS Speech Module Candidate Recommendation released](https://www.w3.org/TR/css-speech-1/)
