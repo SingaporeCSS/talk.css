@@ -23,6 +23,8 @@
 
 - [Revert the revert of 'revert'](https://chromium-review.googlesource.com/c/chromium/src/+/2153121)
 
+- [`gap` property is FINALLY in Chrome Canary](https://twitter.com/Una/status/1255275713248350208)
+
 ## Specifications
 
 - [CSS Speech Module Candidate Recommendation released](https://www.w3.org/TR/css-speech-1/)
@@ -37,6 +39,12 @@
     + contains extensions and additions to Level 4
     + Environment Media Features, Scripting Media Features, Custom Media Queries, User Preference Media Features
 
+- [CSS Properties and Values API Level 1](https://drafts.css-houdini.org/css-properties-values-api-1/#at-property-rule)
+    + extends [css-variables], allowing the registration of properties that have a value type, an initial value, and a defined inheritance behaviour, via two methods:
+        - A JS API, the `registerProperty()` method
+        - A CSS at-rule, the `@property` rule
+    + [CSS tricks: @property](https://css-tricks.com/property/)
+
 ## Interesting links
 
 - [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
@@ -47,6 +55,9 @@
 - [Create a 🖨️ printable zine with CSS](https://dev.to/rowan_m/create-a-printable-zine-with-css-5c0c)
 - [Using CSS to Set Text Inside a Circle](https://css-tricks.com/using-css-to-set-text-inside-a-circle/)
 - [Pseudo-Randomly Adding Illustrations with CSS](https://meyerweb.com/eric/thoughts/2020/04/15/pseudo-randomly-adding-illustrations-with-css/)
+- [Using CSS to Control Text Selection](https://codersblock.com/blog/using-css-to-control-text-selection/)
+- [Constrained CSS grids without max-width](https://ethanmarcotte.com/wrote/css-grid-without-max-width/)
+- [Dark mode and variable fonts](https://css-tricks.com/dark-mode-and-variable-fonts/)
 
 ## Cool CodePens
 
@@ -58,3 +69,6 @@
 - [The Mysterious Garden (Pure CSS)](https://codepen.io/cybercountess/pen/xxwKRxN)
 - [DUALITY - PURE CSS](https://codepen.io/MananTank/pen/zYvYrrd)
 - [macintosh.css](https://codepen.io/fossheim/pen/oNjxrZa)
+- [braunradio.css](https://codepen.io/fossheim/pen/OJypZve)
+- [Tron Skyline](https://codepen.io/jordirue/pen/NWGjwzz)
+- [Keyboard](https://codepen.io/stephsstar/pen/BaoRJYb)
