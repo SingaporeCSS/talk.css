@@ -45,6 +45,18 @@
         - A CSS at-rule, the `@property` rule
     + [CSS tricks: @property](https://css-tricks.com/property/)
 
+- [CSS Box Model Level 3 updated and split](https://www.w3.org/TR/css-box-3/) to [Level 4 FPWD](https://drafts.csswg.org/css-box-4/)
+    + describes the margin and padding properties, which create spacing in and around a CSS box
+    + replaces the definitions of the margin and padding properties defined in [CSS2](https://www.w3.org/TR/CSS2/) sections 8.1, 8.2, 8.3 (but not 8.3.1), and 8.4
+
+- [CSS Text Module Level 3 Working Draft updated](https://www.w3.org/TR/css-text-3/)
+    + defines properties for text manipulation and specifies their processing model
+    + covers line breaking, justification and alignment, white space handling, and text transformation
+
+- [CSS Ruby Layout Module Level 1 Working Draft updated](https://www.w3.org/TR/css-ruby-1/)
+    + “Ruby”, a form of interlinear annotation, are short runs of text alongside the base text and are typically used in East Asian documents to indicate pronunciation or to provide a short annotation
+    + describes the rendering model and formatting controls related to displaying ruby annotations in CSS
+
 ## Interesting links
 
 - [LCH colors in CSS: what, why, and how?](http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
@@ -58,6 +70,7 @@
 - [Using CSS to Control Text Selection](https://codersblock.com/blog/using-css-to-control-text-selection/)
 - [Constrained CSS grids without max-width](https://ethanmarcotte.com/wrote/css-grid-without-max-width/)
 - [Dark mode and variable fonts](https://css-tricks.com/dark-mode-and-variable-fonts/)
+- [CSS Clamp: The Goldilocks of CSS Math Functions](https://www.stevefenton.co.uk/2020/04/css-clamp-the-goldilocks-of-css-math-functions/)
 
 ## Cool CodePens
 
