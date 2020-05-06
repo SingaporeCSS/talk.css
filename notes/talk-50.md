@@ -13,7 +13,13 @@
 
 - [Firefox 75: Ambitions for April](https://hacks.mozilla.org/2020/04/firefox-75-ambitions-for-april/)
 
-- [Safari Technology Preview 104 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+- [Safari Technology Preview 105 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    + Added Selectors Level 4 specificity calculation for pseudo classes
+    + Added support for font-relative `lh` and `rlh` unit frp, CSS Values Level 4 specification
+    + Corrected the computed style for `outline-offset` when `outline-style` is none
+    + Fixed bad style sharing between sibling elements with different part attributes for CSS Shadow Parts
+    + Implemented the CSS Color Level 4 behavior for inheritance of `currentColor`
+    + Prevented caching definite height against perpendicular flex items
     - Add support for `:is()`
     - Fixed changes in grid or elements inside the grid affecting margin on other elements in the grid
     - Added label text to suggested values for a `<datalist>` element
