@@ -25,6 +25,8 @@
 
 - [`gap` property is FINALLY in Chrome Canary](https://twitter.com/Una/status/1255275713248350208)
 
+- [CSS grid tooling coming soon to Chromium](https://twitter.com/ChromeDevTools/status/1255481965995851782)
+
 ## Specifications
 
 - [CSS Speech Module Candidate Recommendation released](https://www.w3.org/TR/css-speech-1/)
