@@ -71,6 +71,7 @@
 - [Constrained CSS grids without max-width](https://ethanmarcotte.com/wrote/css-grid-without-max-width/)
 - [Dark mode and variable fonts](https://css-tricks.com/dark-mode-and-variable-fonts/)
 - [CSS Clamp: The Goldilocks of CSS Math Functions](https://www.stevefenton.co.uk/2020/04/css-clamp-the-goldilocks-of-css-math-functions/)
+- [`lh` and `rlh` units ](https://css-tricks.com/lh-and-rlh-units/)
 
 ## Cool CodePens
 
@@ -83,5 +84,8 @@
 - [DUALITY - PURE CSS](https://codepen.io/MananTank/pen/zYvYrrd)
 - [macintosh.css](https://codepen.io/fossheim/pen/oNjxrZa)
 - [braunradio.css](https://codepen.io/fossheim/pen/OJypZve)
+- [switch.css](https://codepen.io/fossheim/pen/jObGxQQ)
 - [Tron Skyline](https://codepen.io/jordirue/pen/NWGjwzz)
 - [Keyboard](https://codepen.io/stephsstar/pen/BaoRJYb)
+- [scssuper mario face](https://codepen.io/louflan/pen/BaoJpwX)
+- [Pure Responsive CSS Snorlax 😅](https://codepen.io/jh3y/pen/yLYXVJa)
