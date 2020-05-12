@@ -15,4 +15,7 @@
 
 ## Cool CodePens
 
-- []()
+- [2000](https://codepen.io/cobra_winfrey/pen/LYpeKrd)
+- [Sassy 404 UI Study](https://codepen.io/justinjunodev/pen/WNQMyvX)
+- [Minecraft world animated in pure CSS](https://codepen.io/hailedev/pen/OJyvvVQ)
+- [Catbread 🐱🍞](https://codepen.io/jkantner/pen/vYNRdJL)
