@@ -22,3 +22,4 @@
 - [Minecraft world animated in pure CSS](https://codepen.io/hailedev/pen/OJyvvVQ)
 - [Catbread 🐱🍞](https://codepen.io/jkantner/pen/vYNRdJL)
 - [Custom Cascades](https://codepen.io/mirisuzanne/pen/vYNgodb)
+- [Animal Crossing: Isabelle's Day Off ☀️(Pure CSS)](https://codepen.io/cybercountess/full/gOaoWmX)
