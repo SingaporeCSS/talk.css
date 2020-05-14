@@ -12,6 +12,8 @@
 ## Interesting links
 
 - [Let’s Take a Deep Dive Into the CSS Contain Property ](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)
+- [Equal Width Columns in CSS Grid are Kinda Weird](https://css-tricks.com/equal-width-columns-in-css-grid-are-kinda-weird/)
+- [Pseudo-elements in the Web Animations API](https://danielcwilson.com/blog/2020/05/pseudo-waapi/)
 
 ## Cool CodePens
 
