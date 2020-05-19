@@ -23,3 +23,6 @@
 - [Catbread 🐱🍞](https://codepen.io/jkantner/pen/vYNRdJL)
 - [Custom Cascades](https://codepen.io/mirisuzanne/pen/vYNgodb)
 - [Animal Crossing: Isabelle's Day Off ☀️(Pure CSS)](https://codepen.io/cybercountess/full/gOaoWmX)
+- [Single div CSS sinking cube](https://codepen.io/lynnandtonic/pen/NWGLMMO)
+- [CSS Pufferfish Breathing Exercise](https://codepen.io/wendko/pen/qBOMRVG)
+- [the power of inherit](https://codepen.io/warkentien2/pen/jOERBGw)
