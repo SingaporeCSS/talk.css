@@ -9,6 +9,9 @@
 - [CSS Text Decoration Module Level 4](https://www.w3.org/TR/css-text-decor-4/)
     + contains the features of CSS relating to text decoration, such as underlines, text shadows, and emphasis marks
 
+- [CSS Display Module Level 3](https://www.w3.org/TR/css-display-3/)
+    + describes how the CSS formatting box tree is generated from the document element tree and defines the display property that controls it
+
 ## Interesting links
 
 - [Let’s Take a Deep Dive Into the CSS Contain Property ](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)
