@@ -36,6 +36,7 @@
 - 📝 [Pseudo-elements in the Web Animations API](https://danielcwilson.com/blog/2020/05/pseudo-waapi/)
 - 📝 [Safe/unsafe alignment in CSS flexbox](https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/)
 - 🎥 [Annie Sullivan :: Understanding Cumulative Layout Shift](https://youtu.be/zIJuY-JCjqw)
+- 👀 [Suzanne Makes 100 Things In CSS](https://codepen.io/collection/AeyMRz)
 
 ## Cool CodePens
 
@@ -48,3 +49,6 @@
 - [Single div CSS sinking cube](https://codepen.io/lynnandtonic/pen/NWGLMMO)
 - [CSS Pufferfish Breathing Exercise](https://codepen.io/wendko/pen/qBOMRVG)
 - [the power of inherit](https://codepen.io/warkentien2/pen/jOERBGw)
+- [Emojis as mask images](https://codepen.io/yuanchuan/pen/vYNQVvj)
+- [Pure CSS Lite Brite, but with CSS Counters](https://codepen.io/RockStarwind/pen/oNjmXpz)
+- [Single div CSS “Six”](https://codepen.io/lynnandtonic/pen/QWjYXqX)
