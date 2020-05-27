@@ -23,11 +23,18 @@
 
 ## Specifications
 
-- [CSS Text Decoration Module Level 4](https://www.w3.org/TR/css-text-decor-4/)
+- [CSS Text Decoration Module Level 4 Working Draft updated](https://www.w3.org/TR/css-text-decor-4/)
     + contains the features of CSS relating to text decoration, such as underlines, text shadows, and emphasis marks
 
-- [CSS Display Module Level 3](https://www.w3.org/TR/css-display-3/)
+- [CSS Display Module Level 3 Working Draft updated](https://www.w3.org/TR/css-display-3/)
     + describes how the CSS formatting box tree is generated from the document element tree and defines the display property that controls it
+
+- [CSS Positioned Layout Module Level 3 Working Draft updated](https://www.w3.org/TR/css-position-3/)
+    + defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning
+    
+- [CSS Box Sizing Module Level 4 Working Draft published](https://www.w3.org/TR/css-sizing-4/)
+    + extends the CSS sizing properties with keywords that represent content-based "intrinsic" sizes and context-based "extrinsic" sizes
+    + allows CSS to more easily describe boxes that fit their content or fit into a particular layout context
 
 ## Interesting links
 
@@ -35,6 +42,8 @@
 - 📝 [Equal Width Columns in CSS Grid are Kinda Weird](https://css-tricks.com/equal-width-columns-in-css-grid-are-kinda-weird/)
 - 📝 [Pseudo-elements in the Web Animations API](https://danielcwilson.com/blog/2020/05/pseudo-waapi/)
 - 📝 [Safe/unsafe alignment in CSS flexbox](https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/)
+- 📝 [Responsive web design turns ten](https://ethanmarcotte.com/wrote/responsive-design-at-10/)
+- 📝 [Here’s what I didn’t know about “content”](https://www.matuzo.at/blog/heres-what-i-didnt-know-about-content)
 - 🎥 [Annie Sullivan :: Understanding Cumulative Layout Shift](https://youtu.be/zIJuY-JCjqw)
 - 👀 [Suzanne Makes 100 Things In CSS](https://codepen.io/collection/AeyMRz)
 
