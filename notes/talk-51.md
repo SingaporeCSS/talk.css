@@ -46,6 +46,9 @@
 - 📝 [Here’s what I didn’t know about “content”](https://www.matuzo.at/blog/heres-what-i-didnt-know-about-content)
 - 🎥 [Annie Sullivan :: Understanding Cumulative Layout Shift](https://youtu.be/zIJuY-JCjqw)
 - 👀 [Suzanne Makes 100 Things In CSS](https://codepen.io/collection/AeyMRz)
+- 📝 [Background Patterns, Simplified by Conic Gradients ](https://css-tricks.com/background-patterns-simplified-by-conic-gradients/)
+- 📝 [Web Engine Diversity and Ecosystem Health](https://bkardell.com/blog/EcosystemHealth.html)
+- 📝 [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
 
 ## Cool CodePens
 
