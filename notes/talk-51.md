@@ -1,7 +1,24 @@
 # HTML and CSS News for June 2020
 
 ## Browser updates
- 
+
+- [HTML & CSS-related updates for developers in Firefox 77](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/77)
+    + Firefox now displays the label value on an `<option>` element when the element's content is empty. (bug 40545)
+
+- [New in Firefox 77: DevTool improvements and web platform updates](https://hacks.mozilla.org/2020/06/new-in-firefox-77-devtool-improvements-and-web-platform-updates/)
+
+- [HTML & CSS-related updates for developers in Firefox 76](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/76)
+    + The `<input>` element's min and max attributes now work correctly when the value of min is greater than the value of max for control types whose values are periodic (that is, values that wrap around at some point). This is particularly helpful, for example, with date and time inputs, where you might want to specify a time range of 11 PM to 2 AM (bug 1608010).
+    + Firefox now supports CSS4 system colors (bug 1590894).
+
+- [Firefox 76: Audio worklets and other tricks](https://hacks.mozilla.org/2020/05/firefox-76-audio-worklets-and-other-tricks/)
+
+- [Safari Technology Preview 107 released](https://webkit.org/blog/10580/release-notes-for-safari-technology-preview-107/)
+    + Changed the cursor to update during the rendering steps, rather than on a 20ms timer (r261741)
+    + Fixed the computed `min-width` and `min-height` for `auto` depending on the box (r261974)
+    + Fixed `::selection` styling for a flex container (r262049)
+    + Fixed disappearing content with CSS parallax on an overflow scroll (r261837)
+
 - [Safari Technology Preview 106 released](https://webkit.org/blog/10580/release-notes-for-safari-technology-preview-106/)
     + Added support for `:where()` pseudo class (r260319)
     + Fixed `:is()` and `:where()` to not allow pseudo-elements when parsing (r260338)
@@ -64,3 +81,5 @@
 - [Emojis as mask images](https://codepen.io/yuanchuan/pen/vYNQVvj)
 - [Pure CSS Lite Brite, but with CSS Counters](https://codepen.io/RockStarwind/pen/oNjmXpz)
 - [Single div CSS “Six”](https://codepen.io/lynnandtonic/pen/QWjYXqX)
+- [Pure CSS 3D octagonal rings](https://codepen.io/thebabydino/pen/gOaNbNE)
+- [One Div iPad Pro - Responsive](https://codepen.io/anniebombanie/pen/pojmNzN)  
