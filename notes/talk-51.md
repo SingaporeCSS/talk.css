@@ -66,6 +66,7 @@
 - 📝 [Background Patterns, Simplified by Conic Gradients ](https://css-tricks.com/background-patterns-simplified-by-conic-gradients/)
 - 📝 [Web Engine Diversity and Ecosystem Health](https://bkardell.com/blog/EcosystemHealth.html)
 - 📝 [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
+- 🤯 [Pure CSS - Gaze](https://diana-adrianne.com/purecss-gaze/)
 
 ## Cool CodePens
 
