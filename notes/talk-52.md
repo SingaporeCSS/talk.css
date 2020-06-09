@@ -34,3 +34,5 @@
 ## Cool CodePens
 
 - [Birthstone](https://codepen.io/87penginnouta/pen/ZEbvKRz)
+- [CSS Grid: Newspaper Layout](https://codepen.io/oliviale/pen/BaoXOOP) 💙
+- [3D First Person Art Gallery - No Javascript!](https://codepen.io/ivorjetski/pen/gOPOvdB)
