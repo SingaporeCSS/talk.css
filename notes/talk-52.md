@@ -30,6 +30,8 @@
 ## Interesting links
 
 - [Cool Little CSS Grid Tricks for Your Blog](https://css-tricks.com/cool-little-css-grid-tricks-for-your-blog/)
+- [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/)
+- [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 
 ## Cool CodePens
 
