@@ -29,7 +29,7 @@
 
 ## Interesting links
 
-
+- [Cool Little CSS Grid Tricks for Your Blog](https://css-tricks.com/cool-little-css-grid-tricks-for-your-blog/)
 
 ## Cool CodePens
 
