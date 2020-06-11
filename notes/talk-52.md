@@ -29,10 +29,11 @@
 
 ## Interesting links
 
-- [Cool Little CSS Grid Tricks for Your Blog](https://css-tricks.com/cool-little-css-grid-tricks-for-your-blog/)
-- [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/)
-- [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
-- [Creative Background Patterns Using Gradients, CSS Shapes, and Even Emojis](https://css-tricks.com/creative-background-patterns-using-gradients-css-shapes-and-even-emojis/)
+- 📝 [Cool Little CSS Grid Tricks for Your Blog](https://css-tricks.com/cool-little-css-grid-tricks-for-your-blog/)
+- 📝 [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/)
+- 📝 [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
+- 📝 [Creative Background Patterns Using Gradients, CSS Shapes, and Even Emojis](https://css-tricks.com/creative-background-patterns-using-gradients-css-shapes-and-even-emojis/)
+- 💡 [Sorted CSS Colors](https://enes.in/sorted-colors/)
 
 ## Cool CodePens
 
