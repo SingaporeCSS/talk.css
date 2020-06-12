@@ -34,6 +34,9 @@
 - 📝 [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 - 📝 [Creative Background Patterns Using Gradients, CSS Shapes, and Even Emojis](https://css-tricks.com/creative-background-patterns-using-gradients-css-shapes-and-even-emojis/)
 - 💡 [Sorted CSS Colors](https://enes.in/sorted-colors/)
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
+
 
 ## Cool CodePens
 
