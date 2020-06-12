@@ -8,6 +8,8 @@
 
 ## Specifications
 
+- [Web Platform Contribution Guide](https://wpc.guide/)
+
 - [CSS Inline Layout Module Level 3 Working Draft updated](https://www.w3.org/TR/css-inline-3/)
     + defines the CSS Inline Layout model, replacing and extending the model as defined in CSS2.1
     + provides for a flow of elements and text inside of a container to be wrapped into lines
