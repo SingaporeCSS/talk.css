@@ -28,6 +28,8 @@
     + contains the features of CSS relating to scrollable overflow handling in visual media
     + This level is focused on completing a precise specification for the existing overflow features
     + also defines `overflow: clip` and the `overflow-clip-margin` property
+    
+- [Border rounding in CSS](https://crisal.io/words/2020/06/13/rounding-borders.html)
 
 ## Interesting links
 
@@ -38,6 +40,7 @@
 - 💡 [Sorted CSS Colors](https://enes.in/sorted-colors/)
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
+
 
 
 ## Cool CodePens
