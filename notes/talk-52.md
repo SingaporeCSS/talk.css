@@ -6,6 +6,10 @@
 
 - [Safari Technology Preview 108 released](https://webkit.org/blog/10580/release-notes-for-safari-technology-preview-108/)
 
+- [Google confirms experiment to remove full address from URL bar in Chrome, details opt-out mechanism](https://www.androidpolice.com/2020/06/15/google-confirms-experiment-to-remove-full-address-from-url-bar-in-chrome-details-opt-out-mechanism/)
+
+- [Flow browser passes the Acid tests](https://www.ekioh.com/acid.html)
+
 ## Specifications
 
 - [Web Platform Contribution Guide](https://wpc.guide/)
@@ -48,3 +52,6 @@
 - [Birthstone](https://codepen.io/87penginnouta/pen/ZEbvKRz)
 - [CSS Grid: Newspaper Layout](https://codepen.io/oliviale/pen/BaoXOOP) 💙
 - [3D First Person Art Gallery - No Javascript!](https://codepen.io/ivorjetski/pen/gOPOvdB)
+- [CasioPT-1.css](https://codepen.io/fossheim/pen/VweaNYW)
+- [Pure CSS halftone portrait from .jpg source](https://codepen.io/thebabydino/pen/LYGGwrm)
+- [Two element typeface series*](https://codepen.io/chrisota/pen/KKVzZLM)
