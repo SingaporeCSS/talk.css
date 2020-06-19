@@ -4,7 +4,16 @@
 
 - [HTML & CSS-related updates for developers in Firefox 78](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/78)
 
-- [Safari Technology Preview 108 released](https://webkit.org/blog/10580/release-notes-for-safari-technology-preview-108/)
+- [Safari Technology Preview 108 released](https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/)
+    - Changed the calculation to compute the hypothetical cross size of each item in flexbox to use `fit-content`, not `max-content` (r262411)
+    - Changed to allow indefinite size flex items to be definite with respect to resolving percentages inside them (r262124)
+    - Fixed dynamically setting `position: absolute` in a grid item to trigger a relayout of that element (r262481)
+    - Fixed tables as flex items to obey the flex container sizing (r262378)
+    - Fixed styling `::selection` for a flex container (r262049)
+    - Prevented `grid-template-rows` from serializing adjacent `<line-names>` (r262130)
+    - Prevented putting out-of-flow boxes in anonymous flex items or grid items (r262061)
+
+- [Improving Chromium's browser compatibility in 2020](https://blog.chromium.org/2020/06/improving-chromiums-browser.html)
 
 - [Google confirms experiment to remove full address from URL bar in Chrome, details opt-out mechanism](https://www.androidpolice.com/2020/06/15/google-confirms-experiment-to-remove-full-address-from-url-bar-in-chrome-details-opt-out-mechanism/)
 
@@ -43,8 +52,8 @@
 - 📝 [Creative Background Patterns Using Gradients, CSS Shapes, and Even Emojis](https://css-tricks.com/creative-background-patterns-using-gradients-css-shapes-and-even-emojis/)
 - 💡 [Sorted CSS Colors](https://enes.in/sorted-colors/)
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
-- [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
-- [The beauty of progressive enhancement](https://www.matuzo.at/blog/beauty-of-progressive-enhancement/)
+- 📝 [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
+- 📝 [The beauty of progressive enhancement](https://www.matuzo.at/blog/beauty-of-progressive-enhancement/)
 
 
 ## Cool CodePens
