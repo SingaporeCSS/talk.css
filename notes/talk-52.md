@@ -54,6 +54,7 @@
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - 📝 [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
 - 📝 [The beauty of progressive enhancement](https://www.matuzo.at/blog/beauty-of-progressive-enhancement/)
+- [A short guide to reading a CSS specification](https://youtu.be/N2tvZ4P44jY?t=10042)
 
 
 ## Cool CodePens
