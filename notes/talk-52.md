@@ -82,3 +82,6 @@
 - [Pure CSS halftone portrait from .jpg source](https://codepen.io/thebabydino/pen/LYGGwrm)
 - [Two element typeface series*](https://codepen.io/chrisota/pen/KKVzZLM)
 - [CSS photocopied zine effect](https://codepen.io/lynnandtonic/pen/YzwVJYp)
+- [Book Store UI](https://codepen.io/TurkAysenur/pen/JjGKKrP)
+- [CommitSweeper - Pure CSS Game](https://codepen.io/5t3ph/pen/ExPVEZP)
+- [Folding panorama animation](https://codepen.io/bennettfeely/pen/oNbBaxB)
