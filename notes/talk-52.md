@@ -15,6 +15,17 @@
 
 - [What's new for web developers in Safari and Webkit](https://developer.apple.com/videos/play/wwdc2020/10663/)
 
+- [Safari 14 Beta Release Notes](https://developer.apple.com/documentation/safari-release-notes/safari-14-beta-release-notes)
+    - Added Safari Web Extensions support for macOS
+    - Added Webpage Translation (Beta) for English, Spanish, Simplified Chinese, French, German, Russian, and Brazilian Portuguese. Safari will automatically detect if a translation is available based on your Preferred Languages list
+    - Added support for HTTP/3
+    - Improved Web Platform Tests pass rate for WebDriver, XHR+Fetch, Service Workers, CSS, and SVG
+    - Safari no longer supports Flash
+    - Updated `image-set()` to support all other image functions including `image()`, `-webkit-canvas()`, `-webkit-cross-fade()`, and `-webkit-*-gradient()`
+    - Added `:is()` pseudo-selector support as a synonym for `:matches()`
+    - Added `:where()` pseudo-selector support for specificity adjustment
+    - Added support for `image-orientation`
+
 - [Improving Chromium's browser compatibility in 2020](https://blog.chromium.org/2020/06/improving-chromiums-browser.html)
 
 - [Google confirms experiment to remove full address from URL bar in Chrome, details opt-out mechanism](https://www.androidpolice.com/2020/06/15/google-confirms-experiment-to-remove-full-address-from-url-bar-in-chrome-details-opt-out-mechanism/)
@@ -70,3 +81,4 @@
 - [CasioPT-1.css](https://codepen.io/fossheim/pen/VweaNYW)
 - [Pure CSS halftone portrait from .jpg source](https://codepen.io/thebabydino/pen/LYGGwrm)
 - [Two element typeface series*](https://codepen.io/chrisota/pen/KKVzZLM)
+- [CSS photocopied zine effect](https://codepen.io/lynnandtonic/pen/YzwVJYp)
