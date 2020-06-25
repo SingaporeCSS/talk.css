@@ -13,6 +13,8 @@
     - Prevented `grid-template-rows` from serializing adjacent `<line-names>` (r262130)
     - Prevented putting out-of-flow boxes in anonymous flex items or grid items (r262061)
 
+- [What's new for web developers in Safari and Webkit](https://developer.apple.com/videos/play/wwdc2020/10663/)
+
 - [Improving Chromium's browser compatibility in 2020](https://blog.chromium.org/2020/06/improving-chromiums-browser.html)
 
 - [Google confirms experiment to remove full address from URL bar in Chrome, details opt-out mechanism](https://www.androidpolice.com/2020/06/15/google-confirms-experiment-to-remove-full-address-from-url-bar-in-chrome-details-opt-out-mechanism/)
@@ -51,10 +53,13 @@
 - 📝 [The Surprising Things That CSS Can Animate](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 - 📝 [Creative Background Patterns Using Gradients, CSS Shapes, and Even Emojis](https://css-tricks.com/creative-background-patterns-using-gradients-css-shapes-and-even-emojis/)
 - 💡 [Sorted CSS Colors](https://enes.in/sorted-colors/)
-- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- 📝 [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - 📝 [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
 - 📝 [The beauty of progressive enhancement](https://www.matuzo.at/blog/beauty-of-progressive-enhancement/)
-- [A short guide to reading a CSS specification](https://youtu.be/N2tvZ4P44jY?t=10042)
+- 📝 [A short guide to reading a CSS specification](https://youtu.be/N2tvZ4P44jY?t=10042)
+- 📝 [Irregular-shaped Links with Subgrid](https://css-irl.info/irregular-shaped-links-with-subgrid/)
+- 📝 [Accessible to some](https://www.matuzo.at/blog/accessible-to-some/)
+- 📝 [Getting CSS Translate values with JavaScript](https://zellwk.com/blog/css-translate-values-in-javascript/)
 
 
 ## Cool CodePens
