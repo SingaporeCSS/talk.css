@@ -3,6 +3,11 @@
 ## Browser updates
 
 - [HTML & CSS-related updates for developers in Firefox 78](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/78)
+    - The `:is()` and `:where()` pseudo-classes are now enabled by default (bug 1632646)
+    - The `:read-only` and `:read-write` pseudo-classes are now supported without prefixes (bug 312971)
+        - In addition, `:read-write` styles are no longer applied to disabled `<input>` and `<textarea>` elements, which was a violation of the HTML spec (bug 888884)
+
+- [New in Firefox 78: DevTools improvements, new regex engine, and abundant web platform updates](https://hacks.mozilla.org/2020/06/new-in-firefox-78/)
 
 - [Safari Technology Preview 108 released](https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/)
     - Changed the calculation to compute the hypothetical cross size of each item in flexbox to use `fit-content`, not `max-content` (r262411)
@@ -26,7 +31,13 @@
     - Added `:where()` pseudo-selector support for specificity adjustment
     - Added support for `image-orientation`
 
+- [What's New In DevTools (Chrome 85)](https://developers.google.com/web/updates/2020/06/devtools)
+    + Support for the `revert` keyword
+    + Consistent display of the Computed pane
+
 - [Improving Chromium's browser compatibility in 2020](https://blog.chromium.org/2020/06/improving-chromiums-browser.html)
+
+- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
 
 - [Google confirms experiment to remove full address from URL bar in Chrome, details opt-out mechanism](https://www.androidpolice.com/2020/06/15/google-confirms-experiment-to-remove-full-address-from-url-bar-in-chrome-details-opt-out-mechanism/)
 
@@ -71,7 +82,7 @@
 - 📝 [Irregular-shaped Links with Subgrid](https://css-irl.info/irregular-shaped-links-with-subgrid/)
 - 📝 [Accessible to some](https://www.matuzo.at/blog/accessible-to-some/)
 - 📝 [Getting CSS Translate values with JavaScript](https://zellwk.com/blog/css-translate-values-in-javascript/)
-
+- 📝 [When Sass and New CSS Features Collide](https://css-tricks.com/when-sass-and-new-css-features-collide/)
 
 ## Cool CodePens
 
@@ -85,3 +96,4 @@
 - [Book Store UI](https://codepen.io/TurkAysenur/pen/JjGKKrP)
 - [CommitSweeper - Pure CSS Game](https://codepen.io/5t3ph/pen/ExPVEZP)
 - [Folding panorama animation](https://codepen.io/bennettfeely/pen/oNbBaxB)
+- [backdrop-filter: drop-shadow demo](https://codepen.io/cheeaun/full/jOWbVzK) 💙
