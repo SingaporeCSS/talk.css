@@ -68,6 +68,8 @@
     
 - [Border rounding in CSS](https://crisal.io/words/2020/06/13/rounding-borders.html)
 
+- [`display-mode` CSS media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/display-mode)
+
 ## Interesting links
 
 - 📝 [Cool Little CSS Grid Tricks for Your Blog](https://css-tricks.com/cool-little-css-grid-tricks-for-your-blog/)
