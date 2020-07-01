@@ -32,7 +32,7 @@
     - Added support for `image-orientation`
 
 - [What's New In DevTools (Chrome 85)](https://developers.google.com/web/updates/2020/06/devtools)
-    + Support for the `revert` keyword
+    + Style editing for CSS-in-JS frameworks
     + Consistent display of the Computed pane
 
 - [Improving Chromium's browser compatibility in 2020](https://blog.chromium.org/2020/06/improving-chromiums-browser.html)
@@ -97,3 +97,6 @@
 - [CommitSweeper - Pure CSS Game](https://codepen.io/5t3ph/pen/ExPVEZP)
 - [Folding panorama animation](https://codepen.io/bennettfeely/pen/oNbBaxB)
 - [backdrop-filter: drop-shadow demo](https://codepen.io/cheeaun/full/jOWbVzK) 💙
+- [CSS trapper keeper effect](https://codepen.io/lynnandtonic/pen/XWXgwBQ)
+- [Styled Color Input](https://codepen.io/leemartin/pen/ExPXRzx)
+- [CSS Plants](https://codepen.io/poulamic/pen/xxZqZEM)
