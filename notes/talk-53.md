@@ -16,6 +16,7 @@
 - 📝 [Browser font rendering inconsistencies](https://blog.stephaniestimac.com/posts/2020/06/browser-fonts/)
 - 📝 [Accordion Rows in CSS Grid](https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid)
 - 📹 [10 modern layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU)
+- 📝 [The Cicada Principle, revisited with CSS variables](https://lea.verou.me/2020/07/the-cicada-principle-revisited-with-css-variables/)
 
 ## Cool CodePens
 
