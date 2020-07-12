@@ -12,13 +12,13 @@
  😎 | [Talk.CSS #49][49] | 01 Apr 2020 (Wed)  | Online | Colour of the month was `mediumslateblue`
  😎 | [Talk.CSS #50][50] | 06 May 2020 (Wed)  | Online | Colour of the month was `cornflowerblue`
  😎 | [Talk.CSS #51][51] | 03 Jun 2020 (Wed)  | Online | Colour of the month was `lightcoral`
- 🤷‍♀️ | [Talk.CSS #52][52] | 01 Jul 2020 (Wed)  | ⁉️ | DORSCON is still 🟠
- 🤷‍♀️ | [Talk.CSS #53][53] | 05 Aug 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
+ 😎 | [Talk.CSS #52][52] | 01 Jul 2020 (Wed)  | Online | Colour of the month was `mediumblue`
+ 🤷‍♀️ | [Talk.CSS #53][53] | 05 Aug 2020 (Wed)  | ⁉️ | DORSCON is still 🟠
  🤷‍♀️ | [Talk.CSS #54][54] | 02 Sep 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #55][55] | 07 Oct 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
  🤷‍♀️ | [Talk.CSS #56][56] | 04 Nov 2020 (Wed)  | ⁉️ | no speaker, no venue, then how?
 
-😎 - confirmed | 🤷‍♀️ - who knows? | ⁉️ - send help | 🤔 - brainstorming online meetup ideas
+😎 - confirmed | 🤷‍♀️ - who knows? | ⁉️ - send help
 
 [#]: https://singaporecss.github.io/ "TalkCSS"
 [46]: https://singaporecss.github.io/46 "Talk.CSS #46"
@@ -28,7 +28,7 @@
 [50]: https://singaporecss.github.io/50 "Talk.CSS #50"
 [51]: https://singaporecss.github.io/51 "Talk.CSS #51"
 [52]: https://singaporecss.github.io/52 "Talk.CSS #52"
-[53]: javascript:void(0) "Talk.CSS #53"
+[53]: https://singaporecss.github.io/53 "Talk.CSS #53"
 [54]: javascript:void(0) "Talk.CSS #54"
 [55]: javascript:void(0) "Talk.CSS #55"
 [56]: javascript:void(0) "Talk.CSS #56"
