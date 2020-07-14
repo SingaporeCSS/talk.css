@@ -6,6 +6,8 @@
 
 - [Safari Technology Preview 108 released](https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/)
 
+- [Open Prioritization by Igalia](https://www.igalia.com/open-prioritization/)
+
 ## Specifications
 
 
