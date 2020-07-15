@@ -21,6 +21,8 @@
 - 📝 [The Cicada Principle, revisited with CSS variables](https://lea.verou.me/2020/07/the-cicada-principle-revisited-with-css-variables/)
 - 🖥 [Dark Ages of the Web](https://pavellaptev.github.io/web-dark-ages/)
 - 🛠 [pxl](https://pxl.netlify.app/)
+- 🛠 [zerodivs.com](https://zerodivs.com/#/)
+- 📝 [Grids Part 1: To grid or not to grid](https://sarahmhigley.com/writing/grids-part1/)
 
 ## Cool CodePens
 
@@ -29,3 +31,6 @@
 - [Confusion](https://codepen.io/tiffachoo/pen/abdLKaP)
 - [Magical Summer - pure css - #11](https://codepen.io/ig_design/pen/KKVZdPq)
 - [Only CSS: Star Planet](https://codepen.io/YusukeNakaya/pen/LYGOdeE)
+- ['80s Inspired Pure CSS graphics](https://codepen.io/curley/pen/zYrpVXb)
+- [Mickey Mouse (1 element)](https://codepen.io/jkantner/pen/gOPzQjN)
+- [Pure CSS 🥵!!!](https://codepen.io/curley/pen/KKVVpvQ)
