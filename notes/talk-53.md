@@ -10,6 +10,13 @@
 
 ## Specifications
 
+- [CSS Lists Module Level 3 Working Draft updated](https://www.w3.org/TR/css-lists-3/)
+    + defines the `::marker` pseudo-element, the list-item display type that generates markers, and several properties controlling the placement and styling of markers
+    + also defines counters, which are special numerical objects often used to generate the default contents of markers
+
+- [Media Queries Level 5](https://www.w3.org/TR/mediaqueries-5/)
+    + allow authors to test and query values or features of the user agent or display device, independent of the document being rendered
+    + used in the CSS `@media` rule to conditionally apply styles to a document, and in various other contexts and languages, such as HTML and JavaScript
 
 ## Interesting links
 
