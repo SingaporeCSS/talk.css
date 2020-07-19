@@ -30,6 +30,9 @@
 - 🛠 [pxl](https://pxl.netlify.app/)
 - 🛠 [zerodivs.com](https://zerodivs.com/#/)
 - 📝 [Grids Part 1: To grid or not to grid](https://sarahmhigley.com/writing/grids-part1/)
+- 📝 [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+- 📝 [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/)
+- 📝 [What is CSS Specificity?](https://sarahchima.com/blog/css-specificity/)
 
 ## Cool CodePens
 
@@ -41,3 +44,4 @@
 - ['80s Inspired Pure CSS graphics](https://codepen.io/curley/pen/zYrpVXb)
 - [Mickey Mouse (1 element)](https://codepen.io/jkantner/pen/gOPzQjN)
 - [Pure CSS 🥵!!!](https://codepen.io/curley/pen/KKVVpvQ)
+- [glass](https://codepen.io/raczo/pen/xxZyQGo)
