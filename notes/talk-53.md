@@ -33,6 +33,7 @@
 - 📝 [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - 📝 [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/)
 - 📝 [What is CSS Specificity?](https://sarahchima.com/blog/css-specificity/)
+- [Using Flexbox and text ellipsis together](https://leonardofaria.net/2020/07/18/using-flexbox-and-text-ellipsis-together/)
 
 ## Cool CodePens
 
