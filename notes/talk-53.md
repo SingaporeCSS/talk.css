@@ -4,7 +4,11 @@
 
 - [HTML & CSS-related updates for developers in Firefox 79](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/79)
 
+- [Adding prefers-contrast to Firefox](https://hacks.mozilla.org/2020/07/adding-prefers-contrast-to-firefox/)
+
 - [Safari Technology Preview 108 released](https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/)
+
+- [@property: giving superpowers to CSS variables](https://web.dev/at-property/)
 
 - [Open Prioritization by Igalia](https://www.igalia.com/open-prioritization/)
 
@@ -46,3 +50,5 @@
 - [Mickey Mouse (1 element)](https://codepen.io/jkantner/pen/gOPzQjN)
 - [Pure CSS 🥵!!!](https://codepen.io/curley/pen/KKVVpvQ)
 - [glass](https://codepen.io/raczo/pen/xxZyQGo)
+- [CSS leaning card effect](https://codepen.io/lynnandtonic/full/dyGjvLB)
+- [dropplets](https://codepen.io/raczo/full/KKVbQmV)
