@@ -12,6 +12,8 @@
 
 - [Open Prioritization by Igalia](https://www.igalia.com/open-prioritization/)
 
+- [Beta version of CanIUse released](https://beta.caniuse.com/)
+
 ## Specifications
 
 - [CSS Lists Module Level 3 Working Draft updated](https://www.w3.org/TR/css-lists-3/)
@@ -37,7 +39,9 @@
 - 📝 [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - 📝 [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/)
 - 📝 [What is CSS Specificity?](https://sarahchima.com/blog/css-specificity/)
-- [Using Flexbox and text ellipsis together](https://leonardofaria.net/2020/07/18/using-flexbox-and-text-ellipsis-together/)
+- 📝 [Using Flexbox and text ellipsis together](https://leonardofaria.net/2020/07/18/using-flexbox-and-text-ellipsis-together/)
+- 🖥 [css-sweeper from PropJockey](https://github.com/propjockey/css-sweeper)
+- 📝 [Introspecting CSS via the CSS OM: Getting supported properties, shorthands, longhands](https://lea.verou.me/2020/07/introspecting-css-via-the-css-om-getting-supported-properties-shorthands-longhands/)
 
 ## Cool CodePens
 
@@ -52,3 +56,5 @@
 - [glass](https://codepen.io/raczo/pen/xxZyQGo)
 - [CSS leaning card effect](https://codepen.io/lynnandtonic/full/dyGjvLB)
 - [dropplets](https://codepen.io/raczo/full/KKVbQmV)
+- [Pure CSS - Sticky-Stacked Cards](https://codepen.io/enbee81/pen/MWKxrvP)
+- [Rainy Day](https://codepen.io/hexagoncircle/pen/zYrmVqb)
