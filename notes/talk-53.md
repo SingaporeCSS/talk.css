@@ -42,6 +42,8 @@
 - 📝 [Using Flexbox and text ellipsis together](https://leonardofaria.net/2020/07/18/using-flexbox-and-text-ellipsis-together/)
 - 🖥 [css-sweeper from PropJockey](https://github.com/propjockey/css-sweeper)
 - 📝 [Introspecting CSS via the CSS OM: Getting supported properties, shorthands, longhands](https://lea.verou.me/2020/07/introspecting-css-via-the-css-om-getting-supported-properties-shorthands-longhands/)
+- 📝 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
+- 🛠 [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
 
 ## Cool CodePens
 
