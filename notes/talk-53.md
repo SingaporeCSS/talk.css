@@ -6,7 +6,7 @@
 
 - [Adding prefers-contrast to Firefox](https://hacks.mozilla.org/2020/07/adding-prefers-contrast-to-firefox/)
 
-- [Safari Technology Preview 108 released](https://webkit.org/blog/10840/release-notes-for-safari-technology-preview-108/)
+- [Safari Technology Preview 111 released](https://webkit.org/blog/10967/release-notes-for-safari-technology-preview-111/)
 
 - [@property: giving superpowers to CSS variables](https://web.dev/at-property/)
 
