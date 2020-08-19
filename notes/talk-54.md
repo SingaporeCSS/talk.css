@@ -25,6 +25,8 @@
 - [Create an animated 3D book in CSS, step by step](https://scastiel.dev/posts/2020-07-23-animated-3d-book-css/)
 - [Computed Values: More Than Meets the Eye](https://css-tricks.com/computed-values-more-than-meets-the-eye/)
 - [Designing Adaptive Components, Beyond Responsive Breakpoints](https://stephaniewalter.design/blog/designing-adaptive-components-beyond-responsive-breakpoints/)
+- [Some CSS comics](https://jvns.ca/blog/2020/07/25/some-comics-about-css/)
+- [What Happens When Border Radii Overlap?](https://css-tricks.com/what-happens-when-border-radii-overlap/)
 
 ## Cool CodePens
 
@@ -32,3 +34,4 @@
 - [CSS Mastermind](https://codepen.io/alvaromontoro/pen/YzwbgwE)
 - [Details element for help text](https://codepen.io/NielsVoogt/pen/PoZqzGx)
 - [CSS Scrolling Phone](https://codepen.io/Octavector/pen/jOqExNp)
+- [London Bus (Pure CSS)](https://codepen.io/ykadosh/pen/YzqyYGy)
