@@ -7,6 +7,11 @@
 
 ## Specifications
 
+- [CSS Cascading and Inheritance Level 3](https://www.w3.org/TR/css-cascade-3/)
+    + describes how to collate style rules and assign values to all properties on all elements
+    + the cascading and defaulting process takes a set of declarations as input, and outputs a specified value for each property on each element
+    + the rules for finding the specified value for all properties on all elements in the document are described in this specification
+
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 
 ## Interesting links
