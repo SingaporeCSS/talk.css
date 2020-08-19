@@ -7,10 +7,15 @@
 
 ## Specifications
 
-- [CSS Cascading and Inheritance Level 3](https://www.w3.org/TR/css-cascade-3/)
+- [CSS Cascading and Inheritance Level 3 CR updated](https://www.w3.org/TR/css-cascade-3/), [Level 4 WD updated]()
     + describes how to collate style rules and assign values to all properties on all elements
     + the cascading and defaulting process takes a set of declarations as input, and outputs a specified value for each property on each element
     + the rules for finding the specified value for all properties on all elements in the document are described in this specification
+    
+- [CSS Grid Layout Module Level 1 CR updated](https://www.w3.org/TR/css-grid-1/), [Level 2 CR published](https://www.w3.org/TR/css-grid-2/)
+    + defines a two-dimensional grid-based layout system, optimized for user interface design
+    + the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid
+    + Level 2 expands Grid by adding “subgrid” capabilities for nested grids to participate in the sizing of their parent grids
 
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 
