@@ -19,6 +19,8 @@
 
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 
+- [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
+
 ## Interesting links
 
 - [Rethinking Accessible Drop Caps](https://justingagne.design/words/rethinking-accessible-drop-caps/)
