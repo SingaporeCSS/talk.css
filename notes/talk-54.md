@@ -35,3 +35,4 @@
 - [Details element for help text](https://codepen.io/NielsVoogt/pen/PoZqzGx)
 - [CSS Scrolling Phone](https://codepen.io/Octavector/pen/jOqExNp)
 - [London Bus (Pure CSS)](https://codepen.io/ykadosh/pen/YzqyYGy)
+- [Only CSS: Summer Dream](https://codepen.io/YusukeNakaya/pen/mdVZLmY)
