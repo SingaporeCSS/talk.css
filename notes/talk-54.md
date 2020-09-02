@@ -21,6 +21,8 @@
 
 - [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 
+- [Why CSS ::before doesn’t work on inputs and images](https://webplatform.news/issues/2020-08-26)
+
 ## Interesting links
 
 - [Rethinking Accessible Drop Caps](https://justingagne.design/words/rethinking-accessible-drop-caps/)
@@ -29,6 +31,9 @@
 - [Designing Adaptive Components, Beyond Responsive Breakpoints](https://stephaniewalter.design/blog/designing-adaptive-components-beyond-responsive-breakpoints/)
 - [Some CSS comics](https://jvns.ca/blog/2020/07/25/some-comics-about-css/)
 - [What Happens When Border Radii Overlap?](https://css-tricks.com/what-happens-when-border-radii-overlap/)
+- [The Thing With Leading in CSS](https://matthiasott.com/notes/the-thing-with-leading-in-css)
+- [The difference between aria-label and aria-labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
+- [CSS 3D Adventure](https://pantel.is/projects/css3d/)
 
 ## Cool CodePens
 
@@ -38,3 +43,4 @@
 - [CSS Scrolling Phone](https://codepen.io/Octavector/pen/jOqExNp)
 - [London Bus (Pure CSS)](https://codepen.io/ykadosh/pen/YzqyYGy)
 - [Only CSS: Summer Dream](https://codepen.io/YusukeNakaya/pen/mdVZLmY)
+- [Create blurred fills for images with aspect ratio containers in CSS](https://codepen.io/MartijnCuppens/pen/NWNdOBR)
