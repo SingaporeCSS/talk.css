@@ -3,9 +3,12 @@
 ## Browser updates
 
 - [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
+- [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
+- 
 
 ## Specifications
 
+- [Summarized test results: CSS Logical](https://w3c.github.io/i18n-tests/results/css-logical.html)
 
 ## Interesting links
 
@@ -19,6 +22,8 @@
 - [Accessible Color Standards - Designing in the Browser](https://youtu.be/sEDnmNtEaqQ)
 - [Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-progressive-enhancement/)
 - [How to detect fullscreen mode using CSS](https://www.amitmerchant.com/how-to-detect-fullscreen-mode-using-css/)
+- [Lessons Learned from Sixty Days of Re-Animating Zombies with Hand-Coded CSS](https://css-tricks.com/lessons-learned-from-sixty-days-of-re-animating-zombies-with-hand-coded-css/)
+- [How to tell browsers that your site supports color-schemes](https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes/)
 
 ## Cool CodePens
 
@@ -28,3 +33,5 @@
 - [Day and Night: CSS Transitions and animations explained](https://codepen.io/stephaniewalter/pen/xxVgReM)
 - [3D Modern House - Pure CSS](https://codepen.io/ricardoolivaalonso/pen/yLOpNdZ)
 - [3D Room | Pure CSS](https://codepen.io/ricardoolivaalonso/full/mdPzrpe)
+- [scss yoshi 🦖🍄](https://codepen.io/louflan/pen/KKzQVEN)
+- [Grid-Based Blog Index Page Layout 🌷](https://codepen.io/sheelah/pen/abNqvBz)
