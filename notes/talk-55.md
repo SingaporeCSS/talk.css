@@ -4,7 +4,7 @@
 
 - [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
-- 
+- [Emulate vision deficiencies in DevTools](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)
 
 ## Specifications
 
@@ -24,6 +24,7 @@
 - [How to detect fullscreen mode using CSS](https://www.amitmerchant.com/how-to-detect-fullscreen-mode-using-css/)
 - [Lessons Learned from Sixty Days of Re-Animating Zombies with Hand-Coded CSS](https://css-tricks.com/lessons-learned-from-sixty-days-of-re-animating-zombies-with-hand-coded-css/)
 - [How to tell browsers that your site supports color-schemes](https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes/)
+- [How screen readers navigate data tables](https://tink.uk/how-screen-readers-navigate-data-tables/)
 
 ## Cool CodePens
 
@@ -35,3 +36,7 @@
 - [3D Room | Pure CSS](https://codepen.io/ricardoolivaalonso/full/mdPzrpe)
 - [scss yoshi 🦖🍄](https://codepen.io/louflan/pen/KKzQVEN)
 - [Grid-Based Blog Index Page Layout 🌷](https://codepen.io/sheelah/pen/abNqvBz)
+- [Single div CSS hot sauce](https://codepen.io/lynnandtonic/pen/mdPZjxb)
+- [Koi fish](https://codepen.io/alvaromontoro/pen/MWyReEq)
+- [Project: CSS Grid + Flexbox](https://codepen.io/nabilkaz/pen/pozEyLr)
+- [🎮 CSS Nintendo Switch (Box shadow + Gradient practice)](https://codepen.io/cybercountess/pen/PoNXEqL)
