@@ -2,6 +2,31 @@
 
 ## Browser updates
 
+- [HTML & CSS-related updates for developers in Firefox 81](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/81)
+    - The value of clip for the `overflow` property is now supported, renaming `overflow:-moz-hidden-unscrollable`. (bug 1531609)
+    - The `text-combine-upright` property is made non-animatable to comply with the spec. (bug 1654195)
+
+- [Safari Technology Preview 113 released](https://developer.apple.com/safari/technology-preview/release-notes/)
+    - Changed to apply aspect ratios when computing `flex-basis`
+    - Fixed updating `min-height: auto` after an image loads when the image has a specified height and width
+    - Fixed `@font-face font-weight` descriptor to reject bolder and lighter
+    - Fixed the CSS specificity of `:host()` pseudo-classes
+    - Updated to avoid triggering redundant compositing updates when trying to run a `steps()` animation on transform
+    - Fixed inconsistent spacing of Chinese characters in Safari for macOS Big Sur
+
+- [Closing the gap (in flexbox 😇)](https://blogs.igalia.com/svillar/2020/10/01/closing-the-gap-in-flexbox/)
+
+- [HTML & CSS-related updates for developers in Chrome 86](https://developers.google.com/web/updates/2020/10/nic86)
+    - Use `:focus-visible` to opt-in to the same heuristic the browser uses when it's deciding whether to display the default focus indicator.
+    - Can customise the colour, size, or type of number or bullet for lists with the `::marker` pseudo-element.
+
+- [What's new in Chrome DevTools 87](https://developers.google.com/web/updates/2020/10/devtools)
+    - New CSS Grid debugging tools
+        + Similar to Firefox DevTools, now there's a Layout pane
+    - View the Computed sidebar pane in the Styles pane
+    - Grouping CSS properties in the Computed pane
+    - [Experimental] View and fix color contrast issues in the CSS Overview panel
+
 - [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
 - [Emulate vision deficiencies in DevTools](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)
@@ -25,6 +50,8 @@
 - [Lessons Learned from Sixty Days of Re-Animating Zombies with Hand-Coded CSS](https://css-tricks.com/lessons-learned-from-sixty-days-of-re-animating-zombies-with-hand-coded-css/)
 - [How to tell browsers that your site supports color-schemes](https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes/)
 - [How screen readers navigate data tables](https://tink.uk/how-screen-readers-navigate-data-tables/)
+- [Build a responsive media browser with CSS](https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css/)
+- [Accessible Web Animation: The WCAG on Animation Explained](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/)
 
 ## Cool CodePens
 
