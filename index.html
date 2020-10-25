@@ -8,6 +8,41 @@
   <meta name="author" content="SingaporeCSS">
 
   <link rel="stylesheet" href="styles.css">
+  <style>
+  #slide1 {
+    background: url('img/cats.png') no-repeat center;
+    background-size: cover;
+  }
+
+  .party-grid {
+    display: grid;
+    grid-template-columns: 25vw 25vw;
+    grid-template-rows: 30vh 30vh;
+    grid-template-areas: "logo turns"
+                          "logo age";
+    justify-content: center;
+  }
+
+  img {
+    grid-area: logo;
+  }
+
+  span:nth-child(2) {
+    grid-area: turns;
+  }
+
+  p:nth-child(3) {
+    grid-area: age;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .gilbert {
+    font-family: 'Gilbert', 'Gilbert Color Bold Preview5';
+    font-size: 600%;
+  }
+  </style>
 
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -25,25 +60,30 @@
 
 <body>
   <section id="slide1">
-    <div class="o-content">
-      <img src="img/mask-logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
+    <div class="o-wrapper">
+      <div class="party-grid">
+        <img src="../img/party-logo.svg" alt="SingaporeCSS logo" class="c-logo-main">
+        <span class="gilbert">turns</span>
+        <p>
+          <span class="gilbert">5!</span>
+          <span class="o-emoji">🎂</span>
+        </p>
+      </div>
       <p><a href="https://twitter.com/singaporecss">@SingaporeCSS</a></p>
       <p><a href="http://twitter.com/intent/tweet?text=%23TalkCSS">#TalkCSS</a></p>
     </div>
     <a class="o-controls" href="#slide2">Next</a>
   </section>
 
-  <section class="slide" id="slide2">
-    <div class="o-content">
+  <section id="slide2">
+    <div class="o-wrapper">
       <h1>Join us</h1>
-      <img src="img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
-      <p><a href="https://singaporecss.github.io">https://singaporecss.github.io</a></p>
-      <p><a href="https://tinyletter.com/SingaporeCSS">https://tinyletter.com/SingaporeCSS</a></p>
+      <img src="../img/logo.svg" alt="SingaporeCSS logo" class="c-logo-small">
+      <p><a href="https://gitter.im/Singapore-CSS/discussions">https://gitter.im/Singapore-CSS/discussions</a></p>
+      <p><a href="http://singaporecss.github.io">http://singaporecss.github.io</a></p>
     </div>
-    <div class="o-controls">
-      <a href="#slide1">Back</a>
-      <a href="#slide3">Next</a>
-    </div>
+    <a class="o-controls" href="#slide1">Back</a>
+    <a class="o-controls" href="#slide3">Next</a>
   </section>
 
   <section class="slide" id="slide3">
@@ -128,8 +168,7 @@
       <small style="font-style:italic">(Order subject to change)</small>
       <ul style="list-style:none">
         <li><span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span> HTML and CSS news of the month <span class="o-emoji" role="img" tabindex="0" aria-label="fire">&#x1F525;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="hugging hands">&#x1F450;</span> On auto sizes in Grid Layout <span class="emoji" role="img" tabindex="0" aria-label="hugging hands">&#x1F450;</span></li>
-        <li><span class="emoji" role="img" tabindex="0" aria-label="bar chart">&#x1F4CA;</span> Responsive JSXGraph graphs (replacing Javascript with CSS) <span class="emoji" role="img" tabindex="0" aria-label="bar chart">&#x1F4CA;</span></li>
+        <li><span class="emoji" role="img" tabindex="0" aria-label="framed picture">&#x1F5BC;&#xFE0F;</span> Designing in the background <span class="emoji" role="img" tabindex="0" aria-label="framed picture">&#x1F5BC;&#xFE0F;</span></li>
       </ul>
     </div>
     <div class="o-controls">
@@ -166,11 +205,24 @@
 
   <section class="slide" id="slide11">
     <div class="o-content">
+      <h1 class="gilbert" style="line-height:0">Thank you</h1>
+      <p style="font-size:275%;margin-bottom:0"><span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="emoji" role="img" tabindex="0" aria-label="orange heart">&#x1F9E1;</span><span class="emoji" role="img" tabindex="0" aria-label="yellow heart">&#x1F49B;</span><span class="emoji" role="img" tabindex="0" aria-label="green heart">&#x1F49A;</span><span class="emoji" role="img" tabindex="0" aria-label="blue heart">&#x1F499;</span><span class="emoji" role="img" tabindex="0" aria-label="purple heart">&#x1F49C;</span></p>
+      <p style="font-size:200%">No you, no us.</p>
+      <p>P.S. We are SingaporeCSS, anyhowly also got standard wan</p>
+    </div>
+    <div class="o-controls">
+      <a href="#slide10">Back</a>
+      <a href="#slide12">Next</a>
+    </div>
+  </section>
+
+  <section class="slide" id="slide12">
+    <div class="o-content">
       <h1 style="line-height:1.3">🧼 Wash your hands 🧼<br>❌😱 Don't touch your face 😱❌<br>🙅‍♀️ (or other people) 🙅‍♀️</h1>
       <p>kthxbye</p>
     </div>
     <div class="o-controls">
-      <a href="#slide10">Back</a>
+      <a href="#slide11">Back</a>
     </div>
   </section>
 
