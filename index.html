@@ -14,33 +14,46 @@
     background-size: cover;
   }
 
-  .party-grid {
-    display: grid;
-    grid-template-columns: 25vw 25vw;
-    grid-template-rows: 30vh 30vh;
-    grid-template-areas: "logo turns"
-                          "logo age";
-    justify-content: center;
-  }
-
-  img {
-    grid-area: logo;
-  }
-
-  span:nth-child(2) {
-    grid-area: turns;
-  }
-
-  p:nth-child(3) {
-    grid-area: age;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-  }
-
   .gilbert {
     font-family: 'Gilbert', 'Gilbert Color Bold Preview5';
     font-size: 600%;
+  }
+
+  .closing {
+    line-height: 0.75;
+    margin-bottom: 0;
+  }
+
+  @media screen and (min-aspect-ratio: 1/1) {
+    .party-grid {
+      display: grid;
+      grid-template-columns: 25vw max-content;
+      grid-template-rows: 30vh 30vh;
+      grid-template-areas: "logo turns"
+                            "logo age";
+      justify-content: center;
+    }
+
+    img {
+      grid-area: logo;
+      align-self: center;
+    }
+
+    span:nth-child(2) {
+      grid-area: turns;
+    }
+
+    p:nth-child(3) {
+      grid-area: age;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+    }
+
+    .closing {
+      line-height: 0;
+      margin-bottom: 1em;
+    }
   }
   </style>
 
@@ -66,7 +79,7 @@
         <span class="gilbert">turns</span>
         <p>
           <span class="gilbert">5!</span>
-          <span class="o-emoji">🎂</span>
+          <span class="o-emoji" style="font-size:500%">🎂</span>
         </p>
       </div>
       <p><a href="https://twitter.com/singaporecss">@SingaporeCSS</a></p>
@@ -208,7 +221,7 @@
 
   <section class="slide" id="slide11">
     <div class="o-content">
-      <h1 class="gilbert" style="line-height:0">Thank you</h1>
+      <h1 class="gilbert closing">Thank you</h1>
       <p style="font-size:275%;margin-bottom:0"><span class="emoji" role="img" tabindex="0" aria-label="red heart">&#x2764;&#xFE0F;</span><span class="emoji" role="img" tabindex="0" aria-label="orange heart">&#x1F9E1;</span><span class="emoji" role="img" tabindex="0" aria-label="yellow heart">&#x1F49B;</span><span class="emoji" role="img" tabindex="0" aria-label="green heart">&#x1F49A;</span><span class="emoji" role="img" tabindex="0" aria-label="blue heart">&#x1F499;</span><span class="emoji" role="img" tabindex="0" aria-label="purple heart">&#x1F49C;</span></p>
       <p style="font-size:200%">No you, no us.</p>
       <p>P.S. We are SingaporeCSS, anyhowly also got standard wan</p>
