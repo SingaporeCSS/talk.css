@@ -1,9 +1,11 @@
 const gulp        = require('gulp');
 const browserSync = require('browser-sync');
-const sass        = require('gulp-sass');
+const sass        = require('@selfisekai/gulp-sass');
 const prefix      = require('gulp-autoprefixer');
 const concat      = require('gulp-concat');
 const babel       = require('gulp-babel');
+
+sass.compiler = require('sass');
 
 const startServer = (done) => {
   browserSync.init({
