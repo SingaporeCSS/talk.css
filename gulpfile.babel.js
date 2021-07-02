@@ -1,7 +1,8 @@
 const gulp        = require('gulp');
 const browserSync = require('browser-sync');
 const sass        = require('@selfisekai/gulp-sass');
-const prefix      = require('gulp-autoprefixer');
+const postcss      = require('gulp-postcss');
+const autoprefixer = require('autoprefixer');
 const concat      = require('gulp-concat');
 const babel       = require('gulp-babel');
 
@@ -31,12 +32,15 @@ const compileScripts = () => {
 }
 
 const compileStyles = () => {
+  const plugins = [
+    autoprefixer()
+  ]
   return gulp.src('scss/styles.scss')
   .pipe(sass({
     includePaths: ['scss'],
     onError: browserSync.notify
   }))
-  .pipe(prefix(['last 2 versions'], { cascade: true }))
+  .pipe(postcss(plugins))
   .pipe(gulp.dest('./'))
   .pipe(browserSync.reload({ stream:true }))
 }
